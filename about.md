@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+¿Quién somos?
 
-### More Information
+### El Imperio de las Vacas!
 
-A place to include any other types of information that you'd like to include about yourself.
+Somos un grupo de vacas aficionadas al mundo de los videos, nos gustan de todo tipo.
 
-### Contact me
+Videos de humor, divertidos, Documentales completos, reviews, Youtubers, virales y sobre todo, videos de gatitos.
 
-[email@domain.com](mailto:email@domain.com)
+Somos vacas entusiastas!
+
+##### Síguenos al monte, que al monte vamos!
+
+### Contacto
+
+[vacaceo@gmail.com](mailto:vacaceo@gmail.com)
