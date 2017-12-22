@@ -68,7 +68,20 @@
 	</div><!-- /#page -->
 	
 		<!-- Out of page
-		================================================== -->	
+		================================================== -->
+		
+		<!-- Tools switcher -->  		
+  		<div id="tools-switcher">
+  			<label for="tools-check" data-title="Tools" class="pophover">+</label>
+  		</div>
+		<!-- Tools nav -->
+		<input type="checkbox" id="tools-check" name="tools" aria-hidden="true" hidden>
+		<nav id="tools-nav">
+			<label for="tools-check" id="label-tools" data-title="Close" class="pophover">x</label>
+			<label for="theme-dark" id="label-dark" data-title="Dark theme" class="pophover"></label>
+			<label for="theme-soft" id="label-soft" data-title="Soft theme" class="pophover"></label>
+			<label for="theme-light" id="label-light" data-title="Light theme" class="pophover"></label>
+		</nav>	
     {% include partials/dialog.html %}  
     {% include partials/rights.html %}  
 
