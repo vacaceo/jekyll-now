@@ -28,8 +28,7 @@ h3 a:hover {color: var(--color-link); text-decoration:none;}
 
 /* nav Scroll */
 .nav-scroll label {font-size: 11px;line-height: 12px;padding: 10px;font-weight: normal;}
-.nav-scroll label.non-click {cursor: default ;}
-.nav-scroll label img {width: 18px;height: 18px;margin-bottom: 8px;}
+.nav-scroll label b {font-size:25px;line-height:32px;font-weight:lighter;}
 .nav-scroll label:hover {border:thin solid transparent;color:var(--color-black);text-decoration:none;}
 
 /* Simple, List, Table, Gallery, Cards, Tiles */
