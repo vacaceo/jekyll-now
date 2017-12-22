@@ -1,13 +1,20 @@
 			<nav id="site-nav" class="nav-smart">
 				<div>
+					<a class="site-logo" href="index.html" title="Videos Manguis: Inicio">
+						<img src="{{ site.baseurl }}/hipertextos/brand/icon.jpg" alt="Videos Manguis logo">
+					</a>
 					<input type="checkbox" id="mobnav" name="mobnav" aria-hidden="true" hidden> 
 					<strong><label for="mobnav">Menú<mark></mark></label></strong>
 					<div hidden>
-					<a href="{{ site.baseurl }}/serveis/" title="Serveis Gráfics">Serveis</a>	
-					<a href="{{ site.baseurl }}/portfoli/" title="Treballs i creacions gràfiques">Portfoli</a>
-					<a href="{{ site.baseurl }}/" title="Pàgina Principal" id="current-nav"><b>{{ site.name }}</b></a>
-					<a href="{{ site.baseurl }}/blog/" title="Blog personal">Blog</a>
-					<a href="{{ site.baseurl }}/about/" title="Informació i Contacte">Contacte</a>	
+						<a href="{{ site.baseurl }}/" title="BarcelonaCSS" id="current-nav">{{ site.name }}</a>
+						<a href="http://imperio.{{ site.baseurl }}" title="Imperio Vacuno">Imperio</a>
+						<a href="{{ site.baseurl }}/about/" title="Sobre las Vacas Manguis">Nosotras</a>
+						<a href="extras.html" title="Extras">Extras</a>
+						<form action="http://www.google.com/cse"> 
+							<input type="hidden" name="cx" value="GoogleCSEID"> 
+							<input type="text" name="q" placeholder="cerca"> 
+							<input type="submit" name="sa" value="·"> 
+						</form>
 					</div>
 				 </div>
 			</nav>
