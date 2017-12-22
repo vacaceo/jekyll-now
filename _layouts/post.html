@@ -2,15 +2,26 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-</article>
+  	{% include partials/navigation/nav-article.html %}
+    <main id="page-main" role="main">
+		<header id="post-header" class="anm-moveFromLeft delay-100">
+				<h1 id="post-title" class="anm-moveFromBottomFade delay-1000">{{ page.title }}</h1>
+		</header>
+		<div>
+			<article id="post-video" class="post anm-fadeIn delay-1000">
+				<div id="entry">
+					<figure id="post-img">
+						<a href="../{{ page.img }}" data-lightbox="roadtrip"><img src="../{{ page.img }}"></a>
+					</figure>
+	    			{{ content }}
+				</div>
+				<em><hr></em>
+				<aside id="post-share">
+					{% include share.html %}
+				</aside>
+				<div id="date">
+    				<p>Publicat el {{ page.date | date: "%e %B , %Y" }}</p>
+  				</div>
+			</article>
+		</div>
+	</main>
