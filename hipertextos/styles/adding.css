@@ -17,8 +17,8 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 p, ul {font-size: 18px;line-height: 27px;}
 main {padding-bottom:0!important;}
 #page-header.cover {background-image: url("/img/texture/videosmanguis.gif");background-color:var(--color-black);background-size:180px 180px;background-repeat: repeat;image-rendering: crisp-edges;}
-#cover-logo {position:absolute;top:15px;left:44.75%;z-index:-1;}
-img#cover-logo {max-width:200px!important;}
+#cover-logo {position:fixed;top:160px;left:44%;z-index:-1;}
+img#cover-logo {max-width:230px!important;height:auto;}
 .text-left {text-align:left;}
 .text-right {text-align:right;}
 em hr {border-bottom:thin solid #eee;}	
