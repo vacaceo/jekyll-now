@@ -513,7 +513,7 @@
 /* Scroll navigation */
 
 .nav-scroll div {
-	height: 64px;
+	height: 69px;
 	overflow-x: auto;
 	white-space: nowrap;
 	-webkit-overflow-scrolling: touch;
