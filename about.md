@@ -1,21 +1,30 @@
 ---
-layout: page
-title: About
+layout: about
+title: Contacte
 permalink: /about/
+
 ---
 
-¿Quién somos?
+###### Il·lustrador, dissenyador i músic de Barcelona
 
-### El Imperio de las Vacas!
+Vaig estudiar Arts Aplicades, il·lustració, pintura i posteriorment música moderna.
 
-Somos un grupo de vacas aficionadas al mundo de los videos, nos gustan de todo tipo.
+Actualment compagino la vida de creatiu gràfic amb la de músic.
 
-Videos de humor, divertidos, Documentales completos, reviews, Youtubers, virales y sobre todo, videos de gatitos.
 
-Somos vacas entusiastas!
+He treballat en:
 
-##### Síguenos al monte, que al monte vamos!
+* Disseny Gràfic
+* Cartells & flyers
+* Branding
+* Retratísta
+* HTML5 & CSS3
+* Publicitat
+* Comunity Manager
+* YouTube Creators
+* Promoció Cultural
+* Tècnic de So
+* Tècnic de llums
+* Baterísta profesional
 
-### Contacto
-
-[vacaceo@gmail.com](mailto:vacaceo@gmail.com)
+Si em necessites per a algún projecte, serà un plaer poder ajudar-te.
