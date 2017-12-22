@@ -1078,7 +1078,7 @@ nav label:hover {
 }
 #theme-soft:checked ~ #page a:visited,
 #theme-soft:checked ~ #page em a:visited {
-	color: var(--color-orange);
+	color: var(--color-softgrey);
 }
 #theme-soft:checked ~ #page a:visited svg {
 	fill: var(--color-red);
@@ -1086,21 +1086,21 @@ nav label:hover {
 #theme-soft:checked ~ #page nav label:hover,
 #theme-soft:checked ~ #page a:hover,
 #theme-soft:checked ~ #page a:visited:hover {
-	color: var(--color-blue);
+	color: var(--color-red);
 }
 #theme-soft:checked ~ #page a:hover svg {
-	fill: var(--color-blue);
+	fill: var(--color-white);
 }
 #theme-soft:checked ~ #page a:active,
 #theme-soft:checked ~ #page a:visited:active {
-	color: var(--color-violet);
+	color: var(--color-red);
 }
 #theme-soft:checked ~ #page a:visited:active svg {
-	fill: var(--color-violet);
+	fill: var(--color-red);
 }
 #theme-soft:checked ~ #page nav a:hover,
 #theme-soft:checked ~ #page nav label:hover {
-	background-color: var(--color-translucentwhite);
+	background-color: transparent;
 }
 
 /* Dark theme */
