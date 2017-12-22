@@ -31,20 +31,6 @@ h3 a:hover {color: var(--color-link); text-decoration:none;}
 .nav-scroll label b {font-size:25px;line-height:32px;font-weight:lighter;}
 .nav-scroll label:hover {border:thin solid transparent;color:var(--color-black);text-decoration:none;}
 
-/* Simple, List, Table, Gallery, Cards, Tiles */
-.simple em u a,
-#layout-simple:checked ~ #layout-result em u a {
-    padding: 6px;border: 2px solid var(--color-hardgrey);
-    color: var(--color-hardgrey);border-radius: 40px;
-    width: 210px;margin-top: 23px;}
-.simple em u a :hover,
-#layout-simple:checked ~ #layout-result em u a:hover {
-    color: var(--color-link);border: 2px solid var(--color-link); 
-}
-.simple em u svg,
-#layout-simple:checked ~ #layout-result em u svg {
-    width: 21px;}
-
 /* Suscribe */
 form .button {border:thin solid currentColor;margin-top:0.6em;}
 
