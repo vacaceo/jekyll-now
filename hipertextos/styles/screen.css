@@ -1064,7 +1064,8 @@ nav label:hover {
 #theme-soft:checked ~ #page,
 #theme-soft:checked ~ #site-nav,
 #theme-soft:checked ~ #page-nav {
-	
+	background-color: var(--color-soft);
+	color: var(--color-softtext);	
 }
 #theme-soft:checked ~ #page a {
 	color: var(--color-softblue);	
