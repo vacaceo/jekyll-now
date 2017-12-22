@@ -13,21 +13,7 @@
 	line-height: 16px;
 }
 
-
-.simple em u a,
-#layout-simple:checked ~ #layout-result em u a {
-    padding: 6px;border: 2px solid var(--color-hardgrey);
-    color: var(--color-hardgrey);border-radius: 40px;
-    width: 210px;margin-top: 23px;}
-.simple em u a :hover,
-#layout-simple:checked ~ #layout-result em u a:hover {
-    color: var(--color-link);border: 2px solid var(--color-link); 
-}
-.simple em u svg,
-#layout-simple:checked ~ #layout-result em u svg {
-    width: 21px;}
-    
-    
+ 
 /* Simple view */
 
 .simple article,
@@ -46,7 +32,7 @@
 }
 .simple article strong,
 #layout-simple:checked ~ #layout-result article strong {
-	margin: 0;background:var(--color-blue);right:0;padding:6px 12px 9px 12px;position:absolute;margin-top:5px;color:#fff;margin-right: 8px;border-radius: 3px;
+	margin: 0;background:var(--color-hard-grey);right:0;padding:6px 12px 9px 12px;position:absolute;margin-top:5px;color:#fff;margin-right: 8px;border-radius: 3px;
 }
 .simple article div,
 #layout-simple:checked ~ #layout-result article div {
@@ -74,6 +60,17 @@
 	width: 69px;
 }
 
+.simple em u a,
+#layout-simple:checked ~ #layout-result em u a {
+    padding: 6px;border: 2px solid var(--color-hardgrey);
+    color: var(--color-hardgrey);border-radius: 40px;
+    width: 210px;margin-top: 23px;}
+.simple em u a :hover,
+#layout-simple:checked ~ #layout-result em u a:hover {
+    color: var(--color-link);border: 2px solid var(--color-link); 
+}
+    
+   
 /* List view */
 
 .list article,
