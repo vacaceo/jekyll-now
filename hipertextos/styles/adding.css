@@ -32,7 +32,7 @@ section.cover-justify p {padding: 6px 18px 0 18px;line-height: 23px;font-size: 1
 .cover#page-header  {background-color: var(--color-white);}
 .serveis-header {border-bottom:10px solid var(--color-hardgrey);background-color: var(--color-black);color: var(--color-hardgrey);}
 .medias#page-header {border-bottom:10px solid var(--color-grey);background-color: var(--color-softgrey);color: var(--color-grey);}
-.head-band {height: 16vh!important;padding-top: 8px;}
+.head-band {height: 18vh!important;padding-top: 10px;}
 .img-bolo#back-header {-webkit-filter:blur(32px);filter:blur(32px);max-height:230px;min-width:100%;opacity:.75;
     background-position:;position: top center;position:absolute;top:0;left:0;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;text-align: center; }
 #icons a {border:thin solid var(--color-soft);background: transparent;border-radius:50%;}
