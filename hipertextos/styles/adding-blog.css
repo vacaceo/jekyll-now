@@ -45,74 +45,7 @@ h3 a:hover {color: var(--color-link); text-decoration:none;}
 .simple em u svg,
 #layout-simple:checked ~ #layout-result em u svg {
     width: 21px;}
-.simple #link-comment,
-#layout-simple:checked ~ #layout-result #link-comment {
-    float: right;font-size:17px;border-bottom:thin solid currentcolor;
-    position: absolute;color:var(--color-hardgrey);
-    right: 0;text-decoration:none;
-    bottom: 6px;
-}
-.simple #link-comment:hover,
-#layout-simple:checked ~ #layout-result #link-comment:hover {
-    border-bottom:thin solid currentcolor;
-    color:var(--color-link);
-}
-.list em u a,
-#layout-list:checked ~ #layout-result em u a {
-    padding: 3px;font-size:15px;line-height:27px;
-    border: 1px solid var(--color-hardgrey);
-    color: var(--color-hardgrey);
-    border-radius: 40px;
-    width: 169px;
-    margin-top: 21px;}
-.list em u a :hover,
-#layout-list:checked ~ #layout-result em u a:hover {
-    color: var(--color-link);border: thin solid var(--color-link); 
-}
-.list em u svg,
-#layout-list:checked ~ #layout-result em u svg {
-    width: 15px;padding:5px 0 0 0;
-}
-.list #link-comment,
-#layout-list:checked ~ #layout-result #link-comment {
-    float: right;font-size:17px;border-bottom:thin solid currentcolor;
-    position: absolute;color:var(--color-hardgrey);
-    right: 0;text-decoration:none;
-    bottom: 6px;
-}
-.list #link-comment:hover,
-#layout-list:checked ~ #layout-result #link-comment:hover {
-    border-bottom:thin solid currentcolor;
-    color:var(--color-link);
-}
-.table #link-comment,
-#layout-table:checked ~ #layout-result #link-comment {
-    font-size:17px;border-bottom:thin solid currentcolor;
-    position: absolute;padding:15px 15px 15px 15px;
-    left: 80px;text-decoration:none;color:var(--color-vlink); 
-    bottom: 3px;
-}
-.gallery #link-comment,
-#layout-gallery:checked ~ #layout-result #link-comment {
-    float: right;font-size:13px;border-bottom:none;
-    position: absolute;color:var(--color-white);background-color:rgba(0,0,0,.5);
-    right: 9px;text-decoration:none;padding:0 12px 0 12px;
-    bottom: 1px;
-}
-.cards #link-comment,
-#layout-cards:checked ~ #layout-result #link-comment {
-    float: right;font-size:12px;border-bottom:none;
-    position: absolute;color:var(--color-hardgrey);
-    right: 0;text-decoration:none;
-    bottom: 7px;padding:0 9px 0 0;
-}
-.tiles #link-comment,
-#layout-tiles:checked ~ #layout-result #link-comment {
-    float: none;font-size:12px;border-bottom:none;
-    position: absolute;color:var(--color-hardgrey);
-    left:37%;text-decoration:none;
-    bottom: -5px;z-index:10;
-}
+
 /* Suscribe */
 form .button {border:thin solid currentColor;margin-top:0.6em;}
 
@@ -131,31 +64,8 @@ form .button {border:thin solid currentColor;margin-top:0.6em;}
 	#layout-simple:checked ~ #layout-result  {
 	  
 	}
-	.list h3,
-	#layout-list:checked ~ #layout-result h3 {
-    font-size: 26px;
-	}
-	.list p,
-	#layout-list:checked ~ #layout-result p {
-	font-size:15px;letter-spacing: .01em
-	}
-	.list article div img,
-	#layout-list:checked ~ #layout-result article div img {
-		width:96px;height:96px;
-	}
 }
 
 @media (max-width: 432px) {
-	.list h3,
-	#layout-list:checked ~ #layout-result h3 {
-    font-size: 17px;line-height:26px;
-	}
-	.list p,
-	#layout-list:checked ~ #layout-result p {
-	font-size:12px;letter-spacing: .001em;line-height:21px;
-	}
-	.list article div img,
-	#layout-list:checked ~ #layout-result article div img {
-		width:64px;height:64px;
-	}
+
 }

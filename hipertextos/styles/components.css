@@ -18,12 +18,16 @@
 .simple article,
 #layout-simple:checked ~ #layout-result article {
 	border: none;
-	border-top: 16px solid currentColor;
-	padding: 16px 0;
+	border-top: 6px solid currentColor;
+	padding: 6px 0;
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
 	margin: 0;
+}
+.simple article h3 a,
+#layout-simple:checked ~ #layout-result article h3 a {
+	color:currentcolor;
 }
 .simple article strong,
 #layout-simple:checked ~ #layout-result article strong {
@@ -35,8 +39,8 @@
 }
 .simple article div img,
 #layout-simple:checked ~ #layout-result article div img {
-	height: 254px;
-	margin-bottom: 16px;
+	height: 290px;
+	margin-bottom: 6px;
 	object-fit: cover;
 	width: 100%;
 }
@@ -47,13 +51,12 @@
 }
 .simple article nav a,
 #layout-simple:checked ~ #layout-result article nav a {
-	background-color: #000;
-	border-radius: 50%;
-	color: #fff;
-	height: 65px;
+	background-color: var(--color-link);
+	color: #fff;text-decoration: none;
+	height: 69px;
 	line-height: 65px;
 	padding: 0;
-	width: 62px;
+	width: 69px;
 }
 
 /* List view */
