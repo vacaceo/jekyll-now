@@ -37,16 +37,8 @@ h3 a:hover {color: var(--color-link); text-decoration:none;}
 
 }
 @media (max-width: 768px) {
-    .simple h3,
-	#layout-simple:checked ~ #layout-result h3 {
 
-	}
-	.simple,
-	#layout-simple:checked ~ #layout-result  {
-	  
-	}
 }
-
 @media (max-width: 432px) {
 
 }

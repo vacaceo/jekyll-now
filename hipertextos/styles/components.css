@@ -246,20 +246,24 @@
 }
 .gallery article h3,
 #layout-gallery:checked ~ #layout-result article h3 {
-	font-size: 25px;
+	font-size: 23px;text-align: left;
 	height: 30px;
 	line-height: 27px;
 	margin: 0;
 	overflow: hidden;
 	text-overflow: ellipsis;
 }
+.gallery article h3 a,
+#layout-gallery:checked ~ #layout-result article h3 a {
+    color:currentcolor;text-decoration:none;
+}
 .gallery article strong,
 #layout-gallery:checked ~ #layout-result article strong {
-	height: 16px;
+	display:none;
 }
 .gallery article div,
 #layout-gallery:checked ~ #layout-result article div {
-	height: 256px;
+	height: 256px;padding:0;
 	overflow: hidden;
 }
 .gallery article div img,
@@ -286,7 +290,7 @@
 }
 .gallery article:hover nav a,
 #layout-gallery:checked ~ #layout-result article:hover nav a {
-	background-color: #fff;
+	background-color: #fff;text-decoration: none;
 	border-color: #fff;
 	color: #000;
 }	
@@ -1087,7 +1091,7 @@ dialog,
 	width: 48px;
 }
 #tools-nav #label-light { background-color: #fff; }
-#tools-nav #label-soft { background-color: rgba(214,208,255,1); }
+#tools-nav #label-soft { background-color: rgba(221,0,0,1); }
 #tools-nav #label-dark { background-color: #000; }
 #tools-nav label:hover {
 	border-color: #fff;
