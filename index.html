@@ -27,7 +27,7 @@ paginate: 2
 					<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
 					<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
 							
-	<div class="content">
+	<div class="content-posts">
   		{% for post in paginator.posts %}
     	<div id="layout-result">
       		<article class="anm-fadeIn delay-1500">
@@ -67,8 +67,8 @@ paginate: 2
 
 <script type="text/javascript">
 // content selector is used to extract the additional items 
-$('.content').jscroll({
-    contentSelector: ".content",
+$('.content-posts').jscroll({
+    contentSelector: ".content-posts",
     nextSelector: '.next'
 });
 </script>
