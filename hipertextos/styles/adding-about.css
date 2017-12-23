@@ -7,6 +7,8 @@
 .cover-page #page-main ul {-webkit-column-count: 3;-moz-column-count: 3;column-count: 3;}
 .cover-page #page-main {color:currentcolor;}
 .cover-page aside {border:none;color: currentcolor;}
+.cover-page a, .cover-page a:visited {color:currentcolor !important;background-color: transparent !important;}
+.cover-page a:hover {color:currentcolor !important;background-color: transparent !important;}
 .cover-page  #coffee {  background: var(--color-background);background: -webkit-linear-gradient(red, var(--color-background));background: -moz-linear-gradient(red, var(--color-background)); background: linear-gradient(#eee, var(--color-background));}
 
 @media (max-width: 1250px) {
