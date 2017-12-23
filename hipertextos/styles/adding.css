@@ -32,7 +32,7 @@ p em {border: var(--one-pixel) solid transparent;font-weight: bold;line-height: 
 section.cover-justify p {padding: 6px 18px 0 18px;line-height: 23px;font-size: 16px !important;letter-spacing: .15em}
 /* Page & Header */
 .cover#page-header  {background-color: var(--color-white);}
-.head-band {background-color:#000!important;height: 18vh!important;padding-top: 10px;overflow:hidden!important;}
+.head-band {background-color:#000;height: 18vh!important;padding-top: 10px;overflow:hidden!important;}
 #back-header {height:18vh!important;overflow:hidden!important;z-index:-100;}
 .img-bolo#back-header {-webkit-filter:blur(23px);filter:blur(23px);min-width:100%;overflow:hidden!important;
     background-position:top;position:absolute;top:0;height:18vh!important;position: top center;background-attachment: fixed;background-size: cover;background-repeat: no-repeat;text-align: center; }
