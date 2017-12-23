@@ -34,7 +34,6 @@ modes: true
         		<div>{% if post.id %}<a href="{{ site.baseurl }}{{ post.url }}"><img class="blog-img" src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg"></a>{% endif %}{{ post.excerpt }}</div>
       			<nav><a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><b>[+]</b></a></nav>
       		</article>
- </div> 		
 		{% if paginator.total_pages > 1 %}
 		<div class="pagination">
     	{% if paginator.previous_page %}
@@ -57,6 +56,7 @@ modes: true
 
     	</div>
   		{% endfor %}
+ </div> 		
 	</div>
 	<em><hr></em>
 	<div>
