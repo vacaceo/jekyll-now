@@ -2,6 +2,7 @@
 layout: about
 title: Contacte
 permalink: /about/
+modes: true
 
 ---
 

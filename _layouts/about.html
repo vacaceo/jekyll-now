@@ -22,6 +22,11 @@
   </head>
 
   <body>
+  			<!-- Theme inputs (invisibles) -->		
+		<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+		<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+		
 	<!-- Page content -->
 	<div class="page cover-page" id="page">
 	{% include partials/navigation/nav.html %}
@@ -69,7 +74,20 @@
 	
 		<!-- Out of page
 		================================================== -->
-			
+
+		<!-- Tools switcher -->  		
+  		<div id="tools-switcher">
+  			<label for="tools-check" data-title="Tools" class="pophover">+</label>
+  		</div>
+		<!-- Tools nav -->
+		<input type="checkbox" id="tools-check" name="Modos" aria-hidden="true" hidden>
+		<nav id="tools-nav">
+			<label for="tools-check" id="label-tools" data-title="Cerrar" class="pophover">x</label>
+			<label for="theme-dark" id="label-dark" data-title="Modo Oscuro" class="pophover"></label>
+			<label for="theme-soft" id="label-soft" data-title="Modo Rojo" class="pophover"></label>
+			<label for="theme-light" id="label-light" data-title="Modo Claro" class="pophover"></label>
+		</nav>
+		
     {% include partials/dialog.html %}  
     {% include partials/rights.html %}  
 
