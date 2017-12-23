@@ -34,7 +34,6 @@ a.tagged  {color:var(--color-hardgrey) ;text-decoration: none;border:thin solid 
 a.tagged:before  {content:'#'; }
 a.tagged:hover {color:var(--color-hardgrey) ;}
 
-
 @media (max-width: 1250px) {
 
 }
