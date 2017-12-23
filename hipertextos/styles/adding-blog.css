@@ -30,6 +30,11 @@ figure iframe {width:100%;}
 h3 a {color: var(--color-hardgrey) }
 h3 a:hover {color: var(--color-link); text-decoration:none;}
 
+a.tagged  {color:var(--color-hardgrey) ;text-decoration: none;border:thin solid currentcolor;padding:4px 15px 6px 15px;border-radius:25px;}
+a.tagged:before  {content:'#'; }
+a.tagged:hover {color:var(--color-hardgrey) ;}
+
+
 @media (max-width: 1250px) {
 
 }
