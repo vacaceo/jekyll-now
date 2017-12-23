@@ -1,7 +1,7 @@
 ---
 layout: default
 modes: true
-paginate: 1
+paginate: 2
 ---
 
   	{% include partials/navigation/nav.html %}
@@ -27,8 +27,9 @@ paginate: 1
 					<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
 					<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
 							
+	<div class="content">
   		{% for post in paginator.posts %}
-    	<div id="layout-result" class="content">
+    	<div id="layout-result">
       		<article class="anm-fadeIn delay-1500">
 				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 				<strong>{{ post.category }}</strong>
@@ -37,6 +38,40 @@ paginate: 1
       		</article>
     	</div>
   		{% endfor %}
+  		
+		{% if paginator.total_pages > 1 %}
+		<div class="pagination">
+    	{% if paginator.previous_page %}
+    	{% if paginator.page == 2 %}
+        <a href="{{ site.siteurl }}/">&laquo; Prev</a>
+    	{% else %}
+        <a href="{{ site.siteurl }}/page{{ paginator.previous_page }}/">&laquo; Prev</a>
+    	{% endif %}    
+		{% else %}
+    	<span>&laquo; Prev</span>
+		{% endif %}
+
+	    {% if paginator.next_page %}
+    	<a class='next' href="{{ site.siteurl }}/page{{ paginator.next_page }}/">Next &raquo;</a>
+		{% else %}
+    	<span class='next'>Next &raquo;</span>
+    	{% endif %}
+  		</div>
+  		{% endif %}
+	</div>  
+</div>
+
+
+<script src="{{ site.siteurl }}/js/jquery-1.11.1.js"></script>
+<script src="{{ site.siteurl }}/js/infinite-srcoll.js"></script>
+
+<script type="text/javascript">
+// content selector is used to extract the additional items 
+$('.content').jscroll({
+    contentSelector: ".content",
+    nextSelector: '.next'
+});
+</script>
 	</div>
 	<em><hr></em>
 	<div>
