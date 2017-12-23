@@ -19,6 +19,7 @@ body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:non
 p, ul {font-size: 18px;line-height: 27px;}
 main {padding-bottom:0!important;}
 #page-header.cover {background-image: url("/img/texture/videosmanguis.gif");background-color:var(--color-black);background-size:180px 180px;background-repeat: repeat;image-rendering: crisp-edges;}
+#page-header.cover h1 {margin-bottom:0px;}
 #cover-logo {position:fixed;top:144px;right:6px;z-index:-1;}
 img#cover-logo {max-width:230px!important;height:auto;}
 .text-left {text-align:left;}
@@ -95,7 +96,7 @@ img.dialog-svg {width:120px;height:150px;}
 em small #go-up { background:rgba(0,0,0,.1);padding:15px;border-radius:50%; }
 em small #go-up:hover {background:rgba(0,0,0,.3); }
 /* Footer fixed */
-main { margin-bottom: 232px;z-index: 1;
+main { padding-top:3px;margin-bottom: 232px;z-index: 1;
     box-shadow:0 75px 60px rgba(0,0,0,.32);
 }
 #page-footer {position: fixed;box-shadow: inset 0 0 32px rgba(0, 0, 0, .32);bottom: 0px;z-index: -1;width: 100%;}
