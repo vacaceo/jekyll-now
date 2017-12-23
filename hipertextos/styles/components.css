@@ -75,9 +75,9 @@
 #layout-list:checked ~ #layout-result article {
 	border-color: transparent;
 	border-top: 1px solid currentColor;
-	height: 320px;
+	height: 350px;
 	margin: 0;
-	padding: 16px 0 0;
+	padding: 0 0 0;
 }
 .list article h3,
 #layout-list:checked ~ #layout-result article h3 {
@@ -90,24 +90,24 @@
 }
 .list article strong,
 #layout-list:checked ~ #layout-result article strong {
-	font-size: 12px;
+	font-size: 15px;
 	margin: 0;
 }
 .list article div,
 #layout-list:checked ~ #layout-result article div {
-	display: block;
-	height: 200px;
+	display: block;max-width:90%;
+	height: 260px;
 	margin: 0 0 16px;
 	overflow: hidden;
 }
 .list article div img,
 #layout-list:checked ~ #layout-result article div img {
-	border-radius: 50%;
-	height: 160px;
+	border-radius: 12%;
+	height: 210px;
 	float: left;
 	margin: 0 32px 0 0;
 	object-fit: cover;	
-	width: 160px;
+	width: 210px;
 }
 .list article nav,
 #layout-list:checked ~ #layout-result article nav {
