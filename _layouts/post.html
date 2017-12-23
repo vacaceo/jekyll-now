@@ -25,13 +25,14 @@ layout: default
 	    			{{ content }}
 				</div>
 				<em><hr></em>
-<ul>
-  {% for post in page.tags %}
-    <li>
-      {{ page.tags }}
-    </li>
-  {% endfor %}
-</ul>
+				<div class="labels">
+					{% if post.tags != empty %}
+            		|
+            		{% for tag in post.tags %}
+            		<a class="codinfox-tag-mark" href="/blog/tag/#{{ tag | slugify }}">{{ tag }}</a>
+            		{% endfor %}
+            		{% endif %}
+				</div>
 				<aside id="post-share">
 					{% include share.html %}
 				</aside>
