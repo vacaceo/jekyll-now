@@ -28,7 +28,7 @@
 }
 .simple article h3 a,
 #layout-simple:checked ~ #layout-result article h3 a {
-	color:currentcolor;
+	color:currentcolor;text-decoration:none;
 }
 .simple article strong,
 #layout-simple:checked ~ #layout-result article strong {
@@ -83,6 +83,10 @@
 #layout-list:checked ~ #layout-result article h3 {
 	margin: 0;
 	padding: 0 64px 0 0;
+}
+.list article h3 a,
+#layout-list:checked ~ #layout-result article h3 a {
+	color:currentcolor;text-decoration:none;
 }
 .list article strong,
 #layout-list:checked ~ #layout-result article strong {
