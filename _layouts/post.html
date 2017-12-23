@@ -25,6 +25,13 @@ layout: default
 	    			{{ content }}
 				</div>
 				<em><hr></em>
+<ul>
+  {% for post in page.tags %}
+    <li>
+      <a href="{{ post.url }}">{{ page.tags }}</a>
+    </li>
+  {% endfor %}
+</ul>
 				<aside id="post-share">
 					{% include share.html %}
 				</aside>
