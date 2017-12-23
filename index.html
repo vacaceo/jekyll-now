@@ -56,7 +56,17 @@ modes: true
 
     	</div>
   		{% endfor %}
- </div> 		
+ </div>
+   	<script src="{{ site.baseurl }}/hipertextos/js/jquery-1.11.1.js"></script>
+	<script src="{{ site.baseurl }}/hipertextos/js/infinite-srcoll.js"></script>
+
+	<script type="text/javascript">
+	// content selector is used to extract the additional items 
+	$('.content').jscroll({
+	    contentSelector: ".content",
+	    nextSelector: '.next'
+	});
+	</script>		
 	</div>
 	<em><hr></em>
 	<div>
