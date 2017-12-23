@@ -10,7 +10,7 @@
 #post-video, #post-download, #post-share, #post-header {border:none;}
 .post em u a { padding: 6px;border: 2px solid var(--color-grey);color: var(--color-grey);border-radius: 40px;width: 180px;margin-top: 18px;}
 .post em u svg { width: 18px;}
-#post-header {color:var(--color-white);border-bottom: 9px solid var(--color-white);text-shadow:1px 2px 7px rgba(0,0,0,.5);}
+#post-header {color:var(--color-white);border-bottom: 6px solid var(--color-red);text-shadow:1px 2px 9px rgba(0,0,0,.5);}
 #post-img img { border-radius: 50%;height: 210px;float: left;margin: 0 23px 26px 0;object-fit: cover;width: 210px;}
 #post-video {}
 #post-download {}
