@@ -7,7 +7,7 @@ comments: true
   	{% include partials/head.html %}  	
 <main id="page-main" role="main">
 	<div id="layout">
-					<nav id="tools-nav" class="nav-scroll anm-moveFromLeftFade">
+					<nav class="nav-scroll anm-moveFromLeftFade">
 						<div>
 							<label for="layout-simple" title="Simple" id="label-simple" class="anm-zoomIn delay-500"><b>&timesb;</b><br>Ampliar</label>
 							<label for="layout-list" title="List" id="label-list" class="anm-zoomIn delay-600"><b>&minusb;</b><br>Llista</label>
@@ -44,3 +44,17 @@ comments: true
     		</section>
 	</div>
 </main>
+
+		<!-- Tools switcher -->  		
+  		<div id="tools-switcher">
+  			<label for="tools-check" data-title="Tools" class="pophover">+</label>
+  		</div>
+		<!-- Tools nav -->
+		<input type="checkbox" id="tools-check" name="tools" aria-hidden="true" hidden>
+		<nav id="tools-nav">
+			<label for="tools-check" id="label-tools" data-title="Close" class="pophover">x</label>
+			<label for="theme-dark" id="label-dark" data-title="Dark theme" class="pophover"></label>
+			<label for="theme-soft" id="label-soft" data-title="Soft theme" class="pophover"></label>
+			<label for="theme-light" id="label-light" data-title="Light theme" class="pophover"></label>
+
+		</nav>
