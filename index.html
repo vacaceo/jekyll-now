@@ -21,7 +21,11 @@ comments: true
 					<input type="radio" name="layout" id="layout-simple" aria-hidden="true" hidden checked>
 					<input type="radio" name="layout" id="layout-list" aria-hidden="true" hidden>
 					<input type="radio" name="layout" id="layout-gallery" aria-hidden="true" hidden>
-					
+					<!-- Theme inputs (invisibles) -->		
+					<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+					<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+					<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+							
   		{% for post in site.posts %}
     	<div id="layout-result">
       		<article class="anm-fadeIn delay-1000">
