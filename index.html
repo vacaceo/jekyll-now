@@ -6,7 +6,7 @@ modes: true
   	{% include partials/navigation/nav.html %}
   	{% include partials/head.html %}  	
 <main id="page-main" role="main">
-	<div id="layout" class="content">
+	<div id="layout">
 					<nav class="nav-scroll anm-moveFromLeftFade">
 						<div>
 							<label for="layout-simple" title="Simple" id="label-simple" class="anm-zoomIn delay-500"><b>&timesb;</b><br>Ampliar</label>
@@ -27,7 +27,7 @@ modes: true
 					<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
 							
   		{% for post in paginator.posts %}
-    	<div id="layout-result">
+    	<div id="layout-result" class="content">
       		<article class="anm-fadeIn delay-1500">
 				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 				<strong>{{ post.category }}</strong>
