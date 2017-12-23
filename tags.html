@@ -29,10 +29,10 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
-<h1 class="page-title">
-  <a href="/blog">Blog</a> | {{ page.title }}
-</h1>
-<br/>
+<header id="page-header" class="page-title">
+  <a href="{{ site.baseurl }}/">Blog</a> | {{ page.title }}
+</header>
+<main id="page-main" class="post-dark">
 
 <div class="posts">
 <p>
@@ -52,7 +52,7 @@ Here we generate all the tags.
         <small>{{ post.date | date_to_string }}</small>
       </a>
       {% for tag in post.tags %}
-      <a class="codinfox-tag-mark" href="/tag/#{{ tag | slugify }}">{{ tag }}</a>
+      <a class="codinfox-tag-mark" href="{{ site.baseurl }}/tag/#{{ tag | slugify }}">{{ tag }}</a>
       {% endfor %}
     </h3>
   </li>
@@ -62,3 +62,4 @@ Here we generate all the tags.
 {% endfor %}
 
 </div>
+</main>
