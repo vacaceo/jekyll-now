@@ -2,18 +2,22 @@
 layout: default
 ---
 
-    <main id="page-main" class="post-dark">
 	{% include partials/navigation/nav-article.html %}
-    	<div id="back-header" class="img-bolo head-band" style="background-image: url('https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg');">
+    <main id="page-main" class="post-dark">
+    	<div id="back-header" class="img-bolo head-band anm-fadeIn delay-600 extra-slow" style="background-image: url('https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg');">
 		</div>
-		<header id="post-header" class="head-band">
+		<header id="post-header" class="head-band anm-moveFromLeft slow">
 				<h1 id="post-title" class="anm-moveFromBottomFade delay-1500">{{ page.title }}</h1>
 		</header>
 		<div>
 			<article id="post-video" class="post anm-fadeIn">
 				<div id="entry" class="anm-fadeIn delay-2000">
 					<div>
-						<figure><iframe width="1280" height="720" src="https://www.youtube.com/embed/{{ page.img }}" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></figure>
+						<figure>
+							<div>
+								<iframe width="1280" height="720" src="https://www.youtube.com/embed/{{ page.img }}" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+							</div>
+						</figure>
 					</div>
 					<figure id="post-img">
 						<img src="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg">
