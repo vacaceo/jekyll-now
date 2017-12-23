@@ -52,6 +52,16 @@
     <!-- Scripts
     ================================================== -->
   	<script src="{{ site.baseurl }}/hipertextos/js/jquery.js"></script>
+  	<script src="http://colineberhardt.github.io/jekyll-pagination-infinite-scroll/js/jquery-1.11.1.js"></script>
+	<script src="http://colineberhardt.github.io/jekyll-pagination-infinite-scroll/js/jscroll/jquery.jscroll.js"></script>
+
+	<script type="text/javascript">
+	// content selector is used to extract the additional items 
+	$('.content').jscroll({
+	    contentSelector: ".content",
+	    nextSelector: '.next'
+	});
+	</script>
   	<script src="{{ site.baseurl }}/hipertextos/js/icons.js"></script>
   	<script src="{{ site.baseurl }}/hipertextos/js/anime.js"></script>
   	{% if page.comments %}
