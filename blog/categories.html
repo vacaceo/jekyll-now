@@ -34,7 +34,12 @@ Here we generate all the categories.
 <header id="page-header" class="page-title">
   <h3>{{ page.title }}</h3>
 </header>
-	<nav id="page-nav" class="nav-scroll">
+	<!-- Theme inputs (invisibles) -->		
+	<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+	<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+	<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+	
+		<nav id="page-nav" class="nav-scroll">
 		<div>
 			{% for ct in cats %}
 			<a href="#{{ ct | slugify }}"> {{ ct }} </a> &nbsp;&nbsp;
@@ -42,11 +47,7 @@ Here we generate all the categories.
 		</div>
 	</nav>
 <main id="page-main" class="post-dark">
-	<!-- Theme inputs (invisibles) -->		
-	<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
-	<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
-	<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
-	
+
 <div class="posts">
 	
 {% for ct in cats %}
