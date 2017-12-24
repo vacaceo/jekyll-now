@@ -41,13 +41,16 @@ Here we generate all the categories.
 	<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
 	
 <div class="posts">
-	<p>
-	{% for ct in cats %}
-	<a href="#{{ ct | slugify }}" class="tagged"> {{ ct }} </a> &nbsp;&nbsp;
-	{% endfor %}
-	<a href="#no-category" class="tagged"> No Category </a> &nbsp;&nbsp;
-	</p>
-
+	<nav id="page-nav" class="nav-scroll">
+		<div>
+			{% for ct in cats %}
+			<a href="#{{ ct | slugify }}"> {{ ct }} </a> &nbsp;&nbsp;
+			{% endfor %}
+			<a href="#no-category"> No Category </a> &nbsp;&nbsp;
+		</div>
+	</nav>
+	<hr>
+	
 {% for ct in cats %}
 <h2 id="{{ ct | slugify }}">{{ ct }}</h2>
 <div>
