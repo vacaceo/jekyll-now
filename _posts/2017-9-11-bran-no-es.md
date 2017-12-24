@@ -7,7 +7,6 @@ category: series
 tags: [juego de tronos, game of thrones, series, Bran]
 img: 4vznj5O&UnderBar;oxg
 excerpt_separator: <!--more-->
-
 ---
 
 Bran NO es el rey de la noche en Juego de Tronos.
