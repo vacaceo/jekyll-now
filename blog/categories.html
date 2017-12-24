@@ -1,6 +1,7 @@
 ---
 layout:   default
 title:    Categorías
+modes: true
 ---
 {% comment%}
 Here we generate all the categories.
@@ -34,6 +35,11 @@ Here we generate all the categories.
   <a href="{{ site.baseurl }}/">Volver</a> | {{ page.title }}
 </header>
 <main id="page-main" class="post-dark">
+	<!-- Theme inputs (invisibles) -->		
+	<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+	<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+	<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+	
 <div class="posts">
 	<p>
 	{% for ct in cats %}
