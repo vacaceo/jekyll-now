@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Que pasa con los PENES de los animales que nos comemos?
+title: ¿Y los PENES de los animales que nos comemos?
 post: default
 comments: true
 category: humor
