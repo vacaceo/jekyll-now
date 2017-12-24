@@ -45,7 +45,7 @@ figure em a {border:none;border-bottom;line-height:0.2em;padding:12px 4px;}
 a.tagged  {color:var(--color-hardgrey) ;text-decoration: none;border:thin solid currentcolor;display:inline-block ; padding:4px 12px 6px 12px;margin-top:9px;border-radius:25px;}
 a.tagged:before  {content:'#'; }
 a.tagged:hover {color:var(--color-hardgrey) ;}
-
+p .mini {font-size:14px;line-height:15px;}
 .cat-img {width:170px;height:auto;float:left;margin:0 16px 0 0;}
 
 /* Portfolio Nav */
