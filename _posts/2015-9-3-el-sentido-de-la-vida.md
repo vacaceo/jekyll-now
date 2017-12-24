@@ -5,7 +5,7 @@ post: default
 comments: true
 category: humor
 tags: cachondeo youtuber youtubers divertido humor videos gracioso
-img: &#818;10ik8KCuOs
+img: &UnderBar;10ik8KCuOs
 excerpt_separator: <!--more-->
 ---
 
