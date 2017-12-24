@@ -5,7 +5,7 @@ post: default
 comments: true
 category: cine
 tags: [Amenábar, danielle, ciencia ficción, crítica, review]
-img: ROEHip4v-2
+img: ROEHip4v-2c
 excerpt_separator: <!--more-->
 ---
 
