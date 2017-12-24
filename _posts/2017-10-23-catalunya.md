@@ -7,10 +7,10 @@ category: notícias
 tags: [catalunya, conspiración, 155, procés, independencia]
 img: 4XrPpaE1NvM
 excerpt_separator: <!--more-->
-
 ---
 
 Catalunya otra vez. Aplicarán el 155 finalmente?
+
 Hablamos sobre ello otra vez, si, otra vez.
 
 <!--more-->
