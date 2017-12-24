@@ -29,11 +29,12 @@ Here we generate all the categories.
 {% endif %}
 {% endfor %}
 
+{% include partials/navigation/nav.html %}
 <header id="page-header" class="page-title">
-  <a href="{{ site.baseurl }}/">Blog</a> | {{ page.title }}
+  <a href="{{ site.baseurl }}/">Volver</a> | {{ page.title }}
 </header>
 <main id="page-main" class="post-dark">
-	<div class="posts">
+<div class="posts">
 	<p>
 	{% for ct in cats %}
 	<a href="#{{ ct | slugify }}" class="codinfox-category-mark" style="color:#999;text-decoration: none;"> {{ ct }} </a> &nbsp;&nbsp;
