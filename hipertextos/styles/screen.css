@@ -1073,10 +1073,10 @@ nav label:hover {
 
 #theme-soft:checked ~ #site-nav.nav-scroll, #theme-soft:checked ~ #page-nav.nav-scroll {
 	background-color: var(--color-softgrey);
-    color:var(--color-red);
+    color:var(--color-softtext);
 }
 #theme-soft:checked ~ #page a {
-	color: var(--color-softblue);	
+	color: var(--color-softtext);	
 }
 #theme-soft:checked ~ #page em a,
 #theme-soft:checked ~ #page em label,
@@ -1134,10 +1134,10 @@ nav label:hover {
 }
 #theme-dark:checked ~ #page a:visited,
 #theme-dark:checked ~ #page em a:visited {
-	color: var(--color-orange);
+	color: var(--color-grey);
 }
 #theme-dark:checked ~ #page a:visited svg {
-	fill: var(--color-red);
+	fill: var(--color-hardgrey);
 }
 #theme-dark:checked ~ #page nav label:hover,
 #theme-dark:checked ~ #page a:hover,
