@@ -3,7 +3,7 @@ layout: post
 title: Catalunya y el 155
 post: default
 comments: true
-category: notícias
+category: noticias
 tags: catalunya conspiración 155 procés independencia
 img: 4XrPpaE1NvM
 excerpt_separator: <!--more-->
