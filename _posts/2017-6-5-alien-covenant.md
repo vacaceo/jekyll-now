@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ALIEN: COVENANT Review
+title: ALIEN Covenant Review
 post: default
 comments: true
 category: cine
