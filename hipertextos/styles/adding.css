@@ -46,7 +46,7 @@ a.tagged  {color:var(--color-hardgrey) ;text-decoration: none;border:thin solid 
 a.tagged:before  {content:'#'; }
 a.tagged:hover {color:var(--color-hardgrey) ;}
 
-.cat-img {width:256px;height:auto;}
+.cat-img {width:170px;height:auto;float:left;margin:0 16px 0 0;}
 
 /* Portfolio Nav */
 #page-nav {border:none;color:var(--color-hardgrey);} 
