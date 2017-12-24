@@ -10,7 +10,9 @@ excerpt_separator: <!--more-->
 ---
 
 Catalunya, Conspiraciones, Piolínes y todo el Parlament a prisión.
+
 Hubo Declaración de Independencia, pero solo la puntita.
+
 
 <!--more-->
 
