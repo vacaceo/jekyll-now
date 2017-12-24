@@ -1067,6 +1067,11 @@ nav label:hover {
 	background-color: var(--color-soft);
 	color: var(--color-softtext);	
 }
+
+#theme-soft:checked ~ #site-nav.nav-scroll, #theme-soft:checked ~ #page-nav.nav-scroll {
+	background-color: var(--color-softgrey);
+    color:var(--color-red);
+}
 #theme-soft:checked ~ #page a {
 	color: var(--color-softblue);	
 }
@@ -1110,6 +1115,10 @@ nav label:hover {
 #theme-dark:checked ~ #page-nav {
 	background-color: var(--color-softblack);
 	color: var(--color-white);	
+}
+#theme-dark:checked ~ #site-nav.nav-scroll, #theme-dark:checked ~ #page-nav.nav-scroll {
+	background-color: var(--color-soft-black);
+    color:var(--color-softgrey);
 }
 #theme-dark:checked ~ #page a {
 	color: var(--color-white);	

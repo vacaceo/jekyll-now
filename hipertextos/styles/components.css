@@ -508,6 +508,11 @@
 	left: 0;
 	z-index: 5;
 }
+#site-nav.nav-scroll, #page-nav.nav-scroll {
+	background-color: var(--color-soft-grey);
+    color:var(--color-hardgrey);
+}
+
 @media (max-width: 767px) {
 	.nav-sticky,
 	#site-nav.nav-smart,
