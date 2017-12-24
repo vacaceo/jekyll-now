@@ -51,7 +51,7 @@ Here we generate all the categories.
 	<hr>
 	
 {% for ct in cats %}
-<h2 id="{{ ct | slugify }}">{{ ct }}</h2>
+<h2 id="{{ ct | slugify }}"><u>{{ ct }}</u></h2>
 <div>
   {% for post in site.posts %}
   {% if post.category contains ct %}
