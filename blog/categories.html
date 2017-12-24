@@ -34,13 +34,6 @@ Here we generate all the categories.
 <header id="page-header" class="page-title">
   <h1><a href="{{ site.baseurl }}/" title="Volver al inicio">&Lang;</a> | {{ page.title }}</h1>
 </header>
-<main id="page-main" class="post-dark">
-	<!-- Theme inputs (invisibles) -->		
-	<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
-	<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
-	<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
-	
-<div class="posts">
 	<nav id="page-nav" class="nav-scroll">
 		<div>
 			{% for ct in cats %}
@@ -48,7 +41,13 @@ Here we generate all the categories.
 			{% endfor %}
 		</div>
 	</nav>
-	<hr>
+<main id="page-main" class="post-dark">
+	<!-- Theme inputs (invisibles) -->		
+	<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+	<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+	<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+	
+<div class="posts">
 	
 {% for ct in cats %}
 <h2 id="{{ ct | slugify }}"><u>{{ ct }}</u></h2>
