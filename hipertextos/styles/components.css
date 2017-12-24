@@ -75,13 +75,13 @@
 #layout-list:checked ~ #layout-result article {
 	border-color: transparent;
 	border-top: 1px solid currentColor;
-	height: 350px;
+	height: 280px;
 	margin: 0;
 	padding: 0 0 0;
 }
 .list article h3,
 #layout-list:checked ~ #layout-result article h3 {
-	margin: 0;font-size:1.6em;line-height:.9em;margin-top:15px;
+	margin: 0;font-size:1.6em;line-height:1.15em;margin-top:5px;margin-bottom:-32px;
 	padding: 0 64px 0 0;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;
 }
 .list article h3 a,
@@ -96,7 +96,7 @@
 .list article div,
 #layout-list:checked ~ #layout-result article div {
 	display: block;max-width:90%;
-	height: 260px;
+	height: 230px;
 	margin: 0 0 16px;
 	overflow: hidden;
 }
