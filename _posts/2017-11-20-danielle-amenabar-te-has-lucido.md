@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Danielle - Amenábar te has lucido...
+title: DANIELLE Amenábar te has lucido...
 post: default
 comments: true
 category: cine
