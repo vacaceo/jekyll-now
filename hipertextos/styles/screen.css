@@ -1058,8 +1058,8 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
-#page .posts h1 {color:var(--color-softgrey);}
-#page #page-nav {background-color: var(--color-softgrey);color:var(--color-hardgrey);}
+#page .posts h1 {color:var(--color-grey);}
+#page #page-nav {background-color: var(--color-soft-grey);color:var(--color-hardgrey);border-bottom:0px solid transparent;}
 
 /* Red theme */
 
@@ -1069,10 +1069,10 @@ nav label:hover {
 	color: var(--color-softtext);	
 }
 #theme-soft:checked ~ #page #page-nav {
-	background-color: var(--color-hardgrey);
+	background-color: var(--color-softgrey);
     color:var(--color-softtext);
 }
-#theme-soft:checked ~ #page .posts h1 {color:var(--color-medtext);}
+#theme-soft:checked ~ #page .posts h1 {color:var(--color-grey);}
 #theme-soft:checked ~ #page a {
 	color: var(--color-softtext);	
 }
@@ -1117,10 +1117,10 @@ nav label:hover {
 	color: var(--color-white);	
 }
 #theme-dark:checked ~ #page #page-nav {
-	background-color: var(--color-softblack);
-    color:var(--color-softgrey);
+	background-color: var(--color-hard-grey);
+    color:var(--color-white);
 }
-#theme-dark:checked ~ #page .posts h1 {color:var(--color-hardgrey);}
+#theme-dark:checked ~ #page .posts h1 {color:var(--color-hard-grey);}
 #theme-dark:checked ~ #page a {
 	color: var(--color-white);	
 }
