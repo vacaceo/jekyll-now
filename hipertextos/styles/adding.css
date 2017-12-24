@@ -48,8 +48,8 @@ a.tagged:before  {content:'#'; }
 a.tagged:hover {color:var(--color-hardgrey) ;}
 .cat-post {height:110px;width:50%;float:left;max-height:90px;}
 .cat-post h6 {text-overflow: ellipsis;white-space: nowrap;overflow: hidden;}
-.cat-img {width:150px;height:auto;float:left;margin: 5px 16px 0 0; }
-
+.cat-img {width: 132px;height: auto;float: left;margin: 5px 16px 0 0;}
+.cat-img img {object-fit:cover ;width:100%;height:80px;}
 /* Portfolio Nav */
 #page-nav {border-bottom: none;border-bottom:thin solid currentcolor;color:currentcolor;} 
 #page-nav a {min-width: 9%;margin:0;max-height:100%;}
