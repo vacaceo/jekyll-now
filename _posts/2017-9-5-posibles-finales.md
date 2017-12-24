@@ -5,7 +5,7 @@ post: default
 comments: true
 category: series
 tags: [juego de tronos, game of thrones, series, review]
-img: &UnderBar;1jVp1c5PEQ
+img: 4vznj5O&UnderBar;oxg
 excerpt_separator: <!--more-->
 ---
 
