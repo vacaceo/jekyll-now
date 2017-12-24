@@ -1,37 +1,30 @@
 ---
 layout: post
-title: ¿Que pasa con los PENES de los animales que nos comemos?
+title: Conspiración en Catalunya
 post: default
 comments: true
-category: humor
-tags: penes animales youtuber youtubers divertido humor videos gracioso
-img: Gz730L6-U8Q
+category: notícias
+tags: [conspiración, Catalunya, 155, independencia, noticias, España, conspiraciones]
+img: 6LBsOlkvdqY
 excerpt_separator: <!--more-->
+
 ---
 
-¿QUe pasa con ésos penes? ¿Tu te los comes? ¿A donde van?
-
-¿Nos los comemos sin saberlo? ¿Tienen gluten?
-
-Con tacto, o sin tacto, pero lo vamos a hacer igual...
+Catalunya, Conspiraciones, Piolínes y todo el Parlament a prisión.
+Hubo Declaración de Independencia, pero solo la puntita.
 
 <!--more-->
 
 
-###### Es el cumple de un colega, y lo vamos a celebrar.
+###### El gobierno Español carga contra cargos electos por el pueblo Catalán, mientras siguen muriendo investigados de la trama Gurtel como si de la mafia se tratara.
 
-###### Os podeis unir a la fiesta.
+###### Van ya más de diez.
 
+###### Intentaremos aclarar algunos conceptos, además de hacer algunas disquisiciones sobre los posibles desenlaces del conflicto en Catalunya.
 
-###### Felicitar-le el día al colega que necesita cariño.
+###### ¿Tirará Frodo el anillo de poder en el monte del destino?
 
-###### Será... ...improvisada, pero serà, que es mejor que no que no sea.
-
-###### Ser o no ser...
-
-###### Te planteas muchas cosas cuando celebras un cumple...
-
-###### Venir, pasar y felicitar-le el día al colega que es gratis y te enviamos un jamón.
+###### ¿Llegarán antes los caminantes blancos?
 
 #### Jamón Catalán.
 

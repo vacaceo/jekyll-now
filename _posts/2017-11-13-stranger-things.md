@@ -1,38 +1,27 @@
 ---
 layout: post
-title: ¿Que pasa con los PENES de los animales que nos comemos?
+title: Stranger Things - Review
 post: default
 comments: true
 category: humor
-tags: penes animales youtuber youtubers divertido humor videos gracioso
-img: Gz730L6-U8Q
+tags: [Stranger Things, series, cine, ciencia ficción, mejor serie, Winona Ryder, review]
+img: -4tmgxlS5hs
 excerpt_separator: <!--more-->
 ---
 
-¿QUe pasa con ésos penes? ¿Tu te los comes? ¿A donde van?
+Stranger Things - Review - Cotilleos y opinión.
 
-¿Nos los comemos sin saberlo? ¿Tienen gluten?
-
-Con tacto, o sin tacto, pero lo vamos a hacer igual...
+Vamos a comentar la nueva serie de moda, Stranger Things.
 
 <!--more-->
 
 
-###### Es el cumple de un colega, y lo vamos a celebrar.
+###### Si aún no la sigues, tranquilo, que evitaremos spoilers.
 
-###### Os podeis unir a la fiesta.
+###### Si ya la sigues, tal vez no sepas algunas cosillas sobre Winona Ryder, o otras noticias y filtraciones que hemos ido recopilando sobre esta magnífica serie.
 
+###### Stranger Things, nuestra opinión
 
-###### Felicitar-le el día al colega que necesita cariño.
-
-###### Será... ...improvisada, pero serà, que es mejor que no que no sea.
-
-###### Ser o no ser...
-
-###### Te planteas muchas cosas cuando celebras un cumple...
-
-###### Venir, pasar y felicitar-le el día al colega que es gratis y te enviamos un jamón.
-
-#### Jamón Catalán.
+#### Jamón Catalán de otra dimensión.
 
 ##### No hacemos boicots aquí.

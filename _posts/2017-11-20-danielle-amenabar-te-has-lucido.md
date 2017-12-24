@@ -1,38 +1,36 @@
 ---
 layout: post
-title: ¿Que pasa con los PENES de los animales que nos comemos?
+title: Danielle - Amenábar te has lucido...
 post: default
 comments: true
-category: humor
-tags: penes animales youtuber youtubers divertido humor videos gracioso
-img: Gz730L6-U8Q
+category: cine
+tags: [Amenábar, danielle, ciencia ficción, crítica, review]
+img: ROEHip4v-2
 excerpt_separator: <!--more-->
 ---
 
-¿QUe pasa con ésos penes? ¿Tu te los comes? ¿A donde van?
+Anuncio Loteria Navidad - Film - Amenábar - 2017
 
-¿Nos los comemos sin saberlo? ¿Tienen gluten?
+Una extraterrestre y Daniel, un joven terrícola, son los protagonistas del anuncio de la Lotería de Navidad 2017, que está dirigido por el director Alejandro Amenábar.
 
-Con tacto, o sin tacto, pero lo vamos a hacer igual...
+Nos tragamos la versión extendida, si. Y es peor de lo que parece, en serio!
+
 
 <!--more-->
 
 
-###### Es el cumple de un colega, y lo vamos a celebrar.
+###### Vamos a desentrañar éste guión totalmente infumable desde nuestro punto de vista.
 
-###### Os podeis unir a la fiesta.
+###### No hay palabras, bueno si, hemos hecho un video entero...
 
+###### Pero para ahorraros el tener que ver la versión extendida, no hace falta.
 
-###### Felicitar-le el día al colega que necesita cariño.
+###### Isabel Coixet lo hubiera hecho mucho mejor.
 
-###### Será... ...improvisada, pero serà, que es mejor que no que no sea.
+###### Hasta M. Rajoy podría haberlo hecho mejor.
 
-###### Ser o no ser...
+###### Anuncio Loteria Navidad - Film - Amenábar - 2017
 
-###### Te planteas muchas cosas cuando celebras un cumple...
+#### ¿Amenábar, pero se puede saber que coño te pasa?
 
-###### Venir, pasar y felicitar-le el día al colega que es gratis y te enviamos un jamón.
-
-#### Jamón Catalán.
-
-##### No hacemos boicots aquí.
+##### Increïble.
