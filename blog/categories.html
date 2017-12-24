@@ -50,7 +50,7 @@ Here we generate all the categories.
 <div class="posts">
 	
 {% for ct in cats %}
-<h1 id="{{ ct | slugify }}"><u>{{ ct }}</u></h1>
+<h1 id="{{ ct | slugify }}" class="medium-color"><u>{{ ct }}</u></h1>
 <div>
   {% for post in site.posts %}
   {% if post.category contains ct %}
