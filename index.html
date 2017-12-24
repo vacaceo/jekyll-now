@@ -34,9 +34,6 @@ modes: true
         		<div>{% if post.id %}<a href="{{ site.baseurl }}{{ post.url }}"><img class="blog-img" src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg"></a>{% endif %}{{ post.excerpt }}</div>
       			<nav><a href="{{ site.baseurl }}{{ post.url }}" class="read-more"><b>[+]</b></a></nav>
       		</article>
-    	</div>
-  		{% endfor %}
-  		
 		{% if paginator.total_pages > 1 %}
 		<div class="pagination">
     	{% if paginator.previous_page %}
@@ -56,6 +53,9 @@ modes: true
     	{% endif %}
   		</div>
   		{% endif %}
+
+    	</div>
+  		{% endfor %}
  </div>
    	<script src="{{ site.baseurl }}/hipertextos/js/jquery-1.11.1.js"></script>
 	<script src="{{ site.baseurl }}/hipertextos/js/infinite-srcoll.js"></script>
