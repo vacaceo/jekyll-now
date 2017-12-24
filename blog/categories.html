@@ -50,12 +50,12 @@ Here we generate all the categories.
 
 {% for ct in cats %}
 <h2 id="{{ ct | slugify }}">{{ ct }}</h2>
-<ul class="codinfox-category-list">
+<div>
   {% for post in site.posts %}
   {% if post.category contains ct %}
-  <li>
+  <div>
 	<figure class="cat-img">
-		<img src="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg" rel="{{ page.tags }}">
+		<img src="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg">
 	</figure>
     <h5>
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -66,10 +66,10 @@ Here we generate all the categories.
       <a class="tagged" href="{{ site.baseurl }}/blog/tags/#{{ tag | slugify }}">{{ tag }}</a>
       {% endfor %}
     </h6>
-  </li>
+  </div>
   {% endif %}
   {% endfor %}
-</ul>
+</div>
 {% endfor %}
 
 <h2 id="no-category">No Category</h2>
