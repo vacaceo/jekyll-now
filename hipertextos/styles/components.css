@@ -81,8 +81,8 @@
 }
 .list article h3,
 #layout-list:checked ~ #layout-result article h3 {
-	margin: 0;font-size:1.3em;
-	padding: 0 64px 0 0;
+	margin: 0;font-size:1.6em;line-height:.9em;margin-top:15px;
+	padding: 0 64px 0 0;text-overflow: ellipsis;white-space: nowrap;overflow: hidden;
 }
 .list article h3 a,
 #layout-list:checked ~ #layout-result article h3 a {
@@ -90,8 +90,8 @@
 }
 .list article strong,
 #layout-list:checked ~ #layout-result article strong {
-	font-size: 15px;width:78.3%;float:right;
-	margin: 0;line-height: 15px;
+	font-size: 16px;float:right;
+	margin-top:22px ;line-height: 6px;
 }
 .list article div,
 #layout-list:checked ~ #layout-result article div {
@@ -103,11 +103,11 @@
 .list article div img,
 #layout-list:checked ~ #layout-result article div img {
 	border-radius: 12%;
-	height: 210px;
+	height: 190px;
 	float: left;
-	margin: -29px 32px 0 0;
+	margin: 0 32px 0 0;
 	object-fit: cover;	
-	width: 210px;
+	width: 190px;
 }
 .list article nav,
 #layout-list:checked ~ #layout-result article nav {
