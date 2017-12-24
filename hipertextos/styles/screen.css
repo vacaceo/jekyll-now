@@ -1058,20 +1058,19 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
-nav.nav-scroll#page-nav {
+#page-nav {
 	background-color: var(--color-softgrey);
     color:var(--color-hardgrey);
 }
 /* Red theme */
 
 #theme-soft:checked ~ #page,
-#theme-soft:checked ~ #site-nav,
-#theme-soft:checked ~ #page-nav {
+#theme-soft:checked ~ #site-nav {
 	background-color: var(--color-soft);
 	color: var(--color-softtext);	
 }
 
-#theme-soft:checked ~ nav.nav-scroll#page-nav {
+#theme-soft:checked ~ #page-nav {
 	background-color: var(--color-hardgrey);
     color:var(--color-softtext);
 }
@@ -1114,12 +1113,11 @@ nav.nav-scroll#page-nav {
 /* Dark theme */
 
 #theme-dark:checked ~ #page,
-#theme-dark:checked ~ #site-nav,
-#theme-dark:checked ~ #page-nav {
+#theme-dark:checked ~ #site-nav {
 	background-color: var(--color-softblack);
 	color: var(--color-white);	
 }
-#theme-dark:checked ~ nav.nav-scroll#page-nav {
+#theme-dark:checked ~ #page-nav {
 	background-color: var(--color-softblack);
     color:var(--color-softgrey);
 }
