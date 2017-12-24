@@ -1070,14 +1070,14 @@ nav label:hover {
 	color: var(--color-softtext);	
 }
 #theme-soft:checked ~ #page #page-nav {
-	background-color: var(--color-soft-grey);
+	background-color: var(--color-white);
     color:var(--color-softtext);
 }
-#theme-soft:checked ~ #page .posts h1 {color:var(--color-soft-grey);}
+#theme-soft:checked ~ #page .posts h1 {color:var(--color-softtext);}
 #theme-soft:checked ~ #page a {
 	color: var(--color-softtext);	
 }
-#theme-soft:checked ~ #page .cat-post h6 a {color:var(--color-medtext);}
+#theme-soft:checked ~ #page .cat-post h6 a {color:var(--color-softtext);}
 #theme-soft:checked ~ #page em a,
 #theme-soft:checked ~ #page em label,
 #theme-soft:checked ~ #page em button {
@@ -1086,15 +1086,15 @@ nav label:hover {
 }
 #theme-soft:checked ~ #page a:visited,
 #theme-soft:checked ~ #page em a:visited {
-	color: var(--color-softgrey);
+	color: var(--color-medtext);
 }
 #theme-soft:checked ~ #page a:visited svg {
-	fill: var(--color-red);
+	fill: var(--color-medtext);
 }
 #theme-soft:checked ~ #page nav label:hover,
 #theme-soft:checked ~ #page a:hover,
 #theme-soft:checked ~ #page a:visited:hover {
-	color: var(--color-red);
+	color: var(--color-softred);
 }
 #theme-soft:checked ~ #page a:hover svg {
 	fill: var(--color-white);
@@ -1203,6 +1203,7 @@ nav label {
 	--color-yellow: rgba(244,192,21,1);
 	--color-orange: rgba(244,82,15,1);
 	--color-red: rgba(221,0,0,1);
+	--color-softred: rgba(212,0,0,1);
 	--color-violet: rgba(115,44,147,1);
 	--color-softblue: rgba(100,100,255,1);
 	--color-blue: rgba(50,122,174,1);
@@ -1220,7 +1221,7 @@ nav label {
 	--color-link: rgba(50,122,174,1);
 	--color-vlink: rgba(20,100,140,1);
 
-	--color-soft: rgba(191,190,190,1);
+	--color-soft: rgba(230,230,230,1);
 	--color-softtext: rgba(180,60,60,1);
 	--color-medtext: rgba(160,50,50,1);
 	--color-softstarred: rgba(60,60,60,1);
