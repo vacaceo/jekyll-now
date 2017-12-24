@@ -4,7 +4,7 @@ title: 7x05 Guardiaoriente
 post: default
 comments: true
 category: series
-tags: [7x05, juego de tronos, game of thrones, series, review, guardiaoriente]
+tags: [juego de tronos, game of thrones, series, review, guardiaoriente]
 img: 6VagF7sbQ3k
 excerpt_separator: <!--more-->
 ---
