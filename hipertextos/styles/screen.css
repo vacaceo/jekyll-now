@@ -1058,8 +1058,9 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
-#page .posts h1 {color:var(--color-grey);}
-#page #page-nav {background-color: var(--color-soft-grey);color:var(--color-hardgrey);border-bottom:0px solid transparent;}
+#page .posts h1 {color:var(--color-grey);text-transform:capitalize ;}
+#page #page-nav {background-color: var(--color-soft-grey);color:var(--color-softstarred);border-bottom:0px solid transparent;}
+.cat-post h6 a {color:var(--color-softstarred);text-decoration: none;}
 
 /* Red theme */
 
@@ -1069,13 +1070,14 @@ nav label:hover {
 	color: var(--color-softtext);	
 }
 #theme-soft:checked ~ #page #page-nav {
-	background-color: var(--color-softgrey);
+	background-color: var(--color-soft-grey);
     color:var(--color-softtext);
 }
-#theme-soft:checked ~ #page .posts h1 {color:var(--color-grey);}
+#theme-soft:checked ~ #page .posts h1 {color:var(--color-soft-grey);}
 #theme-soft:checked ~ #page a {
 	color: var(--color-softtext);	
 }
+#theme-soft:checked ~ #page .cat-post h6 a {color:var(--color-medtext);}
 #theme-soft:checked ~ #page em a,
 #theme-soft:checked ~ #page em label,
 #theme-soft:checked ~ #page em button {
@@ -1114,15 +1116,16 @@ nav label:hover {
 #theme-dark:checked ~ #page,
 #theme-dark:checked ~ #site-nav {
 	background-color: var(--color-softblack);
-	color: var(--color-white);	
+	color: var(--color-softgrey);	
 }
 #theme-dark:checked ~ #page #page-nav {
 	background-color: var(--color-hard-grey);
-    color:var(--color-white);
+    color:var(--color-softgrey);
 }
 #theme-dark:checked ~ #page .posts h1 {color:var(--color-hard-grey);}
+#theme-dark:checked ~ #page .cat-post h6 a {color:var(--color-grey);}
 #theme-dark:checked ~ #page a {
-	color: var(--color-white);	
+	color: var(--color-softgrey);	
 }
 #theme-dark:checked ~ #page em a,
 #theme-dark:checked ~ #page em label,
@@ -1217,7 +1220,7 @@ nav label {
 	--color-link: rgba(50,122,174,1);
 	--color-vlink: rgba(20,100,140,1);
 
-	--color-soft: rgba(232,230,235,1);
+	--color-soft: rgba(191,190,190,1);
 	--color-softtext: rgba(180,60,60,1);
 	--color-medtext: rgba(160,50,50,1);
 	--color-softstarred: rgba(60,60,60,1);

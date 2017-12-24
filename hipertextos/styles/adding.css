@@ -51,7 +51,7 @@ a.tagged:hover {color:var(--color-hardgrey) ;}
 .cat-img {width: 132px;height: auto;float: left;margin: 5px 16px 0 0;}
 .cat-img img {object-fit:cover ;width:100%;height:80px;}
 /* Portfolio Nav */
-#page-nav {border-bottom: none;border-bottom:thin solid currentcolor;color:currentcolor;} 
+#page-nav {border-bottom: none;border-bottom:thin solid currentcolor;color:currentcolor;text-transform:uppercase ;} 
 #page-nav a {min-width: 9%;margin:0;max-height:100%;}
 #page-nav a:hover {text-decoration:none;border:thin solid rgba(0,0,0,.06);background:rgba(0,0,0,.02);}
 #page-nav a:visited {color: var(--color-grey) ;}
