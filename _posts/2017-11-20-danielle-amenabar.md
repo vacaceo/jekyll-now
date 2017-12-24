@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DANIELLE Amenábar te has lucido
+title: Amenábar te has lucido
 post: default
 comments: true
 category: cine
