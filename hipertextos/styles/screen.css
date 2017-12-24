@@ -1058,7 +1058,7 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
-#page-nav {
+nav.nav-scroll#page-nav {
 	background-color: var(--color-softgrey);
     color:var(--color-hardgrey);
 }
@@ -1070,7 +1070,7 @@ nav label:hover {
 	color: var(--color-softtext);	
 }
 
-#theme-soft:checked ~ #page-nav {
+#theme-soft:checked ~ nav.nav-scroll#page-nav {
 	background-color: var(--color-hardgrey);
     color:var(--color-softtext);
 }
@@ -1117,7 +1117,7 @@ nav label:hover {
 	background-color: var(--color-softblack);
 	color: var(--color-white);	
 }
-#theme-dark:checked ~ #page-nav {
+#theme-dark:checked ~ nav.nav-scroll#page-nav {
 	background-color: var(--color-softblack);
     color:var(--color-softgrey);
 }
