@@ -32,7 +32,7 @@ Here we generate all the categories.
 
 {% include partials/navigation/nav.html %}
 <header id="page-header" class="page-title">
-  <h1><a href="{{ site.baseurl }}/" title="Volver al inicio">&Lang;</a> | {{ page.title }}</h1>
+  <a href="{{ site.baseurl }}/">Volver</a> | {{ page.title }}
 </header>
 <main id="page-main" class="post-dark">
 	<!-- Theme inputs (invisibles) -->		
@@ -44,9 +44,8 @@ Here we generate all the categories.
 	<nav id="page-nav" class="nav-scroll">
 		<div>
 			{% for ct in cats %}
-			<a href="#{{ ct | slugify }}"> {{ ct }} </a> <br>
+			<a href="#{{ ct | slugify }}"> {{ ct }} </a> &nbsp;&nbsp;
 			{% endfor %}
-			<a href="#no-category"> No Category </a>
 		</div>
 	</nav>
 	<hr>
@@ -67,20 +66,6 @@ Here we generate all the categories.
   <hr>
 </div>
 {% endfor %}
-
-<h2 id="no-category">No Category</h2>
-<ul class="codinfox-category-list">
-  {% for post in site.posts %}
-  {% unless post.category %}
-  <div class="cat-post">
-	<figure class="cat-img">
-		<img src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg">
-	</figure>
-    <h6><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date_to_string }}</small></h6>
-  </div>
-  {% endunless %}
-  {% endfor %}
-</ul>
 
 	</div>
 </main>
