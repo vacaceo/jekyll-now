@@ -1058,6 +1058,8 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
+#page .posts h1 {color:var(--color-softgrey);}
+#page #page-nav {background-color: var(--color-softgrey);color:var(--color-hardgrey);}
 
 /* Red theme */
 
@@ -1066,11 +1068,11 @@ nav label:hover {
 	background-color: var(--color-soft);
 	color: var(--color-softtext);	
 }
-
-#theme-soft:checked ~ #page-nav {
+#theme-soft:checked ~ #page #page-nav {
 	background-color: var(--color-hardgrey);
     color:var(--color-softtext);
 }
+#theme-soft:checked ~ #page .posts h1 {color:var(--color-medtext);}
 #theme-soft:checked ~ #page a {
 	color: var(--color-softtext);	
 }
@@ -1114,10 +1116,11 @@ nav label:hover {
 	background-color: var(--color-softblack);
 	color: var(--color-white);	
 }
-#theme-dark:checked ~ #page-nav {
+#theme-dark:checked ~ #page #page-nav {
 	background-color: var(--color-softblack);
     color:var(--color-softgrey);
 }
+#theme-dark:checked ~ #page .posts h1 {color:var(--color-hardgrey);}
 #theme-dark:checked ~ #page a {
 	color: var(--color-white);	
 }
@@ -1216,6 +1219,7 @@ nav label {
 
 	--color-soft: rgba(232,230,235,1);
 	--color-softtext: rgba(180,60,60,1);
+	--color-medtext: rgba(160,50,50,1);
 	--color-softstarred: rgba(60,60,60,1);
 	
 	--color-translucentblack: rgba(0,0,0,.5);
