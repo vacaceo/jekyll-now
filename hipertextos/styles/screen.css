@@ -1058,8 +1058,11 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
-
-/* Soft theme */
+#site-nav.nav-scroll, #page-nav.nav-scroll {
+	background-color: var(--color-soft-grey);
+    color:var(--color-hardgrey);
+}
+/* Red theme */
 
 #theme-soft:checked ~ #page,
 #theme-soft:checked ~ #site-nav,
