@@ -988,7 +988,7 @@ figure div {
 	padding-top: 0;
 	height: 0;
 	overflow: hidden;
-	z-index: 5;
+	z-index: 6;
 }
 figure div iframe {
 	position: absolute;
@@ -1058,8 +1058,8 @@ nav a:hover,
 nav label:hover {
 	border: var(--one-pixel) solid currentColor;
 }
-#site-nav.nav-scroll, #page-nav.nav-scroll {
-	background-color: var(--color-soft-grey);
+nav.nav-scroll#page-nav {
+	background-color: var(--color-softgrey);
     color:var(--color-hardgrey);
 }
 /* Red theme */
@@ -1071,8 +1071,8 @@ nav label:hover {
 	color: var(--color-softtext);	
 }
 
-#theme-soft:checked ~ #site-nav.nav-scroll, #theme-soft:checked ~ #page-nav.nav-scroll {
-	background-color: var(--color-softgrey);
+#theme-soft:checked ~ nav.nav-scroll#page-nav {
+	background-color: var(--color-hardgrey);
     color:var(--color-softtext);
 }
 #theme-soft:checked ~ #page a {
@@ -1119,8 +1119,8 @@ nav label:hover {
 	background-color: var(--color-softblack);
 	color: var(--color-white);	
 }
-#theme-dark:checked ~ #site-nav.nav-scroll, #theme-dark:checked ~ #page-nav.nav-scroll {
-	background-color: var(--color-soft-black);
+#theme-dark:checked ~ nav.nav-scroll#page-nav {
+	background-color: var(--color-softblack);
     color:var(--color-softgrey);
 }
 #theme-dark:checked ~ #page a {
