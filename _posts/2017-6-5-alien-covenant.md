@@ -4,7 +4,7 @@ title: ALIEN Covenant Review
 post: default
 comments: true
 category: cine
-tags: [cine, Alien, estrenos, youtuber, youtube, review]
+tags: [cine, Alien, estrenos, youtuber, review]
 img: ur0mDU6SU08
 excerpt_separator: <!--more-->
 

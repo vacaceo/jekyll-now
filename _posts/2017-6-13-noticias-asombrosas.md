@@ -4,7 +4,7 @@ title: Notícias asombrosas
 post: default
 comments: true
 category: [noticias]
-tags: youtuber youtubers divertido asombroso videos
+tags: youtuber divertido asombroso videos
 img: h6Rlknaok9Y
 excerpt_separator: <!--more-->
 ---

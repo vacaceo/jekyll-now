@@ -3,8 +3,8 @@ layout: post
 title: Tecnologia que no hacía falta
 post: default
 comments: true
-category: noticias humor
-tags: cachondeo youtuber youtubers divertido humor videos gracioso
+category: noticias
+tags: cachondeo youtuber divertido humor videos gracioso
 img: pyh0LStcJq8
 excerpt_separator: <!--more-->
 ---
@@ -23,3 +23,6 @@ TOP 23 de cosas con internet y Wifi que NO hacía falta inventar.
 ##### Una pasada.
 
 ##### Esperamos vuestros comentarios, si hay los suficientes es posible que hagamos un programa especial comentando vuestras opiniones.
+
+
+Fuente: Leer artículo completo en [Xataka](https://www.xataka.com/especiales/las-23-peores-ideas-de-meter-tecnologia-en-una-cosa-que-no-lo-necesita)
