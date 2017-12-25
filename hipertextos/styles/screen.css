@@ -1155,10 +1155,7 @@ nav label:hover {
 #theme-dark:checked ~ #page a:visited:active svg {
 	fill: var(--color-violet);
 }
-#theme-dark:checked ~ #page nav a:hover,
-#theme-dark:checked ~ #page nav label:hover {
-	background-color: var(--color-translucentwhite);
-}
+
 
 /* Emphatic link colors (important reset) */
 
