@@ -4,7 +4,7 @@ title: Luke, Yo soy tu Yayo!
 post: default
 comments: true
 category: humor
-tags: [star wars, youtuber, divertido, humor, videos, parodia, gracioso, animación]
+tags: [star wars, youtuber, divertido, snoke, humor, videos, parodia, gracioso, animación]
 img: bFJN&UnderBar;Ahe77Y
 excerpt_separator: <!--more-->
 ---
