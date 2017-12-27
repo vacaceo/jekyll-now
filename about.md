@@ -3,13 +3,12 @@ layout: about
 title: Nosotras
 permalink: /nosotras/
 modes: true
+led: Somos el único canal dirigido or Vacas!
 
 ---
 
-###### Somos el único canal dirigido or Vacas!
+###### Y con mucho orgullo
 
-Y con mucho orgullo
+###### Orgullo Vacuno!
 
-Orgullo Vacuno!
-
-Somos Youtubers y tal y cual
+###### Somos Youtubers y tal y cual

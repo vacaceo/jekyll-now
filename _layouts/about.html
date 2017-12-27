@@ -40,9 +40,13 @@
 				<section class="anm-moveFromBottomFade delay-200">
 					<img src="{{ site.avatar }}" id="avatar" class="anm-scaleUp delay-400" rel="Logo Videos Manguis">
 					<h1 class="anm-scaleUpCenter delay-400">{{ site.name }}</h1>
+					<h5 class="anm-scaleUpCenter delay-500">{{ site.led }}</h1>
+					<hr>
 				</section>
 			</div>
-			<article id="about-content">{{ content }}</article>
+			<article id="about-content">
+			{{ content }}
+			</article>
 
 			{% include partials/credits.html %}
     		{% include partials/coffee.html %}   		
