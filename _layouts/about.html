@@ -42,11 +42,11 @@
 					<h1 class="anm-scaleUpCenter delay-400">{{ site.name }}</h1>
 					<h5 class="anm-scaleUpCenter delay-500">{{ page.led }}</h5>
 					<hr>
+					<article id="about-content">
+					{{ content }}
+					</article>
 				</section>
 			</div>
-			<article id="about-content">
-			{{ content }}
-			</article>
 
 			{% include partials/credits.html %}
     		{% include partials/coffee.html %}   		
