@@ -6,7 +6,7 @@
 #about-icons a {border:none; }
 #about-icons {text-align: center;}
 #avatar { margin: 0 15px 0 0;float:left;padding: 2px; max-width:128px;}
-.cover-page #page-header {border-bottom:10px solid var(--color-blue);background-color: var(--color-black);color: var(--color-blue);}
+.cover-page #page-header {border-bottom:10px solid var(--color-softtext);background-color: var(--color-black);color: var(--color-softtext);}
 .cover-page #page-main {color:currentcolor;}
 .cover-page a, .cover-page a:visited {color:currentcolor !important;background-color: transparent !important;}
 .cover-page a:hover {color:currentcolor !important;background-color: transparent !important;}
