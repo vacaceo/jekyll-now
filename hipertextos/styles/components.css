@@ -40,7 +40,7 @@
 }
 .simple article div img,
 #layout-simple:checked ~ #layout-result article div img {
-	height: 260px;
+	height: 230px;
 	margin-bottom: 4px;
 	object-fit: cover;
 	width: 100%;
