@@ -3,6 +3,8 @@
 
 #page-header.about-cover {background-image: url("/img/texture/dark.png");background-size:180px 180px;background-repeat: repeat;image-rendering: crisp-edges;}
 #about-content {border:none;}
+#about-icons a {border:none; }
+#about-icons {text-align: center;}
 #avatar { margin: 0 15px 0 0;float:left;padding: 2px; max-width:128px;}
 .cover-page #page-header {border-bottom:10px solid var(--color-blue);background-color: var(--color-black);color: var(--color-blue);}
 .cover-page #page-main {color:currentcolor;}
