@@ -36,14 +36,14 @@
 			</div>
 		</header>
 		<main id="page-main">
-				<section class="anm-moveFromBottomFade delay-200">
 			<div>
+				<section class="anm-moveFromBottomFade delay-200">
 					<img src="{{ site.avatar }}" id="avatar" class="anm-scaleUp delay-400" rel="Logo Videos Manguis">
 					<h1 class="anm-scaleUpCenter delay-400">{{ site.name }}</h1>
-			</div>
-					{{ content }}
 				</section>
-				<hr>									
+			</div>
+			<div id="about-content">{{ content }}</div>
+
 			{% include partials/credits.html %}
     		{% include partials/coffee.html %}   		
 		</main>
