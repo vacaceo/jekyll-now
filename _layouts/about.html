@@ -32,15 +32,14 @@
 	{% include partials/navigation/nav.html %}
 		<header id="page-header" class="about-cover anm-moveFromTop">
 			<div>
-				<h1 class="anm-moveFromBottomFade delay-100">{{ page.title }}</h1>
+					<img src="{{ site.avatar }}" id="avatar" class="anm-scaleUp delay-200" rel="Logo Videos Manguis">
+					<h1 class="anm-scaleUpCenter delay-300">{{ site.name }}</h1>
+					<h5 class="anm-scaleUpCenter delay-500">{{ page.led }}</h5>
 			</div>
 		</header>
 		<main id="page-main">
 			<div>
 				<section class="anm-moveFromBottomFade delay-200">
-					<img src="{{ site.avatar }}" id="avatar" class="anm-scaleUp delay-400" rel="Logo Videos Manguis">
-					<h1 class="anm-scaleUpCenter delay-400">{{ site.name }}</h1>
-					<h5 class="anm-scaleUpCenter delay-500">{{ page.led }}</h5>
 					<div id="about-icons">
 						<div>
 							<p>
