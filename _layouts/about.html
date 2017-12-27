@@ -42,6 +42,17 @@
 					<h1 class="anm-scaleUpCenter delay-400">{{ site.name }}</h1>
 					<h5 class="anm-scaleUpCenter delay-500">{{ page.led }}</h5>
 					<hr>
+					<div id="about-icons">
+						<div>
+							<p>
+								<em><a href="mailto:{{ site.footer-links.email }}"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/gmail.svg" alt="botó eMail"><br>eMail</a></em>
+								<em><a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/twitter.svg" alt="botó Twitter"><br>Twitter</a></em>
+								<em><a href="https://www.facebook.com/{{ site.footer-links.facebook }}"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/facebook.svg" alt="botó facebook"><br>Facebook</a></em>
+								<em><a href="https://instagram.com/{{ site.footer-links.instagram }}"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/instagram.svg" alt="botó Twitter"><br>Instagram</a></em>
+								<em><a href="{{ site.baseurl }}/hipertextos/brand/vcard.vcf" download=".vcard"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/arrows.svg" alt="botó desar vCard"><br>vCard</a></em>
+							</p>
+						</div>
+					</div>
 					<article id="about-content">
 					{{ content }}
 					</article>
