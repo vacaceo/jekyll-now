@@ -20,7 +20,7 @@
 #layout-simple:checked ~ #layout-result article {
 	border: none;
 	border-bottom: 3px solid currentcolor;
-	padding: 0;
+	padding: 2px;
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
@@ -40,8 +40,8 @@
 }
 .simple article div img,
 #layout-simple:checked ~ #layout-result article div img {
-	height: 290px;
-	margin-bottom: 6px;
+	height: 260px;
+	margin-bottom: 4px;
 	object-fit: cover;
 	width: 100%;
 }
