@@ -30,6 +30,13 @@ figure iframe {width:100%;}
 h3 a {color: var(--color-hardgrey) }
 h3 a:hover {color: var(--color-link); text-decoration:none;}
 
+/* Related Posts */
+#rel img.thumbnails {height: 180px;
+	object-fit: cover;
+	width: 100%;
+}
+
+
 @media (max-width: 1250px) {
 
 }
