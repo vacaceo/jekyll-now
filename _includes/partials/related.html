@@ -1,6 +1,6 @@
 <div class="relatedPosts">
 
-<h4>Contenido Relacionado</h4> 
+<h4><u>Contenido Relacionado</u></h4> 
   
 <div class="rect">
 
@@ -28,9 +28,9 @@
     {% if sameTagCount >= minCommonTags %}
     
           <a href="{{ site.baseurl }}{{ post.url }}">
-              <div class="rel">
-                  <h5>{{ post.title }}</h5>
-                  <img width="100%" src="http://img.youtube.com/vi/{{ post.img }}/0.jpg">
+              <div id="rel">
+                  <img class="thumb-6" width="100%" src="http://img.youtube.com/vi/{{ post.img }}/0.jpg">
+                  <h6  class="thumb-6">{{ post.title }}</h6>
               </div>
           </a>
 
