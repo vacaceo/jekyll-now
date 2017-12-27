@@ -37,6 +37,9 @@ layout: default
     				<p>Publicat el {{ page.date | date: "%e %B , %Y" }}</p>
   				</div>
 				<em><hr></em>
+				<div id="related-posts">
+					{% include partials/related.html %}
+  				</div>
 				<div>
 					<h3><u>Comentaris</u></h3>
 					{% include disqus.html %}
