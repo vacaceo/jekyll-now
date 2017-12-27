@@ -16,8 +16,8 @@ paginate: 3
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: isardmt@gmail.com
-  facebook: Isard-Miralles-261219727225263
+  email: videosmanguis@gmail.com
+  facebook: Videos-Manguis-232512496769704
   flickr:
   github:
   behance: 
@@ -27,7 +27,7 @@ footer-links:
   rss: rss
   twitter: videosmanguis
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: c/IsardMiralles
+  youtube: c/VideosManguis
   googleplus: # anything in your profile username that comes after plus.google.com/  
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
