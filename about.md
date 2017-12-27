@@ -1,31 +1,15 @@
 ---
 layout: about
-title: Contacte
-permalink: /about/
+title: Nosotras
+permalink: /nosotras/
 modes: true
 
 ---
 
-###### Il·lustrador, dissenyador i músic de Barcelona
+###### Somos el único canal dirigido or Vacas!
 
-Vaig estudiar Arts Aplicades, il·lustració, pintura i posteriorment música moderna.
+Y con mucho orgullo
 
-Actualment compagino la vida de creatiu gràfic amb la de músic.
+Orgullo Vacuno!
 
-
-He treballat en:
-
-* Disseny Gràfic
-* Cartells & flyers
-* Branding
-* Retratísta
-* HTML5 & CSS3
-* Publicitat
-* Comunity Manager
-* YouTube Creators
-* Promoció Cultural
-* Tècnic de So
-* Tècnic de llums
-* Baterísta profesional
-
-Si em necessites per a algún projecte, serà un plaer poder ajudar-te.
+Somos Youtubers y tal y cual
