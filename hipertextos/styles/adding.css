@@ -60,7 +60,7 @@ a.tagged:hover {color:var(--color-hardgrey) ;}
 .nav-scroll label {font-size: 11px;line-height: 12px;padding: 10px;font-weight: normal;}
 .nav-scroll label b {font-size:25px;line-height:32px;font-weight:lighter;}
 .nav-scroll label:hover {border:thin solid transparent;color:var(--color-black);text-decoration:none;}
-
+.nav-scroll #separador {border-left:1px solid currentcolor;padding-top:15px;}
 /* Suscribe */
 form .button {border:thin solid currentColor;margin-top:0.6em;}
 
