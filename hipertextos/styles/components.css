@@ -20,7 +20,7 @@
 #layout-simple:checked ~ #layout-result article {
 	border: none;
 	border-bottom: 3px solid currentcolor;
-	padding: 2px;
+	padding: 0;
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
