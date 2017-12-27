@@ -19,8 +19,8 @@
 .simple article,
 #layout-simple:checked ~ #layout-result article {
 	border: none;
-	border-top: 6px solid currentColor;
-	padding: 6px 0;
+	border-bottom: 3px solid currentcolor;
+	padding: 0;
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
@@ -32,7 +32,7 @@
 }
 .simple article strong,
 #layout-simple:checked ~ #layout-result article strong {
-	margin: 0;background:var(--color-hard-grey);right:0;padding:6px 12px 9px 12px;position:absolute;margin-top:5px;color:#fff;margin-right: 8px;border-radius: 3px;
+	margin: 0;background:var(--color-hard-grey);right:0;padding:6px 12px 4px 12px;position:absolute;margin-top:5px;color:#fff;margin-right: 8px;border-radius: 5px 5px 0 0;
 }
 .simple article div p,
 #layout-simple:checked ~ #layout-result article div p {
