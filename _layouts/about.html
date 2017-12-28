@@ -38,19 +38,22 @@
 			</div>
 		</header>
 		<main id="page-main">
-			<div>
-				<section>
-					<div id="about-icons" class="anm-zoomIn delay-500">
-						<div>
-							<p>
+			<div id="about-icons" class="anm-zoomIn delay-500">
+				<div>
+					<p>
 {% if site.footer-links.youtube %}<em><a href="https://youtube.com/{{ site.footer-links.youtube }}" title="Síguenos en Youtube"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/youtube.svg" alt="botó YouTube"><br>YouTube</a></em>{% endif %}
 {% if site.footer-links.twitter %}<em><a href="https://www.twitter.com/{{ site.footer-links.twitter }}" title="Síguenos en Twitter"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/twitter.svg" alt="botó Twitter"><br>Twitter</a></em>{% endif %}
 {% if site.footer-links.facebook %}<em><a href="https://www.facebook.com/{{ site.footer-links.facebook }}" title="Síguenos en Facebook"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/facebook.svg" alt="botó facebook"><br>Facebook</a></em>{% endif %}
 {% if site.footer-links.googleplus %}<em><a href="https://google.plus.com/{{ site.footer-links.googleplus }}" title="Síguenos en Google Plus"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/google-plus.svg" alt="botó Google Plus"><br>Google Plus</a></em>{% endif %}
 {% if site.footer-links.instagram %}<em><a href="https://instagram.com/{{ site.footer-links.instagram }}" title="Síguenos en Instagram"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/instagram.svg" alt="botó Instagram"><br>Instagram</a></em>{% endif %}
-							</p>
-						</div>
-					</div>
+					</p>
+				</div>
+			</div>
+			<div id="starwars" class="full-cover">
+				<h3>{{ page.previ }}</h3>
+			</div>
+			<div>
+				<section>
 					<hr>
 					<article id="about-content"  class="anm-moveFromBottomFade delay-900">
 					{{ content }}
