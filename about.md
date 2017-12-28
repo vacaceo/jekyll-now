@@ -4,7 +4,8 @@ title: Nosotras
 permalink: /nosotras/
 modes: true
 led: El único canal dirigido or Vacas!
-about: Somos los YouTubers que estás buscando.<br>Notícias sobre Cine, las últimas Series de moda, nuestro humor absurdo
+about: Somos los YouTubers que estás buscando.
+lab: Notícias, Cine, Series y humor. Todo junto.
 intro: Nuestra historia empieza hace unos 5 años.<br>Así que para no liarnos, empezaremos por el principio...
 previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la de Star Wars...
 
