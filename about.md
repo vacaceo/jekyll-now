@@ -3,7 +3,7 @@ layout: about
 title: Nosotras
 permalink: /nosotras/
 modes: true
-led: Somos el único canal dirigido or Vacas!
+led: El único canal dirigido or Vacas!
 
 ---
 
