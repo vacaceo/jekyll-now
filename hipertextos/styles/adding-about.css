@@ -1,11 +1,11 @@
 /* by Isard Miralles  ADDING EXTRA to About - CSS */
 /* ------------------------------------------------------------ Resets */
 
-#page-header.about-cover {text-align:left;background-image: url("/img/texture/dark.png");background-size:180px 180px;background-repeat: repeat;image-rendering: crisp-edges;}
+#page-header.about-cover {background-image: url("/img/texture/dark.png");background-size:180px 180px;background-repeat: repeat;image-rendering: crisp-edges;}
 #about-content {border:none;}
 #about-icons a {border:none; }
 #about-icons {text-align: center;}
-#avatar { margin: 0 19px 0 2%;float:left;padding: 2px; max-width:134px;}
+#avatar { margin: 0 19px 0 2%;float:left;padding: 2px; max-width:210px;}
 .cover-page #page-header {border-bottom:10px solid var(--color-softtext);background-color: var(--color-black);color: rgba(220,220,220,1);}
 .cover-page #page-main {color:currentcolor;}
 .cover-page a, .cover-page a:visited {color:currentcolor !important;background-color: transparent !important;}
