@@ -5,7 +5,6 @@
 #about-content {border:none;}
 #about-icons a {border:none; }
 #about-icons {text-align: center;top:12px;}
-#spoliers {text-align: center;}
 #avatar { margin: 0 19px 0 2%;float:left;padding: 2px; max-width:180px;margin-bottom:23px;}
 .cover-page #page-header {border-bottom:10px solid var(--color-softtext);background-color: var(--color-black);color: rgba(220,220,220,1);}
 .cover-page #page-main {color:currentcolor;}
@@ -17,6 +16,7 @@
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
 .full-cover div h4 {line-height:1.6em;}
 #intro h5 {line-height:1.6em;padding-top:2%;margin-top:16px;}
+#intro #spoilers h2, #intro #spoilers h6 {text-align: center!important;margin-bottom:6px;color:var(--color-transgrey);}
 
 
 @media (max-width: 1250px) {
