@@ -4,17 +4,19 @@
 #page-header.about-cover {background-image: url("/img/texture/dark.png");background-size:180px 180px;background-repeat: repeat;image-rendering: crisp-edges;}
 #about-content {border:none;}
 #about-icons a {border:none; }
-#about-icons {text-align: center;}
-#avatar { margin: 0 19px 0 2%;float:left;padding: 2px; max-width:210px;}
+#about-icons {text-align: center;top:12px;}
+#avatar { margin: 0 19px 0 2%;float:left;padding: 2px; max-width:180px;margin-bottom:23px;}
 .cover-page #page-header {border-bottom:10px solid var(--color-softtext);background-color: var(--color-black);color: rgba(220,220,220,1);}
 .cover-page #page-main {color:currentcolor;}
 .cover-page a, .cover-page a:visited {color:currentcolor !important;background-color: transparent !important;}
 .cover-page a:hover {color:currentcolor !important;background-color: transparent !important;}
 .cover-page  #coffee {  background: var(--color-background);background: -webkit-linear-gradient(red, var(--color-background));background: -moz-linear-gradient(red, var(--color-background)); background: linear-gradient(#eee, var(--color-background));}
 
+#follow-yt {max-width:180px;float:left;text-align: center;margin-right:15px;}
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
 .full-cover div h4 {line-height:1.6em;}
-#intro h5 {line-height:1.6em;margin-top:6%;}
+#intro h5 {line-height:1.6em;padding-top:2%;margin-top:16px;}
+
 
 @media (max-width: 1250px) {
     section.full-cover {padding:5% 2% 5% 2%;}
