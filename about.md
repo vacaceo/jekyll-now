@@ -4,6 +4,7 @@ title: Nosotras
 permalink: /nosotras/
 modes: true
 led: El único canal dirigido or Vacas!
+about: Somos los YouTubers que estás buscando.<br>Notícias sobre Cine, las últimas Series de moda, nuestro humor absurdo
 intro: Nuestra historia empieza hace unos 5 años.<br>Así que para no liarnos, empezaremos por el principio...
 previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la de Star Wars...
 
@@ -11,7 +12,6 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 
 ###### Nos encontrábamos pastando por un prado, cuando, sin venir a cuento, algo nos cambió la vida para siempre.
-
 
 #### Apareció un Ovni.
 ###### Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
