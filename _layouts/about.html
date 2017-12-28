@@ -39,8 +39,8 @@
 		</header>
 		<main id="page-main">
 			<div>
-				<section class="anm-moveFromBottomFade delay-200">
-					<div id="about-icons">
+				<section>
+					<div id="about-icons" class="anm-zoomIn delay-500">
 						<div>
 							<p>
 {% if site.footer-links.youtube %}<em><a href="https://youtube.com/{{ site.footer-links.youtube }}" title="Síguenos en Youtube"><img class="dialog-svg" src="{{ site.baseurl }}/hipertextos/svg/youtube.svg" alt="botó YouTube"><br>YouTube</a></em>{% endif %}
@@ -52,7 +52,7 @@
 						</div>
 					</div>
 					<hr>
-					<article id="about-content">
+					<article id="about-content"  class="anm-moveFromBottomFade delay-900">
 					{{ content }}
 					</article>
 				</section>
