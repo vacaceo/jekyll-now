@@ -13,16 +13,17 @@
 .cover-page  #coffee {  background: var(--color-background);background: -webkit-linear-gradient(red, var(--color-background));background: -moz-linear-gradient(red, var(--color-background)); background: linear-gradient(#eee, var(--color-background));}
 
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
-.full-cover div h4 {}
+.full-cover div h4 {line-height:1.6em;}
+#intro h5 {line-height:1.6em;margin-top:6%;}
 
 @media (max-width: 1250px) {
-  	.cover-page #page-main ul {-webkit-column-count: 2;-moz-column-count: 2;column-count: 2;}
+    section.full-cover {padding:5% 2% 5% 2%;}
     .cover-page p {font-size:16px;line-height:1.8em;}
-    .cover-page ul li {font-size:14px;line-height:1.5em;margin-top:5px;padding:0;}
 }
 @media (max-width: 768px) {
+    section.full-cover {padding:5% 2% 5% 1%;}
+	.full-cover div h4 {font-size:23px;line-height:1.4em;text-align: left;}
     .cover-page h4  {text-align:center;}
     .cover-page p {font-size:15px;line-height:1.5em;}
-    .cover-page ul li {font-size:12px;line-height:1.3em;margin-top:5px;padding:0;}
     .cover-page strong em a {width:100%;margin-bottom: 5px;}
 }
