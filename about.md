@@ -12,7 +12,10 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 ---
 
 
-###### Nos encontrábamos pastando por un prado, cuando, sin venir a cuento, algo nos cambió la vida para siempre.
+###### Nos encontrábamos pastando en un lindo prado verde.
+###### Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de nuestra granja.
+###### Ya habíamos probado varias acciones, principalmente de desobediencia pasiva. Pero ninguna parecía funcionar.
+###### Algunas de nosotras, habían perdido ya toda esperanza.
 
 #### Apareció un Ovni.
 ###### Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
