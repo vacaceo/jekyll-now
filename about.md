@@ -9,7 +9,7 @@ lab: Notícias, Cine, Series y humor.<br>Todo junto.
 intro: Nuestra historia empieza hace unos 5 años.<br>Así que para no liarnos, empezaremos por el principio...
 previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la de Star Wars...
 
----
+<hr class="ep1">
 
 ## Episodio I
 ### Palo de escoba
@@ -60,7 +60,7 @@ Pero al final nada de eso. Nos trataron super bien.
 Nunca nos hicieron daño, eran buena gente.
 
 
----
+<hr class="ep2">
 
 ## Episodio II
 ### El cambio de tercio
@@ -107,12 +107,12 @@ Toda una obra maestra de software creada por unas focas rusas.
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
 
----
+<hr class="ep3">
 
 ## Episodio III
 ### El cambio de tercio
 
-
+<hr class="ep4">
 
 ---
 
