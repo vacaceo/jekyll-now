@@ -27,7 +27,7 @@ Algún potingue humano, pensámos.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
-Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de la granja.
+Un poco alejadas del resto, algunas estábamos conspirando contra los dueños de la granja.
 
 Ya habíamos probado varias acciones, principalmente de desobediencia.
 
@@ -37,12 +37,12 @@ Algunas de nosotras, habían perdido ya toda esperanza.
 
 Y fue en ése preciso instante que nuestras vidas cambiaron para siempre.
 
-
-![Llega un Ovni]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
-
 Apareció un Ovni.
 
 Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
+
+
+![Llega un Ovni]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
 Al principio nos cagamos.
 
@@ -59,4 +59,50 @@ Pero al final nada de eso. Nos trataron super bien.
 
 Nunca nos hicieron daño, eran buena gente.
 
+
+
+## Episodio II
+### El cambio de tercio
+
+
+Nos instruyeron en el uso de internet.
+
+Nos implantaron Wifi y un par de puertos USB a cada una.
+
+Nos contaron muchas cosas acerca del balance de la fuerza y de qué hacer si encontrábamos un anillo de poder.
+
+Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo de digital.
+
+
+##### Creamos la web www.videosmanguis.com
+
+Una de web de películas en streaming para ver online totalmente gratis y sin publicidad intrusiva.
+
+Durante un tiempo nos fué bien. Nunca ganamos dinero, pero estábamos orgullosas de nuestro trabajo.
+
+Pero justo cuando la cosa parecía estar arrancando...
+
+El peso de la Ley cayó sobre nosotras y nos cerraron la web.
+
+Internet se estaba pasando al lado oscuro.
+
+Y nadie pareció darse cuenta.
+
+![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
+
+
+Entonces, decidimos empezar a crear nuestros propios contenidos.
+
+Un dia que parecía normal, nos volvimos Youtubers de golpe.
+
+Pero había un problema. Los humanos son el porcentaje más grande de usuarios de Youtube.
+
+Y nosotras somos vacas.
+
+Así que conseguimos un software pirata que consigue crear "avatares humanos" para nuestros programas en directo.
+
+Toda una obra maestra de software creada por unas focas rusas.
+
+![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
+ 
 
