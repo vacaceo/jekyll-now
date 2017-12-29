@@ -15,6 +15,7 @@
 .cover-page h2, .cover-page h3 {text-align:center;}
 .cover-page h2 {margin:0;}
 .cover-page h3 {margin:0 0 60px 0;}
+#about-content img {float:left;margin:9px 15px 9px 0;}
 
 #follow-yt {max-width:180px;float:left;text-align: center;margin-right:15px;}
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
