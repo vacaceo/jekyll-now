@@ -12,10 +12,10 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 ---
 
 
-###### Nos encontrábamos pastando en un lindo prado verde.
-###### Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de nuestra granja.
-###### Ya habíamos probado varias acciones, principalmente de desobediencia pasiva. Pero ninguna parecía funcionar.
-###### Algunas de nosotras, habían perdido ya toda esperanza.
+###### Nos encontrábamos pastando en un lindo prado verde.<br>Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de nuestra granja.<br>Ya habíamos probado varias acciones, principalmente de desobediencia pasiva.
+###### Pero ninguna parecía funcionar.<br>Algunas de nosotras, habían perdido ya toda esperanza.
+
+![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
 #### Apareció un Ovni.
 ###### Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
