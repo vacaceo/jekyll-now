@@ -37,6 +37,7 @@ Algunas de nosotras, habían perdido ya toda esperanza.
 
 Y fue en ése preciso instante que nuestras vidas cambiaron para siempre.
 
+
 ![Llega un Ovni]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
 Apareció un Ovni.
