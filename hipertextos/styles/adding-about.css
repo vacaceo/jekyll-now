@@ -11,6 +11,10 @@
 .cover-page a, .cover-page a:visited {color:currentcolor !important;background-color: transparent !important;}
 .cover-page a:hover {color:currentcolor !important;background-color: transparent !important;}
 .cover-page  #coffee {  background: var(--color-background);background: -webkit-linear-gradient(red, var(--color-background));background: -moz-linear-gradient(red, var(--color-background)); background: linear-gradient(#eee, var(--color-background));}
+.cover-page h5 {line-height:1.4em;}
+.cover-page h2, .cover-page h3 {text-align:center;}
+.cover-page h2 {margin:0;}
+.cover-page h3 {margin:0 0 60px 0;}
 
 #follow-yt {max-width:180px;float:left;text-align: center;margin-right:15px;}
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
@@ -29,4 +33,4 @@ section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:va
     .cover-page h4  {text-align:center;}
     .cover-page p {font-size:15px;line-height:1.5em;}
     .cover-page strong em a {width:100%;margin-bottom: 5px;}
-}
+}-
