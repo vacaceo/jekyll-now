@@ -11,6 +11,9 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ---
 
+## Episodio I
+### Palo de escoba
+
 
 ##### Nos encontrábamos pastando en un lindo prado verde.<br>Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de nuestra granja.<br>Ya habíamos probado varias acciones, principalmente de desobediencia pasiva.
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
