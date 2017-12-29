@@ -45,9 +45,17 @@ Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
 
 Al principio nos cagamos.
 
-El Ovni quedó bonito. Pero éstos si que saben limpiar, tenían unos robots increíblemente eficientes.
+El Ovni quedó bonito. Pero éstos tíos si que sabían limpiar, tenían unos robots increíblemente eficientes.
 
-Además parecían muy contentos. Suponemos que lo recibieron como un regalo.
+Además parecían muy contentos. Lo recibieron como un regalo.
 
+De hecho se pasaron un buen rato jugando con eso...
+
+
+Pero luego volvieron con nosotras. Teníamos mucho miedo por las histórias de "mutilación de ganado" que habíamos oído.
+
+Pero al final nada de eso. Nos trataron super bien.
+
+Nunca nos hicieron daño, eran buena gente.
 
 
