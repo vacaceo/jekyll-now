@@ -60,6 +60,7 @@ Pero al final nada de eso. Nos trataron super bien.
 Nunca nos hicieron daño, eran buena gente.
 
 
+---
 
 ## Episodio II
 ### El cambio de tercio
@@ -105,4 +106,13 @@ Toda una obra maestra de software creada por unas focas rusas.
 
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
+
+---
+
+## Episodio III
+### El cambio de tercio
+
+
+
+---
 
