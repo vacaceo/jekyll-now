@@ -11,7 +11,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ---
 
-<hr class="ep1">
+<hr id="ep1">
 
 ## Episodio I
 ### Palo de escoba
@@ -62,7 +62,7 @@ Pero al final nada de eso. Nos trataron super bien.
 Nunca nos hicieron daño, eran buena gente.
 
 
-<hr class="ep2">
+<hr id="ep2">
 
 ## Episodio II
 ### El cambio de tercio
@@ -109,12 +109,12 @@ Toda una obra maestra de software creada por unas focas rusas.
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
 
-<hr class="ep3">
+<hr id="ep3">
 
 ## Episodio III
 ### El cambio de tercio
 
-<hr class="ep4">
+<hr id="ep4">
 
 ---
 
