@@ -20,7 +20,7 @@
 #follow-yt {max-width:180px;float:left;text-align: center;margin-right:15px;}
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
 .full-cover div h4 {line-height:1.6em;}
-#intro h4 {line-height:1.6em;padding-top:2%;margin-top:16px;}
+#intro h4 {line-height:1.4em;padding-top:2%;margin-top:16px;}
 #intro #spoilers h2, #intro #spoilers h6 {text-align: center!important;margin-bottom:6px;color:var(--color-transgrey);}
 
 

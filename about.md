@@ -16,10 +16,15 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 
 ##### Nos encontrábamos pastando en un lindo prado verde.
+##### Era un Lunes. Todo parecía normal.
+##### La brisa era suave pero constante y habían menos moscas que de costumbre.
+##### El pasto era bueno, aunque olía todo un poco raro, era un olor sutil.
+##### Pero constante. Algún potingue humano, pensámos.
+
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
-##### Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de nuestra granja.
-##### Ya habíamos probado varias acciones, principalmente de desobediencia pasiva.
+##### Un poco alejadas del resto, algunas de nosotras estábamos conspirando contra los dueños de la granja.
+##### Ya habíamos probado varias acciones, principalmente de desobediencia.
 ##### Pero ninguna parecía funcionar.
 ##### Algunas de nosotras, habían perdido ya toda esperanza.
 ##### Y fue en ése preciso instante que nuestras vidas cambiaron para siempre.
