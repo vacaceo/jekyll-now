@@ -23,13 +23,11 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 Era un Lunes. Todo parecía normal.
 
 Nos encontrábamos pastando en un lindo prado verde.
-
 La brisa era suave pero constante y habían menos moscas que de costumbre.
-
 El pasto era bueno, aunque olía todo un poco raro, era un olor sutil pero constante.
 
 Algún potingue humano, comentámos...
-
+<br>
 
 Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja.
 
@@ -47,17 +45,14 @@ Bajó del cielo ante nuestro asombro, y se llevó a varias de nosotras.
 Al principio nos cagamos. El Ovni quedó bonito.
 
 Pero éstos tíos si que sabían limpiar, tenían unos robots increíblemente eficientes.
+Además parecían muy contentos.
 
-Además parecían muy contentos. Lo recibieron como un regalo.
-
+Lo recibieron como un regalo.
 De hecho se pasaron un buen rato jugando con eso...
 
+<br>
 
-Pero luego volvieron con nosotras. Teníamos mucho miedo por las histórias de "mutilación de ganado" que habíamos oído.
-
-Pero al final nada de eso. Nos trataron super bien.
-
-Nunca nos hicieron daño, eran buena gente.
+Luego volvieron con nosotras. Teníamos miedo.
 
 
 
