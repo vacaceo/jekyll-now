@@ -35,7 +35,9 @@ Un poco alejadas del resto, algunas conspirábamos contra los dueños de la gran
 Y en ése instante nuestras vidas cambiaron para siempre.
 
 
-Apareció un Ovni.
+##### Apareció un Ovni.
+
+<br>
 
 Bajó del cielo ante nuestro asombro, y se llevó a varias de nosotras.
 
