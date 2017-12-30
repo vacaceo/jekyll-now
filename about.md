@@ -108,10 +108,13 @@ Y nosotras somos vacas.
 
 Así que conseguimos un software pirata que consigue crear "avatares humanos" para nuestros programas en directo.
 
-Toda una obra maestra de software creada por unas focas rusas.
-
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
+Una obra maestra del software creada por focas rusas.
+
+Una App muy recomendable de código abierto (Open Source).
+
+Y es gratis.
 
 
 <hr id="ep3">
@@ -123,7 +126,7 @@ Toda una obra maestra de software creada por unas focas rusas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
-Finalmente...
+Después de mucha
 
 
 
@@ -131,7 +134,7 @@ Finalmente...
 
 
 
-## Episodio III
+## Episodio IV
 #### Las últimas Youtubers
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
@@ -150,9 +153,13 @@ Finalmente...
 ![Vacas Pastando]({{ "/assets/bio/grano.jpg" | absolute_url }})
 
 
-# FIN
-#### Se acabó, tal vez nos dé por hacer otra trilogía, pero de momento no.
 
+
+# USA LA FUERZA
+
+
+## FIN
+#### Se acabó, tal vez nos dé por hacer otra trilogía,<br>pero de momento no.
 
 
 
