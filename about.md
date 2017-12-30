@@ -35,18 +35,17 @@ Un poco alejadas del resto, algunas conspirábamos contra los dueños de la gran
 Y en ése instante nuestras vidas cambiaron para siempre.
 
 
+Apareció un Ovni.
 
-#### Apareció un Ovni.
-
-Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
+Bajó del cielo ante nuestro asombro, y se llevó a varias de nosotras.
 
 
 ![Llega un Ovni]({{ "/assets/bio/ovni.jpg" | absolute_url }})
 
 
-Al principio nos cagamos.
+Al principio nos cagamos. El Ovni quedó bonito.
 
-El Ovni quedó bonito. Pero éstos tíos si que sabían limpiar, tenían unos robots increíblemente eficientes.
+Pero éstos tíos si que sabían limpiar, tenían unos robots increíblemente eficientes.
 
 Además parecían muy contentos. Lo recibieron como un regalo.
 
