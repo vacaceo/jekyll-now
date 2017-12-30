@@ -14,7 +14,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 <hr id="ep1">
 
 ## Episodio I
-### Vamos por partes
+#### Vamos por partes
 
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
@@ -45,7 +45,7 @@ Apareció un Ovni.
 Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
 
 
-![Llega un Ovni]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
+![Llega un Ovni]({{ "/assets/bio/ovni.jpg" | absolute_url }})
 
 Al principio nos cagamos.
 
@@ -66,10 +66,10 @@ Nunca nos hicieron daño, eran buena gente.
 <hr id="ep2">
 
 ## Episodio II
-### El cambio de tercio
+#### El imperio contraataca un poco
 
 
-![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
+![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
 Nos instruyeron en el uso de internet.
 
@@ -98,8 +98,6 @@ Internet se estaba pasando al lado oscuro.
 
 Y nadie pareció darse cuenta.
 
-![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
-
 
 Entonces, decidimos empezar a crear nuestros propios contenidos.
 
@@ -121,11 +119,9 @@ Toda una obra maestra de software creada por unas focas rusas.
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
 ## Episodio III
-### El cambio de tercio
+#### Las últimas Youtubers
 
-<hr id="ep4">
-
-![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
+Finalmente...
 
 ---
 
