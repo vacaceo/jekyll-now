@@ -26,8 +26,6 @@ Todo parecía normal.
 Nos encontrábamos pastando en un lindo prado verde.
 La brisa era suave pero constante y habían menos moscas que de costumbre.
 
-El pasto era bueno.
-
 <br>
 
 Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja.
