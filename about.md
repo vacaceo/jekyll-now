@@ -42,9 +42,12 @@ Bajó del cielo ante nuestro asombro, y se llevó a varias de nosotras.
 ![Llega un Ovni]({{ "/assets/bio/ovni.jpg" | absolute_url }})
 
 
-Al principio nos cagamos. El Ovni quedó bonito.
+Al principio nos cagamos.
 
-Pero éstos tíos si que sabían limpiar, tenían unos robots increíblemente eficientes.
+El Ovni quedó bonito.
+
+Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes.
+
 Además parecían muy contentos.
 
 Lo recibieron como un regalo.
@@ -54,22 +57,39 @@ De hecho se pasaron un buen rato jugando con eso...
 
 Luego volvieron con nosotras. Teníamos miedo.
 
+Mucho miedo.
+
 
 
 <hr id="ep2">
 
 
 ## Episodio II
-#### El imperio contraataca un poco
+#### España contraataca un poco
 
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
-Nos instruyeron en el uso de internet.
+Nos hicieron un montón de pruebas, psicotécnicos y algún test barato.
 
-Nos implantaron Wifi y un par de puertos USB a cada una.
+Luego nos dejaron escoger:
 
-Nos contaron muchas cosas acerca del balance de la fuerza y de qué hacer si encontrábamos un anillo de poder.
+O Volver a nuestra rutina, o ser las primeras vacas en dominar el uso de internet.
+
+Una de nosotras estornudó. Y se lo tomaron como un sí.
+
+Así que nos metieron un supositorio y esperaron a que hiciera efecto.
+
+
+
+Luego, nos instruyeron en el uso de internet, nos implantaron Wifi nativo y un par de puertos USB a cada una.
+
+Nos hablaron de Steve Jobs y de Bill Gates.
+
+Y de Google. Hasta nos hicieron un Gmail para cada una.
+
+
+También nos contaron muchas cosas acerca del balance de la fuerza y de qué hacer si encontrábamos un anillo de poder.
 
 Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo de digital.
 
@@ -77,16 +97,17 @@ Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo
 
 Creamos la web:
 
-##### www.videosmanguis.com
 
+### VideosManguis.com
 
-Una de web de películas en streaming para ver online totalmente gratis y sin publicidad intrusiva.
+<br>
 
-Durante un tiempo nos fué bien. Nunca ganamos dinero, pero estábamos orgullosas de nuestro trabajo.
+Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
 
-Pero justo cuando la cosa parecía estar arrancando...
+Durante un tiempo nos fue bien. Nunca ganamos dinero, pero estábamos orgullosas de nuestro trabajo.
 
-El peso de la Ley cayó sobre nosotras y nos cerraron la web.
+Pero justo cuando la cosa parecía estar arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
+
 
 Internet se estaba pasando al lado oscuro.
 
@@ -95,21 +116,23 @@ Y nadie pareció darse cuenta.
 
 Entonces, decidimos empezar a crear nuestros propios contenidos.
 
-Un dia que parecía normal, nos volvimos Youtubers de golpe.
+Y así, sin darnos cuenta, nos volvimos Youtubers de golpe.
 
-Pero había un problema. Los humanos son el porcentaje más grande de usuarios de Youtube.
+Pero había un problema. Los humanos son el porcentaje más grande de usuarios en Youtube.
 
 Y nosotras somos vacas.
 
-Así que conseguimos un software pirata que consigue crear "avatares humanos" para nuestros programas en directo.
+Después de varios experimentos frustrados conseguimos un software especializado en crear "avatares humanos" digitalmente.
 
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
-Una obra maestra del software creada por focas rusas.
+Una obra maestra de software creada por las focas rusas.
 
-Una App muy recomendable de código abierto (Open Source).
+Muy utilizada en la gran guerra contra la Alemania Nazi.
 
-Y es gratis.
+100% código abierto.
+
+Y gratis!
 
 
 <hr id="ep3">
@@ -121,14 +144,12 @@ Y es gratis.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
-Empezamos a comprarnos coches buenos y a vivir por todo lo alto.
 
-No. Es broma, la verdad es que lo hacemos por gusto, y pillar no pillamos mucho.
-
-Sobretodo desde que Youtube cambió su rollo, pero eso da para otra trilogía más oscura...
 
 
 Como la vez que nos caímos en otra dimensión donde todo era de Lego.
+
+![Star Cows Lego movie]({{ "/assets/bio/starcows.jpg" | absolute_url }})
 
 Eso fue tremendo, aún estamos montando una película-documental de esa experiencia, pero rapido no va a poder ser.
 
@@ -140,8 +161,7 @@ Y luego la post-producción.
 
 Que siempre hay la típica niña re-pipi (que resulta ser la hija del jefe) y que se toma tu película como si fuera la segunda parte de Frozen.
 
-Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "Caminando entre dinosaurios", "Rambo XXIV" y todas las de Chuck Norris en general.
-
+Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "Caminando entre dinosaurios", "Rambo XVII" y en todas las de Chuck Norris en general.
 
 
 <hr id="ep4">

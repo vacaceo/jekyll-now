@@ -87,6 +87,6 @@ exclude:
 defaults:
   -
     scope:
-      path: "assets/print"
+      path: "assets/bio"
     values:
       image: true
