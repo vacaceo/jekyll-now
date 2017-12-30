@@ -48,9 +48,8 @@ El Ovni quedó bonito.
 
 Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes.
 
-Además parecían muy contentos.
+Además parecían muy contentos. Lo recibieron como un regalo.
 
-Lo recibieron como un regalo.
 De hecho se pasaron un buen rato jugando con eso...
 
 <br>
