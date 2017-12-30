@@ -132,6 +132,8 @@ Muy utilizada en la gran guerra contra la Alemania Nazi.
 
 Y gratis!
 
+<br>
+
 
 <hr id="ep3">
 
@@ -165,6 +167,7 @@ Que siempre hay la típica niña re-pipi (que resulta ser la hija del jefe) y qu
 
 Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "Caminando entre dinosaurios", "Rambo XVII" y en todas las de Chuck Norris en general.
 
+<br>
 
 
 <hr id="ep4">
@@ -217,7 +220,7 @@ O fué un descuido?
 
 A lo mejor es una conspiración...
 
-
+<br>
 
 # FIN
 
