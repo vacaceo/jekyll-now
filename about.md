@@ -52,25 +52,25 @@ Además parecían muy contentos. Lo recibieron como un regalo.
 
 De hecho se pasaron un buen rato jugando con eso...
 
-<br>
+---
 
 Luego volvieron con nosotras. Teníamos miedo.
 
 Mucho miedo.
 
-<br>
+---
 
 Nos hicieron un montón de pruebas, psicotécnicos y algún test barato.
 
-Luego nos dejaron escoger:
+Luego nos dejaron escoger: Volver a nuestra rutina vacuna o ser las primeras vacas en dominar el arte y uso de internet.
 
-O Volver a nuestra rutina, o ser las primeras vacas en dominar el uso de internet.
+Una de nosotras estornudó.
 
-Una de nosotras estornudó. Y se lo tomaron como un sí.
+Y se lo tomaron como un sí.
 
 Así que nos metieron un supositorio y esperaron a que hiciera efecto.
 
-
+---
 
 Luego, nos instruyeron en el uso de internet, nos implantaron Wifi nativo y un par de puertos USB a cada una.
 
