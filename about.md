@@ -87,9 +87,11 @@ Creamos la web:
 
 <br>
 
-**VideosManguis.com
+### VideosManguis.com
 
 Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
+
+Y nos pusimos a subir películas y documentales como locas.
 
 <br>
 
@@ -104,7 +106,11 @@ Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
 
 Durante un tiempo nos fue bien.
 
-Estábamos muy orgullosas de nuestro trabajo. Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
+Estábamos muy orgullosas de nuestro trabajo. Y nos vimos todas las pelis y documentales que enlazábamos.
+
+<br>
+
+Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
 
 <br>
 
