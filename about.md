@@ -23,10 +23,12 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 Era un Lunes. Todo parecía normal.
 
 Nos encontrábamos pastando en un lindo prado verde.
+
 La brisa era suave pero constante y habían menos moscas que de costumbre.
+
 El pasto era bueno.
 
----
+<br>
 
 Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja.
 
@@ -51,13 +53,11 @@ Además parecían muy contentos. Lo recibieron como un regalo.
 
 De hecho se pasaron un buen rato jugando con eso...
 
----
 
 Luego volvieron con nosotras. Teníamos miedo.
 
 Mucho miedo.
 
----
 
 Nos hicieron un montón de pruebas, psicotécnicos y algún test barato.
 
@@ -69,7 +69,6 @@ Y se lo tomaron como un sí.
 
 Así que nos metieron un supositorio y esperaron a que hiciera efecto.
 
----
 
 Luego, nos instruyeron en el uso de internet, nos implantaron Wifi nativo y un par de puertos USB a cada una.
 
