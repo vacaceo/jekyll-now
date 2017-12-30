@@ -202,7 +202,7 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 ## Episodio IV
 #### El último Youtuber
 
-![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
+![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
 
 
 Finalmente...
