@@ -102,9 +102,7 @@ Creamos la web:
 
 Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
 
-Durante un tiempo nos fue bien. Estábamos muy orgullosas de nuestro trabajo.
-
-Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
+Durante un tiempo nos fue bien. Estábamos muy orgullosas de nuestro trabajo. Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
 
 <br>
 
