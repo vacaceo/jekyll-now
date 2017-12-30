@@ -130,10 +130,10 @@ Pero había un problema. Los humanos son el porcentaje más grande de usuarios e
 
 Y nosotras somos vacas.
 
-Después de varios experimentos frustrados conseguimos un software especializado en crear "avatares humanos" digitalmente.
-
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
+Después de varios experimentos frustrados conseguimos un software especializado en crear "avatares humanos" digitalmente.
+
 Una obra maestra de software creada por las focas rusas.
 
 Muy utilizada en la gran guerra contra la Alemania Nazi.
