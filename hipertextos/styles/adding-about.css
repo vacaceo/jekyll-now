@@ -13,9 +13,10 @@
 .cover-page a:hover {color:currentcolor !important;background-color: transparent !important;}
 .cover-page  #coffee {  background: var(--color-background);background: -webkit-linear-gradient(red, var(--color-background));background: -moz-linear-gradient(red, var(--color-background)); background: linear-gradient(#eee, var(--color-background));}
 .cover-page h5 {line-height:1.4em;font-weight: normal;margin:0;}
-.cover-page h2, .cover-page h3 {text-align:center;}
 .cover-page h2 {margin:0;}
 .cover-page h3 {margin:0 0 60px 0;}
+#about-content h2, #about-content h4 {text-align:center;}
+#about-content h4 {font-weight:lighter ;margin:2% 0 4% 0;}
 #about-content img {float:left;margin:9px 15px 9px 0;}
 .cover-page p {line-height:1.4em;font-weight: normal;font-size:26px;}
 
@@ -23,7 +24,7 @@
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
 .full-cover div h4 {line-height:1.6em;}
 #intro #spoilers h2, #intro #spoilers h6 {text-align: center!important;margin-bottom:6px;color:var(--color-transgrey);}
-#intro #subs {text-align:center;}
+#intro #subs {text-align:center;margin-top:1%;}
 
 @media (max-width: 1250px) {
     section.full-cover {padding:5% 2% 5% 2%;}
