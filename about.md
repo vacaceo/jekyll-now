@@ -14,8 +14,10 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 <hr id="ep1">
 
 ## Episodio I
-### Palo de escoba
+### Vamos por partes
 
+
+![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
 Nos encontrábamos pastando en un lindo prado verde.
 
@@ -27,7 +29,6 @@ El pasto era bueno, aunque olía todo un poco raro, era un olor sutil. Pero cons
 
 Algún potingue humano, pensámos.
 
-![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
 Un poco alejadas del resto, algunas estábamos conspirando contra los dueños de la granja.
 
@@ -68,6 +69,8 @@ Nunca nos hicieron daño, eran buena gente.
 ### El cambio de tercio
 
 
+![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
+
 Nos instruyeron en el uso de internet.
 
 Nos implantaron Wifi y un par de puertos USB a cada una.
@@ -77,7 +80,11 @@ Nos contaron muchas cosas acerca del balance de la fuerza y de qué hacer si enc
 Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo de digital.
 
 
-##### Creamos la web www.videosmanguis.com
+
+Creamos la web:
+
+##### www.videosmanguis.com
+
 
 Una de web de películas en streaming para ver online totalmente gratis y sin publicidad intrusiva.
 
@@ -111,10 +118,14 @@ Toda una obra maestra de software creada por unas focas rusas.
 
 <hr id="ep3">
 
+![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
+
 ## Episodio III
 ### El cambio de tercio
 
 <hr id="ep4">
+
+![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
 ---
 
