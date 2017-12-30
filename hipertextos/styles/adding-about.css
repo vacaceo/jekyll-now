@@ -26,6 +26,7 @@ section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:va
 .full-cover div h4 {line-height:1.6em;}
 #intro #spoilers h2, #intro #spoilers h6 {text-align: center!important;margin-bottom:6px;color:var(--color-transgrey);}
 #intro #subs {text-align:center;margin-top:1%;}
+#ep2, #ep3, #ep4, #ep5 {border-top:thin solid currentcolor;}
 
 @media (max-width: 1250px) {
     section.full-cover {padding:5% 2% 5% 2%;}

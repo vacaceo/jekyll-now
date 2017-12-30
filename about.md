@@ -59,7 +59,6 @@ Luego volvieron con nosotras. Teníamos miedo.
 
 Mucho miedo.
 
----
 
 <hr id="ep2">
 
@@ -134,7 +133,6 @@ Muy utilizada en la gran guerra contra la Alemania Nazi.
 
 Y gratis!
 
-----
 
 <hr id="ep3">
 
@@ -165,7 +163,6 @@ Que siempre hay la típica niña re-pipi (que resulta ser la hija del jefe) y qu
 Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "Caminando entre dinosaurios", "Rambo XVII" y en todas las de Chuck Norris en general.
 
 
-----
 
 <hr id="ep4">
 
@@ -179,7 +176,6 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 Finalmente...
 
 
-----
 
 <hr id="ep5">
 
@@ -219,7 +215,6 @@ O fué un descuido?
 A lo mejor es una conspiración...
 
 
-----
 
 # FIN
 
