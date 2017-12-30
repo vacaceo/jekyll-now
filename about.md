@@ -59,7 +59,7 @@ Luego volvieron con nosotras. Teníamos miedo.
 
 Mucho miedo.
 
-<em><hr></em>
+---
 
 <hr id="ep2">
 
