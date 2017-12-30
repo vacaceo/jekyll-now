@@ -19,33 +19,29 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
-Nos encontrábamos pastando en un lindo prado verde.
-
 Era un Lunes. Todo parecía normal.
+
+Nos encontrábamos pastando en un lindo prado verde.
 
 La brisa era suave pero constante y habían menos moscas que de costumbre.
 
-El pasto era bueno, aunque olía todo un poco raro, era un olor sutil. Pero constante.
+El pasto era bueno, aunque olía todo un poco raro, era un olor sutil pero constante.
 
-Algún potingue humano, pensámos.
+Algún potingue humano, comentámos...
 
 
-Un poco alejadas del resto, algunas estábamos conspirando contra los dueños de la granja.
+Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja.
 
-Ya habíamos probado varias acciones, principalmente de desobediencia.
+Y en ése instante nuestras vidas cambiaron para siempre.
 
-Pero ninguna parecía funcionar.
 
-Algunas de nosotras, habían perdido ya toda esperanza.
-
-Y fue en ése preciso instante que nuestras vidas cambiaron para siempre.
-
-Apareció un Ovni.
+###### Apareció un Ovni.
 
 Bajó del cielo ante nuestro asombro, se llevó a varias de nosotras.
 
 
 ![Llega un Ovni]({{ "/assets/bio/ovni.jpg" | absolute_url }})
+
 
 Al principio nos cagamos.
 
