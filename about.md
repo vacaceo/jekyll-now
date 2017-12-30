@@ -81,13 +81,13 @@ También nos contaron muchas cosas acerca del balance de la fuerza y de qué hac
 
 Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo de digital.
 
-
+<br>
 
 Creamos la web:
 
+<br>
 
-VideosManguis.com
-
+**VideosManguis.com
 
 Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
 
