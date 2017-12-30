@@ -178,7 +178,7 @@ Todo el dia mirando Google Trends, Analytics, el parte meteorológico, videos de
 
 Como la vez que nos caímos en otra dimensión donde todo era de Lego.
 
-![Star Cows Lego movie]({{ "/assets/bio/starcows.jpg" | absolute_url }})
+![Star Cows Lego movie polaroid]({{ "/assets/bio/starcows.png" | absolute_url }})
 
 Eso fue tremendo, aún estamos montando una película-documental de esa experiencia, pero rapido no va a poder ser.
 
@@ -218,13 +218,13 @@ Finalmente...
 
 ![Vacas Pastando]({{ "/assets/bio/grano.jpg" | absolute_url }})
 
-
-
+<br>
 
 ## USA LA FUERZA
 
+<br>
 
-No mojes después de las doce a ningún ser del que no te hayas informado debidamente.
+No mojes (después de las doce) a ningún ser del que no te hayas informado debidamente.
 
 No confíes en la inteligencia Artificial. Ni en la Inteligencia Militar, ni en la Inteligencia humana.
 
@@ -245,6 +245,21 @@ Nada en contra de nadie, pero, quiero decir, ...lo hacían queriendo?
 O fué un descuido?
 
 A lo mejor es una conspiración...
+
+...o a lo mejor no, pero es nuestra manera de dejar la trama abierta...
+
+R. R. Martin domina más, si, claro. Pero tampoco pretendemos competir con él.
+
+Porque ahora a ver como lo termina, hay mucha expectativa, tu imaginate que le sale un Jar Jar Binks por ahí... entonces que?
+
+Martin, es broma, te queremos.
+
+Pero a Ben Affleck no. Lo siento tío cuando te pones mallas no mola.
+
+Y tu insistes, pero no molas. Sigue con tu rollo normal, pero deja los superheroes porque no cuela.
+
+Déjalo, en serio.
+ 
 
 <br>
 
