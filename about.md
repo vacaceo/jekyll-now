@@ -24,10 +24,9 @@ Era un Lunes. Todo parecía normal.
 
 Nos encontrábamos pastando en un lindo prado verde.
 La brisa era suave pero constante y habían menos moscas que de costumbre.
-El pasto era bueno, aunque olía todo un poco raro, era un olor sutil pero constante.
+El pasto era bueno.
 
-Algún potingue humano, comentámos...
-<br>
+---
 
 Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja.
 
