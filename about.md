@@ -126,7 +126,26 @@ Y es gratis.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
-Después de mucha
+Empezamos a comprarnos coches buenos y a vivir por todo lo alto.
+
+No. Es broma, la verdad es que lo hacemos por gusto, y pillar no pillamos mucho.
+
+Sobretodo desde que Youtube cambió su rollo, pero eso da para otra trilogía más oscura...
+
+
+Como la vez que nos caímos en otra dimensión donde todo era de Lego.
+
+Eso fue tremendo, aún estamos montando una película-documental de esa experiencia, pero rapido no va a poder ser.
+
+Porque al ser todo de Lego la cosa se complica.
+
+Por ejemplo: No te puedes rascar. Es muy molesto, no sé porque no han pensado en eso los fabricantes...
+
+Y luego la post-producción.
+
+Que siempre hay la típica niña re-pipi (que resulta ser la hija del jefe) y que se toma tu película como si fuera la segunda parte de Frozen.
+
+Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "Caminando entre dinosaurios", "Rambo XXIV" y todas las de Chuck Norris en general.
 
 
 
@@ -155,10 +174,35 @@ Finalmente...
 
 
 
-# USA LA FUERZA
+## USA LA FUERZA
 
 
-## FIN
+No mojes después de las doce a ningún ser del que no te hayas informado debidamente.
+
+No confíes en la inteligencia Artificial. Ni en la Inteligencia Militar, ni en la Inteligencia humana.
+
+Todo mentira.
+
+No fueron a la Luna. La Luna tampoco existe.
+
+Y el Sol está fabricado.
+
+¿Por quién?
+
+Buena pregunta.
+
+Por cierto, los He-man eran muy gays o soy yo?
+
+Nada en contra de nadie, pero, quiero decir, ...lo hacían queriendo?
+
+O fué un descuido?
+
+A lo mejor es una conspiración...
+
+
+
+# FIN
+
 #### Se acabó, tal vez nos dé por hacer otra trilogía,<br>pero de momento no.
 
 
