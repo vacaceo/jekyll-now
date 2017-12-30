@@ -20,10 +20,10 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
-Era un Lunes. Todo parecía normal.
+Era un Lunes.
 
+Todo parecía normal.
 Nos encontrábamos pastando en un lindo prado verde.
-
 La brisa era suave pero constante y habían menos moscas que de costumbre.
 
 El pasto era bueno.
@@ -152,7 +152,7 @@ Y gratis!
 
 
 ## Episodio III
-#### Las últimas Youtubers
+#### El retorno del audio
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
@@ -160,6 +160,21 @@ Y gratis!
 Creamos el canal de Youtube y nos compramos otro dominio.
 
 Pusimos a las vacas a trabajar en el nuevo concepto. Ahora todo parecía ir viento en popa.
+
+<br>
+
+Después de muchos esfuerzos empezamos a pillarle el tranquillo.
+
+Gracias a la comunidad de fans que se empezó a generar a nuestro alrededor comenzamos a obtener muchas visitas. Nos convertimos en el primer canal de YouTube Dirigido por Vacas.
+
+Ahora mismo estamos a punto de empezar a cotizar en bolsa.
+
+Fíjate tu.
+
+Como cambia todo. Antes solo pensábamos en comer, y ahora incluso a veces se nos olvida.
+
+Todo el dia mirando Google Trends, Analytics, el parte meteorológico, videos de gatitos, etc...
+
 
 <br>
 
@@ -187,9 +202,10 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 
 
 ## Episodio IV
-#### Las últimas Youtubers
+#### El último Youtuber
 
-![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
+![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
+
 
 Finalmente...
 
