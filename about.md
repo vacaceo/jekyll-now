@@ -13,6 +13,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 <hr id="ep1">
 
+
 ## Episodio I
 #### Vamos por partes
 
@@ -59,7 +60,9 @@ Pero al final nada de eso. Nos trataron super bien.
 Nunca nos hicieron daño, eran buena gente.
 
 
+
 <hr id="ep2">
+
 
 ## Episodio II
 #### El imperio contraataca un poco
@@ -110,14 +113,48 @@ Toda una obra maestra de software creada por unas focas rusas.
 ![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
  
 
+
 <hr id="ep3">
 
-![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
+
 
 ## Episodio III
 #### Las últimas Youtubers
 
+![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
+
 Finalmente...
+
+
+
+<hr id="ep4">
+
+
+
+## Episodio III
+#### Las últimas Youtubers
+
+![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
+
+Finalmente...
+
+
+
+<hr id="ep5">
+
+
+
+## Al grano
+#### Lo que realmente importa
+
+![Vacas Pastando]({{ "/assets/bio/grano.jpg" | absolute_url }})
+
+
+# FIN
+#### Se acabó, tal vez nos dé por hacer otra trilogía, pero de momento no.
+
+
+
 
 ---
 
