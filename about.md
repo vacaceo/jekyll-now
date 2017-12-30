@@ -99,19 +99,20 @@ Creamos la web:
 
 ### VideosManguis.com
 
-<br>
 
 Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
 
-Durante un tiempo nos fue bien. Nunca ganamos dinero, pero estábamos orgullosas de nuestro trabajo.
+Durante un tiempo nos fue bien. Estábamos muy orgullosas de nuestro trabajo.
 
-Pero justo cuando la cosa parecía estar arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
+Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
 
+<br>
 
 Internet se estaba pasando al lado oscuro.
 
 Y nadie pareció darse cuenta.
 
+<br>
 
 Entonces, decidimos empezar a crear nuestros propios contenidos.
 
@@ -144,7 +145,11 @@ Y gratis!
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
 
+Creamos el canal de Youtube y nos compramos otro dominio.
 
+Pusimos a las vacas a trabajar en el nuevo concepto. Ahora todo parecía ir viento en popa.
+
+<br>
 
 Como la vez que nos caímos en otra dimensión donde todo era de Lego.
 
