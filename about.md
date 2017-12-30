@@ -137,7 +137,7 @@ Después de mucha
 ## Episodio IV
 #### Las últimas Youtubers
 
-![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
+![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
 
 Finalmente...
 
