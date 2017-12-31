@@ -20,6 +20,8 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
+<br>
+
 Era un Lunes.
 
 Todo parecía normal.
@@ -82,9 +84,11 @@ Y nos pusimos a subir películas y documentales como locas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
+<br>
+
 Una dijo: Tengo un mal presentimiento.
 
-Parecía una tontería, pero no lo era.
+En ese momento nos pareció una tontería, pero no lo era.
 
 Realmente, no lo era.
 
@@ -145,6 +149,7 @@ Y gratis!
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
+<br>
 
 Creamos el canal de Youtube y nos compramos otro dominio.
 
@@ -189,13 +194,17 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 
 ![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
 
-"Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
+<br>
 
-Vaca Superiora
+"VacaSuperiora: Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
+
+<br>
 
 Esto.. ...creo que esto no tendría que estar aquí. Es de uso interno. Tu como si no estuviera.
 
 Debe ser una broma o un error del corrector...
+
+<br>
 
 Pero después de tanto trabajo, nos dimos cuenta de que éramos Las Últimas YouTubers. Pero no las últimas de que no hubiera más, o de que se hubieran extinguido como los Elfos o Aramis Fuster, no, no..
 
@@ -207,11 +216,13 @@ Pusimos algunas vacas a trabajar:
 
 A la primera la enviamos a la Universidad de Marketing.
 
-La segunda a trabajar en un supermercado cutre.
+La segunda a trabajar en un supermercado pequeño.
 
-La tercera la enviámos al primer Erasmus de intercambio que encontrámos
+La tercera la enviámos al primer Erasmus de intercambio que encontrámos.
 
 La cuarta a México DF de vacaciones que ya estaba muy quemada la pobre y necesitaba cargar pilas.
+
+<br>
 
 Todo salió al revés. Y eso que usamos la fuerza.
 
