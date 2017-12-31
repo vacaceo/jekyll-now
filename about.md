@@ -42,45 +42,27 @@ Al principio nos cagamos.
 El Ovni quedó bonito.
 
 Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes.
-
-Además parecían muy contentos. Lo recibieron como un regalo.
-
-De hecho se pasaron un buen rato jugando con eso...
-
-<br>
+Además parecían muy contentos. Lo recibieron como un regalo. De hecho se pasaron un buen rato jugando con eso...
 
 Luego volvieron con nosotras. Teníamos miedo.
 
 Mucho miedo.
 
+Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger:
 
-Nos hicieron un montón de pruebas, psicotécnicos y algún test barato.
+Volver a nuestra rutina vacuna o ser las primeras vacas en dominar el arte y uso de internet humano.
 
-Luego nos dejaron escoger: Volver a nuestra rutina vacuna o ser las primeras vacas en dominar el arte y uso de internet.
-
-Una de nosotras estornudó.
-
-Y se lo tomaron como un sí.
-
-Así que nos metieron un supositorio y esperaron a que hiciera efecto.
-
+No entendíamos nada de nada, pero una de nosotras estornudó y se lo tomaron como un sí. Así que nos metieron un supositorio y esperaron a que hiciera efecto.
 
 Luego, nos instruyeron en el uso de internet, nos implantaron Wifi nativo y un par de puertos USB a cada una.
-
 Nos hablaron de Steve Jobs y de Bill Gates.
-
 Y de Google. Hasta nos hicieron un Gmail para cada una.
 
-
-También nos contaron muchas cosas acerca del balance de la fuerza y de qué hacer si encontrábamos un anillo de poder.
+También nos contaron muchas cosas acerca del balance en la fuerza y de qué hacer si encontrábamos un anillo de poder.
 
 Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo de digital.
 
-<br>
-
 Creamos la web:
-
-<br>
 
 ### VideosManguis.com
 
@@ -88,7 +70,6 @@ Una web de películas en streaming totalmente gratis y sin publicidad intrusiva.
 
 Y nos pusimos a subir películas y documentales como locas.
 
-<br>
 
 <hr id="ep2">
 
@@ -135,8 +116,6 @@ Muy utilizada en la gran guerra contra la Alemania Nazi.
 
 Y gratis!
 
-<br>
-
 
 <hr id="ep3">
 
@@ -152,8 +131,6 @@ Creamos el canal de Youtube y nos compramos otro dominio.
 
 Pusimos a las vacas a trabajar en el nuevo concepto. Ahora todo parecía ir viento en popa.
 
-<br>
-
 Después de muchos esfuerzos empezamos a pillarle el tranquillo.
 
 Gracias a la comunidad de fans que se empezó a generar a nuestro alrededor comenzamos a obtener muchas visitas. Nos convertimos en el primer canal de YouTube Dirigido por Vacas.
@@ -166,8 +143,6 @@ Como cambia todo. Antes solo pensábamos en comer, y ahora incluso a veces se no
 
 Todo el dia mirando Google Trends, Analytics, el parte meteorológico, videos de gatitos, etc...
 
-
-<br>
 
 Como la vez que nos caímos en otra dimensión donde todo era de Lego.
 
@@ -184,8 +159,6 @@ Y luego la post-producción.
 Que siempre hay la típica niña re-pipi (que resulta ser la hija del jefe) y que se toma tu película como si fuera la segunda parte de Frozen.
 
 Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "Caminando entre dinosaurios", "Rambo XVII" y en todas las de Chuck Norris en general.
-
-<br>
 
 
 <hr id="ep4">
@@ -205,15 +178,11 @@ Esto.. ...creo que esto no tendría que estar aquí. Es de uso interno. Tu como 
 
 Debe ser una broma o un error del corrector...
 
-<br>
+Pero después de tanto trabajo, nos dimos cuenta de que éramos Las Últimas YouTubers. Pero no las últimas de que no hubiera más, o de que se hubieran extinguido como los Elfos o Aramis Fuster, no, no..
 
-Pero después de tanto trabajo, nos dimos cuenta de que éramos Las Últimas YouTubers. Pero no las últimas de que no hubiera más, o de que se hubieran extinguido como los Elfos o Aramis Fuster, no!
-
-No. Las últimas en los resultados.
+Las últimas en los resultados.
 
 Siempre salíamos al final de todo. Así que tuvimos que tomar medidas.
-
-<br>
 
 Pusimos algunas vacas a trabajar:
 
@@ -221,7 +190,7 @@ A la primera la enviamos a la Universidad de Marketing, a la segunda a trabajar 
 
 Todo salió al revés. Y eso que usamos la fuerza.
 
-Y siempre nos decímos eso de "que la fuerza te acompañe", y tal, pero la verdad es que viendo los resultados a lo mejor es que no nos acompaña, porque cómo no la ves, nunca sabes si realmente te sigue acompañando o te ha dejado tirado por algún motivo que por otra parte tampoco te cuenta.
+Y siempre nos decímos lo de "que la fuerza te acompañe", y tal, pero la verdad es que no sabemos si nos acompaña, porque cómo es invisible nunca sabes si realmente te sigue acompañando o si te ha dejado tirado por algún motivo que por otra parte tampoco te cuenta.
 
 A lo mejor no lo hacemos bien, no estamos muy seguras de como funciona en realidad.
 
@@ -229,11 +198,9 @@ La que estudió marketing fichó por Microsoft y ya no la volvimos a ver.
 
 La del supermercado se hizo adicta al detergente y ahora está en el proyecto vaca recuperándose.
 
-La del Erasmus aún no nos la han devuelto y aún tenemos aquí a un niño Alemán verdaderamente pesado y consentido.
+La del Erasmus aún no nos la han devuelto y tenemos aquí a un niño Alemán verdaderamente pesado y consentido.
 
-En cambio, la que estaba de vacaciones en México, aunque decidió casarse con una humana nativa y quedarse a vivir allí, nunca perdió la comunicación con el resto y sigue siendo un pilar fundamental de ésta família.
-
-<br>
+En cambio, la que estaba de vacaciones en México, aunque decidió casarse con una humana nativa y quedarse a vivir allí, nunca perdió la comunicación con el resto y sigue siendo un pilar fundamental en ésta família.
 
 
 <hr id="ep5">
