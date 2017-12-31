@@ -80,9 +80,21 @@ Y nos pusimos a subir películas y documentales como locas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
-Durante un tiempo nos fue bien.
+Una de nosotras dijo: Tengo un mal presentimiento.
 
-Estábamos muy orgullosas de nuestro trabajo. Y nos vimos todas las pelis y documentales que enlazábamos.
+Parecía una tontería, pero no lo era, realmente, no lo era...
+
+La web iba viento en popa y durante un tiempo nos fue bien. Estábamos muy orgullosas de nuestro trabajo.
+
+Además entendimos muchas cosas sobre el comportamiento humano:
+
+Que si una chica dice que no es que no. Por mucho que digan.
+Que si te olvidas del cumple de tu chica estás muerto.
+Que si te viene a ver un Extraterrestre a tu casa, bajito y de color marrón con cabeza grande, mejor tener cerveza que les gusta un montón.
+Que también hay humanos buenos. No solo los veganos.
+Que los gremblins habría que ponerlos a todos en el desierto, es el lugar mas seguro.
+Que no solo los Skywalker tienen la fuerza. Eso es una secta. Nosotras también la tenemos, igual que Morgan Freeman.
+Que la mayoría de humanos no saben usar la fuerza. De hecho, los hay que no saben usar ni su propia cabeza...
 
 <br>
 
