@@ -204,9 +204,41 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 
 ![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
 
+"Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
 
-Finalmente...
+Vaca Superiora
 
+Esto.. ...creo que esto no tendría que estar aquí. Es de uso interno. Tu como si no estuviera.
+
+Debe ser una broma o un error del corrector...
+
+<br>
+
+Pero después de tanto trabajo, nos dimos cuenta de que éramos Las Últimas YouTubers. Pero no las últimas de que no hubiera más, o de que se hubieran extinguido como los Elfos o Aramis Fuster, no!
+
+No. Las últimas en los resultados.
+
+Siempre salíamos al final de todo. Así que tuvimos que tomar medidas.
+
+<br>
+
+Pusimos algunas vacas a trabajar:
+
+A la primera la enviamos a la Universidad de Marketing, a la segunda a trabajar en un supermercado cutre, la tercera la enviámos al primer Erasmus de intercambio que encontrámos y la tercera a México DF de vacaciones que ya estaba muy quemada la pobre y necesitaba cargar pilas.
+
+Todo salió al revés. Y eso que usamos la fuerza.
+
+Y siempre nos decímos eso de "que la fuerza te acompañe", y tal, pero la verdad es que viendo los resultados a lo mejor es que no nos acompaña, porque cómo no la ves, nunca sabes si realmente te sigue acompañando o te ha dejado tirado por algún motivo que por otra parte tampoco te cuenta.
+
+A lo mejor no lo hacemos bien, no estamos muy seguras de como funciona en realidad.
+
+La que estudió marketing fichó por Microsoft y ya no la volvimos a ver.
+
+La del supermercado se hizo adicta al detergente y ahora está en el proyecto vaca recuperándose.
+
+La del Erasmus aún no nos la han devuelto y aún tenemos aquí a un niño Alemán verdaderamente pesado y consentido.
+
+En cambio, la que estaba de vacaciones en México, aunque decidió casarse con una humana nativa y quedarse a vivir allí, nunca perdió la comunicación con el resto y sigue siendo un pilar fundamental de ésta família.
 
 
 <hr id="ep5">
