@@ -44,9 +44,11 @@ El Ovni quedó bonito.
 Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes.
 Además parecían muy contentos. Lo recibieron como un regalo. De hecho se pasaron un buen rato jugando con eso...
 
-Luego volvieron con nosotras. Teníamos miedo.
+<br>
 
-Mucho miedo.
+Luego volvieron con nosotras.
+
+Teníamos miedo. Mucho miedo.
 
 Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger:
 
