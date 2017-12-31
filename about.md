@@ -80,21 +80,26 @@ Y nos pusimos a subir películas y documentales como locas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
-Una de nosotras dijo: Tengo un mal presentimiento.
+Una dijo: Tengo un mal presentimiento.
 
-Parecía una tontería, pero no lo era, realmente, no lo era...
+Parecía una tontería, pero no lo era.
 
+Realmente, no lo era.
+
+<br>
 La web iba viento en popa y durante un tiempo nos fue bien. Estábamos muy orgullosas de nuestro trabajo.
-
 Además entendimos muchas cosas sobre el comportamiento humano:
 
 Que si una chica dice que no es que no. Por mucho que digan.
 Que si te olvidas del cumple de tu chica estás muerto.
 Que si te viene a ver un Extraterrestre a tu casa, bajito y de color marrón con cabeza grande, mejor tener cerveza que les gusta un montón.
 Que también hay humanos buenos. No solo los veganos.
-Que los gremblins habría que ponerlos a todos en el desierto, es el lugar mas seguro.
-Que no solo los Skywalker tienen la fuerza. Eso es una secta. Nosotras también la tenemos, igual que Morgan Freeman.
-Que la mayoría de humanos no saben usar la fuerza. De hecho, los hay que no saben usar ni su propia cabeza...
+Que los Gremblins habría que ponerlos a todos en el desierto, es el lugar mas seguro.
+Que no solo los Skywalker tienen la fuerza. Eso es una secta. Nosotras también la tenemos igual que Morgan Freeman o Trece, la de Stranger Things.
+Que, por cierto, nos os metáis con ella, que hay mucho marrano suelto por la red. Tenemos a un departamento buscando a mala gente de esa.
+Vais a flipar cuando os despertéis con una cabeza de avestruz en la cama. Os tenemos fichados.
+
+En fin, muchas cosas.
 
 <br>
 
@@ -102,9 +107,9 @@ Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó so
 
 <br>
 
-Internet se estaba pasando al lado oscuro.
+##### Internet se estaba pasando al lado oscuro.
 
-Y nadie pareció darse cuenta.
+##### Y nadie pareció darse cuenta.
 
 <br>
 
@@ -153,7 +158,7 @@ Fíjate tu.
 
 Como cambia todo. Antes solo pensábamos en comer, y ahora incluso a veces se nos olvida.
 
-Todo el dia mirando Google Trends, Analytics, el parte meteorológico, videos de gatitos, etc...
+Todo el dia mirando Google Trends, Analytics, el parte meteorológico, videos de gatitos, Vicente Fuentes, JL de Mundo Desconocido, el otro, que si el Twitter, el Facebook que nos tiene hasta el cuerno, etc...
 
 
 Como la vez que nos caímos en otra dimensión donde todo era de Lego.
@@ -198,7 +203,13 @@ Siempre salíamos al final de todo. Así que tuvimos que tomar medidas.
 
 Pusimos algunas vacas a trabajar:
 
-A la primera la enviamos a la Universidad de Marketing, a la segunda a trabajar en un supermercado cutre, la tercera la enviámos al primer Erasmus de intercambio que encontrámos y la tercera a México DF de vacaciones que ya estaba muy quemada la pobre y necesitaba cargar pilas.
+A la primera la enviamos a la Universidad de Marketing.
+
+La segunda a trabajar en un supermercado cutre.
+
+La tercera la enviámos al primer Erasmus de intercambio que encontrámos
+
+La cuarta a México DF de vacaciones que ya estaba muy quemada la pobre y necesitaba cargar pilas.
 
 Todo salió al revés. Y eso que usamos la fuerza.
 
@@ -206,13 +217,13 @@ Y siempre nos decímos lo de "que la fuerza te acompañe", y tal, pero la verdad
 
 A lo mejor no lo hacemos bien, no estamos muy seguras de como funciona en realidad.
 
-La que estudió marketing fichó por Microsoft y ya no la volvimos a ver.
+La primera fichó por Microsoft y ya no la volvimos a ver.
 
-La del supermercado se hizo adicta al detergente y ahora está en el proyecto vaca recuperándose.
+La segunda se hizo adicta al detergente y ahora está en el proyecto vaca recuperándose.
 
-La del Erasmus aún no nos la han devuelto y tenemos aquí a un niño Alemán verdaderamente pesado y consentido.
+La tercera, la del Erasmus, aún no nos la han devuelto y tenemos aquí a un niño Alemán verdaderamente pesado y consentido.
 
-En cambio, la que estaba de vacaciones en México, aunque decidió casarse con una humana nativa y quedarse a vivir allí, nunca perdió la comunicación con el resto y sigue siendo un pilar fundamental en ésta família.
+En cambio, la cuarta, que estaba de vacaciones en México, aunque decidió casarse con una humana nativa y quedarse a vivir allí, nunca perdió la comunicación con el resto y sigue siendo un pilar fundamental en ésta família.
 
 
 <hr id="ep5">
