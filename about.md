@@ -240,6 +240,8 @@ La del Erasmus aún no nos la han devuelto y aún tenemos aquí a un niño Alem�
 
 En cambio, la que estaba de vacaciones en México, aunque decidió casarse con una humana nativa y quedarse a vivir allí, nunca perdió la comunicación con el resto y sigue siendo un pilar fundamental de ésta família.
 
+<br>
+
 
 <hr id="ep5">
 
@@ -260,15 +262,17 @@ No mojes (después de las doce) a ningún ser del que no te hayas informado debi
 
 No confíes en la inteligencia Artificial. Ni en la Inteligencia Militar, ni en la Inteligencia humana.
 
-Todo mentira.
+Son conceptos contradictorios. Todo mentira.
 
-No fueron a la Luna. La Luna tampoco existe.
+En realidad nunca fueron a la Luna. La Luna tampoco existe. Es un holograma creado por los Annunaki para confundirnos.
 
 Y el Sol está fabricado.
 
 ¿Por quién?
 
 Buena pregunta.
+
+<br>
 
 Por cierto, los He-man eran muy gays o soy yo?
 
@@ -286,7 +290,7 @@ Porque ahora a ver como lo termina, hay mucha expectativa, tu imaginate que le s
 
 Martin, es broma, te queremos.
 
-Pero a Ben Affleck no. Lo siento tío cuando te pones mallas no mola.
+Pero a Ben Affleck no. Lo siento tío cuando te pones mallas no molas.
 
 Y tu insistes, pero no molas. Sigue con tu rollo normal, pero deja los superheroes porque no cuela.
 
