@@ -26,17 +26,10 @@ Todo parecía normal.
 Nos encontrábamos pastando en un lindo prado verde.
 La brisa era suave pero constante y habían menos moscas que de costumbre.
 
-<br>
+Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja. Pero justo en ese momento, un objeto bajó del cielo.
+No sabíamos que era, no lo habíamos visto nunca. Solo sabíamos que no se podía comer. Olía muy raro.
 
-Un poco alejadas del resto, algunas conspirábamos contra los dueños de la granja.
-
-Y en ése instante nuestras vidas cambiaron para siempre.
-
-<br>
-
-##### Apareció un Ovni.
-
-<br>
+##### Era un Ovni.
 
 Bajó del cielo ante nuestro asombro, y se llevó a varias de nosotras.
 
