@@ -218,7 +218,7 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 
 ![Foto de la Vaca Superiora]({{ "/assets/bio/vacasuperiora.jpg" | absolute_url }})
 
-### "VacaSuperiora: Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
+##### "VacaSuperiora: Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
 
 <br>
 
