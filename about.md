@@ -192,7 +192,7 @@ Como la vez que nos caímos en otra dimensión donde todo era de Lego.
 
 ![Star Cows Lego movie polaroid]({{ "/assets/bio/starcows.png" | absolute_url }})
 
-Eso fue tremendo, aún estamos montando una película-documental de esa experiencia, pero rapido no va a poder ser.
+Eso fue tremendo, aún estamos montando la película-documental, pero rapido no va a poder ser.
 
 Porque al ser todo de Lego la cosa se complica.
 
@@ -215,6 +215,8 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 ![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
 
 <br>
+
+![Foto de la Vaca Superiora]({{ "/assets/bio/vacasuperiora.jpg" | absolute_url }})
 
 "VacaSuperiora: Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
 
