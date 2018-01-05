@@ -20,7 +20,9 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
-**Ep 1 Temporada 1**
+> En toda forma de vida la fuerza reside. Usarla pueden.
+> -- <cite>Maestro Yoda</cite>
+
 <br>
 
 Era un Lunes.
@@ -104,7 +106,7 @@ Y nos pusimos a subir películas y documentales como locas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
-**Ep 2 Temporada 1**
+
 <br>
 
 Una dijo: Tengo un mal presentimiento.
