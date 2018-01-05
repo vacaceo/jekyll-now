@@ -43,8 +43,9 @@ Al principio nos cagamos.
 
 El Ovni quedó bonito.
 
-Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes.
-Además parecían muy contentos. Lo recibieron como un regalo. De hecho se pasaron un buen rato jugando con eso...
+Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes. Además parecían muy contentos. Lo recibieron como un regalo.
+
+De hecho se pasaron un buen rato jugando con eso...
 
 <br>
 
@@ -54,16 +55,18 @@ Teníamos miedo. Mucho miedo.
 
 Algunos eran realmente muy raros. Con esos ojos y ese color pálido.
 
-
 ![Maestro Yoda]({{ "/assets/bio/yoda.jpg" | absolute_url }})
 
 ![foto de ET el extraterrestre]({{ "/assets/bio/et.jpg" | absolute_url }})
 
 ![Alien con cara de David Parcerisa]({{ "/assets/bio/alienparcerisa.jpg" | absolute_url }})
 
+<hr>
+
 Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger:
 
-Volver a nuestra rutina vacuna o ser las primeras vacas en dominar el arte y uso de internet humano.
+##### Volver a nuestra rutina vacuna
+##### o ser las primeras vacas en dominar el arte y uso del internet humano.
 
 No entendíamos nada de nada, pero una de nosotras estornudó y se lo tomaron como un sí. Así que nos metieron un supositorio y esperaron a que hiciera efecto.
 
