@@ -24,7 +24,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 > En toda forma de vida la fuerza reside. Usarla pueden.
 >
-> -- <cite>Maestro Yoda</cite>
+> <cite>Maestro Yoda</cite>
 
 <br>
 
