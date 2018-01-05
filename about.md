@@ -43,7 +43,11 @@ Al principio nos cagamos.
 
 El Ovni quedó bonito.
 
-Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes. Además parecían muy contentos. Lo recibieron como un regalo.
+Pero éstos tíos si que sabían limpiar, tenían robots muy eficientes.
+
+Además parecían muy contentos.
+
+Lo recibieron como un regalo.
 
 De hecho se pasaron un buen rato jugando con eso...
 
@@ -63,19 +67,22 @@ Algunos eran realmente muy raros. Con esos ojos y ese color pálido.
 
 <hr>
 
-Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger:
+Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger entre:
 
-##### Volver a nuestra rutina vacuna
-##### o ser las primeras vacas en dominar el arte y uso del internet humano.
+Volver a nuestra rutina vacuna
+
+o
+
+Ser las primeras vacas en dominar el arte y uso del internet humano.
+
+<hr>
 
 No entendíamos nada de nada, pero una de nosotras estornudó y se lo tomaron como un sí. Así que nos metieron un supositorio y esperaron a que hiciera efecto.
 
 Luego, nos instruyeron en el uso de internet, nos implantaron Wifi nativo y un par de puertos USB a cada una.
 Nos hablaron de Steve Jobs y de Bill Gates.
 Y de Google. Hasta nos hicieron un Gmail para cada una.
-
 También nos contaron muchas cosas acerca del balance en la fuerza y de qué hacer si encontrábamos un anillo de poder.
-
 Nos aprendimos las leyes de la robotica y empezamos nuestra andadura en el mundo de digital.
 
 Creamos la web:
