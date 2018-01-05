@@ -20,6 +20,8 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
+<br>
+
 > En toda forma de vida la fuerza reside. Usarla pueden.
 > -- <cite>Maestro Yoda</cite>
 
