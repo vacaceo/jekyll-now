@@ -243,9 +243,9 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 
 <br>
 
-Esto.. ...creo que esto no tendría que estar aquí. Es de uso interno. Tu como si no estuviera.
+Esto.. ...creo que la última cita no tendría que estar aquí. Es de uso interno. Tu como si no estuviera.
 
-Debe ser una broma o un error del corrector...
+Será una broma o a lo mejor el auto-corrector...
 
 <br>
 
