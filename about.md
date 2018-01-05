@@ -234,11 +234,12 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 > ¿Preparado estás? ¿Qué sabes tú de estar preparado? Durante ochocientos años he entrenado a los Jedi. Yo decidiré quién debe ser entrenado.
 > <cite>Maestro Yoda</cite>
 
-<br>
+<hr>
 
-![Foto de la Vaca Superiora]({{ "/assets/bio/vacasuperiora.jpg" | absolute_url }})
-
-##### VacaSuperiora "Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
+<blockquote class="cow-hack">
+  <p>Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles
+<cite>Vaca Superiora</cite></p>
+</blockquote>
 
 <br>
 
