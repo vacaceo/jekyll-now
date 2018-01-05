@@ -52,6 +52,10 @@ Luego volvieron con nosotras.
 
 Teníamos miedo. Mucho miedo.
 
+![Alien con cara de David Parcerisa]({{ "/assets/bio/alienparcerisa.jpg" | absolute_url }})
+
+Eran realmente muy raros. Con esos ojos y ese color pálido.
+
 Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger:
 
 Volver a nuestra rutina vacuna o ser las primeras vacas en dominar el arte y uso de internet humano.
