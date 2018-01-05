@@ -57,6 +57,8 @@ Luego volvieron con nosotras.
 
 Teníamos miedo. Mucho miedo.
 
+<br>
+
 Algunos eran realmente muy raros. Con esos ojos y ese color pálido.
 
 ![Maestro Yoda]({{ "/assets/bio/yoda.jpg" | absolute_url }})
@@ -67,17 +69,15 @@ Algunos eran realmente muy raros. Con esos ojos y ese color pálido.
 
 <hr>
 
-Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger entre:
+Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger entre
 
-Volver a nuestra rutina vacuna
-
-o
-
-Ser las primeras vacas en dominar el arte y uso del internet humano.
+Volver a nuestra rutina o ser las primeras vacas en dominar el internet humano.
 
 <hr>
 
-No entendíamos nada de nada, pero una de nosotras estornudó y se lo tomaron como un sí. Así que nos metieron un supositorio y esperaron a que hiciera efecto.
+No entendíamos nada de nada, pero una de nosotras estornudó y se lo tomaron como un sí.
+
+Así que nos metieron un supositorio y esperaron a que hiciera efecto.
 
 Luego, nos instruyeron en el uso de internet, nos implantaron Wifi nativo y un par de puertos USB a cada una.
 Nos hablaron de Steve Jobs y de Bill Gates.
@@ -133,9 +133,9 @@ Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó so
 <br>
 ![meme con Stormtrooper que dice Primero Darth Vader y ahora Rajoy]({{ "/assets/bio/palladooscuro.jpg" | absolute_url }})
 
-##### Internet se estaba pasando al lado oscuro.
+### Internet se estaba pasando al lado oscuro.
 
-##### Y nadie pareció darse cuenta.
+#### Y nadie pareció darse cuenta.
 
 <br>
 
