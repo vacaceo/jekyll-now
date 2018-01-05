@@ -20,6 +20,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 ![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
 
+**Ep 1 Temporada 1**
 <br>
 
 Era un Lunes.
@@ -103,6 +104,7 @@ Y nos pusimos a subir películas y documentales como locas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
+**Ep 2 Temporada 1**
 <br>
 
 Una dijo: Tengo un mal presentimiento.
@@ -218,7 +220,7 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 
 ![Foto de la Vaca Superiora]({{ "/assets/bio/vacasuperiora.jpg" | absolute_url }})
 
-##### "VacaSuperiora: Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
+##### VacaSuperiora "Antes de aniquilar a los humanos habría que entender bien sus logros, luego ya serán prescindibles"
 
 <br>
 
