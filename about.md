@@ -108,6 +108,10 @@ Y nos pusimos a subir películas y documentales como locas.
 
 ![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
 
+<hr>
+
+> Enfrentar poder con poder la filosofía de un Jedi no es. En esta guerra un peligro hay de nuestra identidad perder.
+> <cite>Maestro Yoda</cite>
 
 <br>
 
@@ -175,6 +179,11 @@ Y gratis!
 
 ![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
 
+<hr>
+
+> Cuando mires al lado oscuro, cuidado debes tener... ya que el lado oscuro te mira también.
+> <cite>Maestro Yoda</cite>
+
 <br>
 
 Creamos el canal de Youtube y nos compramos otro dominio.
@@ -219,6 +228,11 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 #### El último Youtuber
 
 ![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
+
+<hr>
+
+> ¿Preparado estás? ¿Qué sabes tú de estar preparado? Durante ochocientos años he entrenado a los Jedi. Yo decidiré quién debe ser entrenado.
+> <cite>Maestro Yoda</cite>
 
 <br>
 
@@ -275,6 +289,11 @@ En cambio, la cuarta, que estaba de vacaciones en México, aunque decidió casar
 #### Lo que realmente importa
 
 ![Vacas Pastando]({{ "/assets/bio/grano.jpg" | absolute_url }})
+
+<hr>
+
+> Abandonarte la Fuerza no puede. Constante ella es. Si encontrarla no puedes, en tu interior y no fuera deberás mirar.
+> <cite>Maestro Yoda</cite>
 
 <br>
 
