@@ -22,8 +22,8 @@
 #about-content img {float:left;margin:9px 15px 9px 0;}
 #about-content p {line-height:1.6em;font-weight: normal;font-size:26px;}
 #about-content blockquote {border:thin solid currentcolor;border-left:12px solid currentcolor;text-align:right;background-image: url("/assets/bio/yoda.png");background-size:132px 132px;background-repeat:no-repeat;background-position: right;}
-#about-content blockquote p {width:90%;margin-right:10%;}
-.cow-hack#about-content blockquote {background-image: url("/assets/bio/vacasuperiora.png");background-size:132px 132px;}
+#about-content blockquote p {width:85%;margin-right:10%;}
+#about-content blockquote.cow-hack  {background-image: url("/assets/bio/vacasuperiora.png");background-size:132px 132px;}
 
 #follow-yt {float:left;text-align: center;margin-right:15px;}
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
@@ -35,11 +35,15 @@ section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:va
 @media (max-width: 1250px) {
     section.full-cover {padding:5% 2% 5% 2%;}
     .cover-page p {font-size:16px;line-height:1.8em;}
+	#about-content blockquote p, #about-content blockquote.cow-hack p {width:80%;margin-right:20%;}
 }
 @media (max-width: 768px) {
+    #about-content p{font-size:17px ;}
     section.full-cover {padding:5% 2% 5% 1%;}
 	.full-cover div h4 {font-size:23px;line-height:1.4em;text-align: left;}
     .cover-page h4  {text-align:center;}
     .cover-page p {font-size:15px;line-height:1.5em;}
     .cover-page strong em a {width:100%;margin-bottom: 5px;}
+	#about-content blockquote p, #about-content blockquote.cow-hack p {font-size:15px;width:77%;margin-right:23%;}
+    #about-content blockquote, #about-content blockquote.cow-hack {background-size:92px 92px }
 }-
