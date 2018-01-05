@@ -131,6 +131,7 @@ En fin, muchas cosas.
 Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
 
 <br>
+![meme con Stormtrooper que dice Primero Darth Vader y ahora Rajoy]({{ "/assets/bio/palladooscuro.jpg" | absolute_url }})
 
 ##### Internet se estaba pasando al lado oscuro.
 
