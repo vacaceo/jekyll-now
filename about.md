@@ -52,9 +52,14 @@ Luego volvieron con nosotras.
 
 Teníamos miedo. Mucho miedo.
 
-![Alien con cara de David Parcerisa]({{ "/assets/bio/alienparcerisa.jpg" | absolute_url }})
+Algunos eran realmente muy raros. Con esos ojos y ese color pálido.
 
-Eran realmente muy raros. Con esos ojos y ese color pálido.
+
+![Maestro Yoda]({{ "/assets/bio/yoda.jpg" | absolute_url }})
+
+![foto de ET el extraterrestre]({{ "/assets/bio/et.jpg" | absolute_url }})
+
+![Alien con cara de David Parcerisa]({{ "/assets/bio/alienparcerisa.jpg" | absolute_url }})
 
 Nos hicieron un montón de pruebas, psicotécnicos y luego nos dejaron escoger:
 
