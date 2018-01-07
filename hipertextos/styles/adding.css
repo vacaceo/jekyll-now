@@ -43,13 +43,17 @@ section.cover-justify p {padding: 6px 18px 0 18px;line-height: 23px;font-size: 1
 figure em a {border:none;border-bottom;line-height:0.2em;padding:12px 4px;}
 
 /* TAGS & CATGEGORIES */
-a.tagged  {color:var(--color-hardgrey) ;text-decoration: none;border:thin solid currentcolor;display:inline-block ; padding:4px 12px 6px 12px;margin-top:9px;border-radius:25px;}
-a.tagged:before  {content:'#'; }
-a.tagged:hover {color:var(--color-hardgrey) ;}
+a.tagged  {color:var(--color-hardgrey) ;font-size:17px;text-decoration: none;border:thin solid currentcolor;display:inline-block ; padding:2px 9px 3px 9px;margin-top:8px;border-radius:23px;}
+a.tagged:hover {color:var(--color-white) ;background-color:var(--color-hardgrey) ;box-shadow:inset 0 1px 12px rgba(0,0,0,.3);}
 .cat-post {height:110px;width:48%;margin-right:2%;float:left;max-height:100px;}
 .cat-post h6 {line-height:1.2em;}
 .cat-img {width: 132px;height: auto;float: left;margin: 5px 16px 0 0;}
 .cat-img img {object-fit:cover ;width:100%;height:80px;}
+.lab-post {height:75px;width:48%;margin-right:2%;float:left;max-height:75px;}
+.lab-post h6 {line-height:1.2em;}
+.lab-img {width: 110px;height: auto;float: left;margin: 5px 16px 0 0;}
+.lab-img img {object-fit:cover ;width:100%;height:69px;}
+
 /* Portfolio Nav */
 #page-nav {border-bottom: none;border-bottom:thin solid currentcolor;color:currentcolor;text-transform:uppercase ;} 
 #page-nav a {min-width: 9%;margin:0;max-height:100%;}
