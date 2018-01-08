@@ -5,7 +5,7 @@ post: default
 comments: true
 category: humor
 tags: [cachondeo, youtuber, humor, gracioso, ley mordaza, politica]
-img: eJpFJAPr&UnderBar;K4
+img: D3AUNS6fA80
 excerpt_separator: <!--more-->
 ---
 
