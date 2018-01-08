@@ -4,7 +4,7 @@ title: Los verdaderos origenes de Jesús
 post: default
 comments: true
 category: humor
-tags: [Jesucristo, youtuber, divertido, humor, videos, parodia, gracioso]
+tags: [Jesucristo, youtuber, divertido, humor, parodia, gracioso]
 img: 4CKU8PfyBgQ
 excerpt_separator: <!--more-->
 ---

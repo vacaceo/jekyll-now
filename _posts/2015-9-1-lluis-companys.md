@@ -4,7 +4,7 @@ title: Lluís Companys y la Independencia
 post: default
 comments: true
 category: humor
-tags: cachondeo youtuber youtubers divertido humor videos gracioso virgen catalunya budellam
+tags: politica cachondeo youtuber divertido humor gracioso catalunya budellam
 img: 1Y7UlB5avc8
 excerpt_separator: <!--more-->
 ---

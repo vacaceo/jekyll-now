@@ -4,7 +4,7 @@ title: Gachupín que va
 post: default
 comments: true
 category: humor
-tags: [gachupin, youtuber, divertido, humor, videos, parodia, gracioso, especial]
+tags: [gachupin, youtuber, divertido, humor, parodia, gracioso, especial]
 img: SvVI389GJlM
 excerpt_separator: <!--more-->
 ---

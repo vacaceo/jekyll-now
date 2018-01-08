@@ -4,7 +4,7 @@ title: El Payaso divertido
 post: default
 comments: true
 category: humor
-tags: [Spock, star cows, youtuber, divertido, humor, videos, parodia, gracioso]
+tags: [Spock, star cows, youtuber, divertido, humor, parodia, gracioso]
 img: hCNs6Rw2Iak
 excerpt_separator: <!--more-->
 ---

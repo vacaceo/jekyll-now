@@ -4,7 +4,7 @@ title: Arturito Lego Movie
 post: default
 comments: true
 category: humor
-tags: [Lego Movie, youtuber, divertido, humor, videos, parodia, gracioso, star cows, R2-D2, arturito]
+tags: [Lego Movie, youtuber, divertido, humor, parodia, gracioso, star cows, R2-D2, arturito]
 img: 3RXZZsN01NA
 excerpt_separator: <!--more-->
 ---

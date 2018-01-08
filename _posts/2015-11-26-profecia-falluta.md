@@ -4,7 +4,7 @@ title: Profecía falluta
 post: default
 comments: true
 category: humor
-tags: [profecias, youtuber, divertido, humor, videos, parodia, gracioso]
+tags: [profecias, youtuber, divertido, humor, parodia, gracioso]
 img: Z7ng5HJgvqA
 excerpt_separator: <!--more-->
 ---

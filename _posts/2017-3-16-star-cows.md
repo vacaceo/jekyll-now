@@ -4,7 +4,7 @@ title: Star Cows! [Parodia STAR WARS]
 post: default
 comments: true
 category: humor
-tags: [star wars, star cows, youtuber, divertido, humor, videos, parodia, gracioso, animación]
+tags: [star wars, star cows, youtuber, divertido, humor, parodia, gracioso, animación]
 img: gAl39LSL86g
 excerpt_separator: <!--more-->
 ---

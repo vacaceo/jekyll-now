@@ -4,7 +4,7 @@ title: Conspiración en Catalunya
 post: default
 comments: true
 category: noticias
-tags: conspiración Catalunya notícias España conspiraciones 155 procés independencia
+tags: conspiración Catalunya notícias España conspiraciones 155 procés independencia politica
 img: 6LBsOlkvdqY
 excerpt_separator: <!--more-->
 ---

@@ -4,7 +4,7 @@ title: Planeta X Nibiru
 post: default
 comments: true
 category: humor
-tags: [Nibiru, Planeta X, youtuber, divertido, humor, videos, parodia, gracioso]
+tags: [Nibiru, Planeta X, youtuber, divertido, humor, parodia, gracioso]
 img: UjpbZpVQq6o
 excerpt_separator: <!--more-->
 ---

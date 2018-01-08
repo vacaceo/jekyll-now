@@ -4,7 +4,7 @@ title: Tecnologia que no hacía falta
 post: default
 comments: true
 category: noticias
-tags: cachondeo youtuber divertido humor videos gracioso
+tags: cachondeo youtuber divertido humor gracioso
 img: pyh0LStcJq8
 excerpt_separator: <!--more-->
 ---

@@ -4,7 +4,7 @@ title: ¿Y los PENES de los animales que nos comemos?
 post: default
 comments: true
 category: humor
-tags: penes animales youtuber youtubers divertido humor videos gracioso
+tags: penes animales youtuber divertido humor gracioso
 img: Gz730L6-U8Q
 excerpt_separator: <!--more-->
 ---

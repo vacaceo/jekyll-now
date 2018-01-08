@@ -4,7 +4,7 @@ title: El nuevo diseño de Youtube
 post: default
 comments: true
 category: noticias
-tags: youtube youtuber diseño
+tags: youtube youtuber diseño notícias
 img: AZZOaA6E4wY
 excerpt_separator: <!--more-->
 ---

@@ -4,7 +4,7 @@ title: Spock quiere ver Anos
 post: default
 comments: true
 category: humor
-tags: [Spock, star cows, youtuber, divertido, humor, videos, parodia, gracioso]
+tags: [Spock, star cows, youtuber, divertido, humor, parodia, gracioso]
 img: T0xfjjwgtZo
 excerpt_separator: <!--more-->
 ---

@@ -4,7 +4,7 @@ title: Hackeando la Nasa
 post: default
 comments: true
 category: humor
-tags: nasa youtuber fake divertido humor videos gracioso
+tags: nasa youtuber fake divertido humor gracioso
 img: YCHTtn692Yg
 excerpt_separator: <!--more-->
 ---

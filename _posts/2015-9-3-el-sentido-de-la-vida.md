@@ -4,7 +4,7 @@ title: El sentido de la vida
 post: default
 comments: true
 category: humor
-tags: cachondeo youtuber youtubers divertido humor videos gracioso
+tags: cachondeo youtuber divertido humor gracioso
 img: _10ik8KCuOs
 
 excerpt_separator: <!--more-->

@@ -4,7 +4,7 @@ title: Como los griegos
 post: default
 comments: true
 category: humor
-tags: [youtuber, divertido, humor, videos, parodia, gracioso]
+tags: [youtuber, divertido, humor, parodia, gracioso]
 img: SIsuMUp9zJE
 excerpt_separator: <!--more-->
 ---
