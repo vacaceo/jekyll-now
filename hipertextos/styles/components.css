@@ -19,12 +19,12 @@
 .simple article,
 #layout-simple:checked ~ #layout-result article {
 	border: none;
-	border-bottom: 3px solid currentcolor;
-	padding: 0;
+	border-bottom: 2px solid rgba(127,127,127,0.08);
+	padding: 0;padding-bottom:16px;
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
-	margin: 0;
+	margin: 36px 0 0 0;line-height:18px;
 }
 .simple article h3 a,
 #layout-simple:checked ~ #layout-result article h3 a {
