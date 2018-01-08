@@ -5,8 +5,8 @@ post: default
 comments: true
 category: noticias
 tags: [notícias, España, conspiraciones, ley mordaza]
+img: uTx0NqPzT&UnderBar;c
 excerpt_separator: <!--more-->
-img: uTx0NqPzT_c
 ---
 
 La LEY MORDAZA acaba de entrar en vigor Hoy Miércoles 1 de Julio.
