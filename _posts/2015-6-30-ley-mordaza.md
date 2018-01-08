@@ -6,7 +6,6 @@ comments: true
 category: noticias
 tags: [notícias, España, conspiraciones, ley mordaza]
 excerpt_separator: <!--more-->
-
 img: uTx0NqPzT_c
 ---
 
