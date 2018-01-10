@@ -5,9 +5,9 @@ modes: true
 ---
 
   	{% include partials/header-search.html %}  	
-<main id="page-main" class="buscar-results">
+<main id="page-main">
 	<div id="layout">
-    	<div id="layout-result">
+    	<div id="buscar-resultats">
       		<section>
 				<script>
 				  (function() {
@@ -26,8 +26,15 @@ modes: true
 	</div>
 	<em><hr></em>
 	<div>
-			<section id="follows">
-			{% include partials/suscribe.html %}
-    		</section>
+		<section id="resultats">
+			<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
+			<div id="queries"></div>
+			<script src="http://www.google.com/cse/api/partner-pub-2493257171023914/cse/8890185994/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+		</section>
+	</div>
+	<div>
+		<section id="follows">
+		{% include partials/suscribe.html %}
+		</section>
 	</div>
 </main>
