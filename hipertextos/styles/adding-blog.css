@@ -31,6 +31,26 @@ figure div iframe {z-index: 10;}
 h3 a {color: var(--color-hardgrey) }
 h3 a:hover {color: var(--color-link); text-decoration:none;}
 
+/* Sticky navigation */
+
+.nav-article div div[hidden] {
+	display: block;
+	padding: 0 2em;
+	position: relative;
+}
+.nav-article strong label {
+	display: none;
+	padding-right: 26px;
+	position: relative;
+}
+#page-nav.nav-article {
+	background-color: inherit;
+	position: -webkit-sticky; 
+	position: sticky; 
+	top: 0;
+	left: 0;
+	z-index: 3;
+}
 
 /* Related Posts */
 #rel img.thumbnails {height: 200px;

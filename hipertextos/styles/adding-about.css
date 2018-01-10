@@ -32,26 +32,6 @@ section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:va
 #intro #subs {text-align:center;margin-top:1%;}
 #ep2, #ep3, #ep4, #ep5 {border-top:thin solid currentcolor;margin-top:23px;}
 
-/* Sticky navigation */
-
-.nav-article div div[hidden] {
-	display: block;
-	padding: 0 2em;
-	position: relative;
-}
-.nav-article strong label {
-	display: none;
-	padding-right: 26px;
-	position: relative;
-}
-#page-nav.nav-article {
-	background-color: inherit;
-	position: -webkit-sticky; 
-	position: sticky; 
-	top: 0;
-	left: 0;
-	z-index: 3;
-}
 @media (max-width: 1250px) {
     section.full-cover {padding:5% 2% 5% 2%;}
     .cover-page p {font-size:16px;line-height:1.8em;}
