@@ -473,9 +473,10 @@
 	position: absolute;
 	left: 0;
 	top: 0;
+	border:none;
 }
 .site-logo img {
-	border-radius: 2px;border:none;
+	border-radius: 2px;
 }
 
 /* Smart navigation */
