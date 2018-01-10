@@ -1,0 +1,52 @@
+---
+layout: default
+modes: true
+---
+
+  	{% include partials/head.html %}  	
+<main id="page-main" role="main">
+	<div id="layout">
+					<nav class="nav-scroll anm-moveFromLeftFade delay-100">
+						<div>
+							<label for="layout-simple" title="Simple" id="label-simple" class="anm-zoomIn delay-400"><b>&timesb;</b><br>Ampliar</label>
+							<label for="layout-list" title="List" id="label-list" class="anm-zoomIn delay-500"><b>&minusb;</b><br>Lista</label>
+							<label for="layout-gallery" title="Gallery" id="label-gallery" class="anm-zoomIn delay-600"><b>&plusb;</b><br>Galeria</label>
+							<label id="separador" class="anm-zoomIn delay-700">&boxv;</label>
+							<label for="theme-dark" id="label-dark" data-title="Dark theme" class="anm-zoomIn delay-800"><b>&FilledSmallSquare;</b><br>Oscuro</label>
+							<label for="theme-soft" id="label-soft" data-title="Soft theme" class="anm-zoomIn delay-900"><b>&star;</b><br>Rojo</label>
+							<label for="theme-light" id="label-light" data-title="Light theme" class="anm-zoomIn delay-1000"><b>&EmptySmallSquare;</b><br>Blanco</label>
+						 </div>
+					</nav>
+					<hr>
+					<input type="radio" name="layout" id="layout-simple" aria-hidden="true" hidden checked>
+					<input type="radio" name="layout" id="layout-list" aria-hidden="true" hidden>
+					<input type="radio" name="layout" id="layout-gallery" aria-hidden="true" hidden>
+					<!-- Theme inputs (invisibles) -->		
+					<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
+					<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
+					<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
+
+    	<div id="layout-result">
+      		<section>
+				<script>
+				  (function() {
+ 				   var cx = 'partner-pub-2493257171023914:8890185994';
+ 				   var gcse = document.createElement('script');
+  				  gcse.type = 'text/javascript';
+ 				   gcse.async = true;
+ 				   gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+				    var s = document.getElementsByTagName('script')[0];
+				    s.parentNode.insertBefore(gcse, s);
+				  })();
+				</script>
+				<gcse:searchresults-only></gcse:searchresults-only>
+      		</section>
+		</div>
+	</div>
+	<em><hr></em>
+	<div>
+			<section id="follows">
+			{% include partials/suscribe.html %}
+    		</section>
+	</div>
+</main>
