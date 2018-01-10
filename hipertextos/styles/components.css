@@ -475,7 +475,7 @@
 	top: 0;
 }
 .site-logo img {
-	border-radius: 0;border:none;
+	border-radius: 2px;border:none;
 }
 
 /* Smart navigation */
