@@ -28,12 +28,8 @@
 		<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
 		<input type="radio" id="theme-dark" name="theme" aria-hidden="true" hidden>
 
-  	{% if page.modes %}
-  		{% include partials/navigation/nav.html %}
-	{% else %}
-  		{% include partials/navigation/nav-article.html %}
-	{% endif %}
-
+	{% include partials/navigation/nav.html %}
+  		
 	<!-- Page content -->
 	<div class="page" id="page">
       {{ content }}
