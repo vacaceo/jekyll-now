@@ -12,7 +12,6 @@ text-align: center;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
 #site-nav form input  {border:thin solid var(--color-hardgrey);background:transparent!important;font-weight: lighter ;letter-spacing: 0.05em;}
 #site-nav form input:focus  {background:var(--color-softgrey)  !important;letter-spacing: 0.025em;}
-.sticky-none#site-nav {position:relative !important;z-index:4!important;}
 .cover h2 { letter-spacing: 0.001em;font-weight: normal; }
 #coffee h2 {margin:0;}
 body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;word-wrap:none;}
