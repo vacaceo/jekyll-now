@@ -1,15 +1,18 @@
-    <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+    <meta name="encoding" charset="utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge' />
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
 
-	<meta http-equiv="Content-Language" content="ES-ES"/>
+	<meta http-equiv="Content-Language" content="es-ES"/>
 	<link rel="canonical" href="http://videosmanguis.net/"/>
 		
 	<meta name="distribution" content="global"/>
-	<meta name="keywords" content="Videos Manguis, humor, videos graciosos, videos divertidos, notícias, series, cine, películas, Star Wars, Stranger Things, Juego de Tronos, review, youtuber, youtube, vacas manguis" />
-	<meta name="description" content="{{ site.description }} | Los YouTubers que estás buscando. Notícias, Cine, Series y humor" />
-
+	<meta name="keywords" content="{% for tag in page.tags %}{{ tag }}{% endfor %} Videos Manguis, humor, videos graciosos, videos divertidos, notícias, series, cine, películas, Star Wars, Stranger Things, Juego de Tronos, review, youtuber, youtube, vacas manguis" />
+	<meta name="description" content="Los YouTubers que estás buscando. {{ site.description }} | Star Wars, DC Comics, Marvel, Rick and Morty, Stranger Things, Juego de Tronos, Disney" />
+	<meta name="robots" content="index, follow" />
+    <meta name="author" content="Videos Manguis Producciones" />
+	<meta name="google-site-verification" content="Fo93HRW1pYCpTH0Ms73QTpXnt3PVx2k_2DnPa4YJiNk" />
+	
 	<!-- Metadata: GeoTags -->
 	<meta name="geo.region" content="ES" />
 	<meta name="geo.placename" content="Barcelona" />
@@ -23,7 +26,6 @@
     <meta name="description" content="{{ site.description }}" />
     <meta property="og:description" content="{{ site.description }}" />
     {% endif %}
-    <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
