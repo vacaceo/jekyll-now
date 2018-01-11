@@ -14,6 +14,7 @@ text-align: center;}
 #site-nav form input:focus  {background:var(--color-softgrey)  !important;letter-spacing: 0.025em;}
 .cover h2 { letter-spacing: 0.001em;font-weight: normal; }
 #coffee h2 {margin:0;}
+.sticky-none#site-nav {position:relative !important;}
 body {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;word-wrap:none;}
 p, ul {font-size: 18px;line-height: 27px;}
 main {padding-bottom:0!important;}
