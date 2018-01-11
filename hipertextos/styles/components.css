@@ -24,7 +24,7 @@
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
-	margin: 36px 0 0 0;line-height:18px;
+	margin: 36px 0 0 0;line-height:26px;
 }
 .simple article h3 a,
 #layout-simple:checked ~ #layout-result article h3 a {
@@ -36,12 +36,12 @@
 }
 .simple article div p,
 #layout-simple:checked ~ #layout-result article div p {
-	max-width:85%;
+	max-width:80%;letter-spacing: .001em;
 }
 .simple article div img,
 #layout-simple:checked ~ #layout-result article div img {
-	height: 230px;
-	margin-bottom: 4px;
+	height: 169px;
+	margin-bottom: 2px;
 	object-fit: cover;
 	width: 100%;
 }
@@ -75,7 +75,7 @@
 #layout-list:checked ~ #layout-result article {
 	border-color: transparent;
 	border-top: 1px solid currentColor;
-	height: 280px;
+	height: 240px;
 	margin: 0;
 	padding: 0 0 0;
 }
@@ -96,18 +96,18 @@
 .list article div,
 #layout-list:checked ~ #layout-result article div {
 	display: block;max-width:90%;
-	height: 230px;
+	height: 200px;
 	margin: 0 0 16px;
 	overflow: hidden;
 }
 .list article div img,
 #layout-list:checked ~ #layout-result article div img {
-	border-radius: 12%;
-	height: 190px;
+	border-radius: 8%;
+	height: 160px;
 	float: left;
 	margin: 0 32px 0 0;
 	object-fit: cover;	
-	width: 190px;
+	width: 160px;
 }
 .list article nav,
 #layout-list:checked ~ #layout-result article nav {
@@ -251,7 +251,7 @@
 .gallery article h3,
 #layout-gallery:checked ~ #layout-result article h3 {
 	font-size: 23px;text-align: left;
-	height: 30px;
+	height: 34px;
 	line-height: 27px;
 	margin: 0;
 	overflow: hidden;
@@ -267,12 +267,12 @@
 }
 .gallery article div,
 #layout-gallery:checked ~ #layout-result article div {
-	height: 256px;padding:0;
+	height: 200px;padding:0;
 	overflow: hidden;
 }
 .gallery article div img,
 #layout-gallery:checked ~ #layout-result article div img {
-	height: 256px;
+	height: 255px;
 	overflow: hidden;
 	object-fit: cover;
 	width: 100%;
