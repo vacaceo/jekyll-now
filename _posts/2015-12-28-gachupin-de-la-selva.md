@@ -3,6 +3,7 @@ layout: post
 title: Gachupín de la Selva
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [gachupin, youtuber, divertido, humor, parodia, gracioso, especial]
 img: 7&UnderBar;dZx2p6zhA

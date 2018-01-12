@@ -3,6 +3,7 @@ layout: post
 title: Notícias asombrosas
 post: default
 comments: true
+killnav: sticky-none
 category: [noticias]
 tags: youtuber divertido asombroso humor
 img: h6Rlknaok9Y

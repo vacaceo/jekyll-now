@@ -3,6 +3,7 @@ layout: post
 title: Amazing Spiderman
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso, entrevista, spiderman, superheroes]
 img: nOfanTZVuE8

@@ -3,6 +3,7 @@ layout: post
 title: Tecnologia que no hacía falta
 post: default
 comments: true
+killnav: sticky-none
 category: noticias
 tags: cachondeo youtuber divertido humor gracioso
 img: pyh0LStcJq8

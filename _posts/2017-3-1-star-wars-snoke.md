@@ -3,6 +3,7 @@ layout: post
 title: Star Wars ¿Quién es Snoke?
 post: default
 comments: true
+killnav: sticky-none
 category: cine
 tags: [snoke, cine, youtuber, youtube, estrenos, star wars,]
 img: UqN9v9WhGf8

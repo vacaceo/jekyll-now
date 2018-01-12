@@ -3,6 +3,7 @@ layout: post
 title: Los Comunistas comen niños
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso, entrevista, politica]
 img: pqSfGRxg6uc

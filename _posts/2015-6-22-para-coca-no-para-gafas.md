@@ -3,6 +3,7 @@ layout: post
 title: Para coca no, dinero para gafas
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso]
 img: R9EoBS38kGc

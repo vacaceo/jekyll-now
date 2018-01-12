@@ -3,6 +3,7 @@ layout: post
 title: Yo maté un Predator
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso, alien, Predator]
 img: 2tNN1aEHMBA

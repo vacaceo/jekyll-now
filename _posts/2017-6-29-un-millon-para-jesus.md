@@ -3,6 +3,7 @@ layout: post
 title: 1 Millón para Jesus
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: cachondeo penes religión jesus youtuber divertido humor gracioso
 img: HHPs9L7poVA

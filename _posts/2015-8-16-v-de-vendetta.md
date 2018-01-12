@@ -3,6 +3,7 @@ layout: post
 title: V de Vendetta
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: cachondeo youtuber divertido humor gracioso menstruación
 img: DtW&UnderBar;&UnderBar;Iq0sMo

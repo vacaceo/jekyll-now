@@ -3,6 +3,7 @@ layout: post
 title: Los verdaderos origenes de Jesús
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [Jesucristo, youtuber, divertido, humor, parodia, gracioso]
 img: 4CKU8PfyBgQ

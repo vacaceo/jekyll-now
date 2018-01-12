@@ -3,6 +3,7 @@ layout: post
 title: ALIEN Covenant Review
 post: default
 comments: true
+killnav: sticky-none
 category: cine
 tags: [cine, Alien, estrenos, youtuber, review]
 img: ur0mDU6SU08

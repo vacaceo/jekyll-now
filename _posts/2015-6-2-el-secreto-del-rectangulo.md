@@ -3,6 +3,7 @@ layout: post
 title: El Secreto del Rectangulo
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: cachondeo youtuber humor gracioso rectangulo
 img: aOYtPbGwhGs

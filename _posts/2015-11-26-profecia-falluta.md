@@ -3,6 +3,7 @@ layout: post
 title: Profecía falluta
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [profecias, youtuber, divertido, humor, parodia, gracioso]
 img: Z7ng5HJgvqA

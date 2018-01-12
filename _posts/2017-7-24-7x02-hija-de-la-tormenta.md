@@ -3,6 +3,7 @@ layout: post
 title: 7x02 Hija de la Tormenta
 post: default
 comments: true
+killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review, hija de la tormenta]
 img: tvYaE3GmwTA

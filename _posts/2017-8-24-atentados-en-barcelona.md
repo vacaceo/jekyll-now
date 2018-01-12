@@ -3,6 +3,7 @@ layout: post
 title: Atentados en Barcelona ¿Falsa Bandera?
 post: default
 comments: true
+killnav: sticky-none
 category: noticias
 tags: [politica, Barcelona, falsa bandera, youtuber, catalunya, atentados] 
 img: uRTgNLZTG0o

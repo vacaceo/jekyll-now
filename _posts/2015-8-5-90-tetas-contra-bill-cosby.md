@@ -3,6 +3,7 @@ layout: post
 title: 90 Tetas contra Bill Cosby
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso, Bill Cosby, entrevista]
 img: EYOOUucwWQ4

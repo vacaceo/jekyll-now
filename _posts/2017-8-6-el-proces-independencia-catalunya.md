@@ -3,6 +3,7 @@ layout: post
 title: El Procés, Independencia de Catalunya
 post: default
 comments: true
+killnav: sticky-none
 category: noticias
 tags: Catalunya notícias España conspiraciones procés independencia
 img: JgZ9tPpT4g8

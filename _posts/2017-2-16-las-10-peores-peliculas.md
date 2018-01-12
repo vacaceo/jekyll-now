@@ -3,6 +3,7 @@ layout: post
 title: Las 10 Peores Películas
 post: default
 comments: true
+killnav: sticky-none
 category: cine
 tags: [cine, youtuber, youtube, estrenos, star wars]
 img: cn2XfKCed8Q

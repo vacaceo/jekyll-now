@@ -3,6 +3,7 @@ layout: post
 title: 7x05 Guardiaoriente
 post: default
 comments: true
+killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review, guardiaoriente]
 img: 6VagF7sbQ3k

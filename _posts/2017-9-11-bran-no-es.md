@@ -3,6 +3,7 @@ layout: post
 title: Bran NO es el Rey de la Noche
 post: default
 comments: true
+killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, Bran]
 img: 4vznj5O&UnderBar;oxg

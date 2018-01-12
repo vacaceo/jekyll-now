@@ -3,6 +3,7 @@ layout: post
 title: 7x04 Botines de Guerra
 post: default
 comments: true
+killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review, botines de guerra]
 img: UZbn3&UnderBar;jHXd8

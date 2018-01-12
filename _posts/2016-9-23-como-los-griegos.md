@@ -3,6 +3,7 @@ layout: post
 title: Como los griegos
 post: default
 comments: true
+killnav: sticky-none
 category: humor
 tags: [youtuber, divertido, humor, parodia, gracioso]
 img: SIsuMUp9zJE
