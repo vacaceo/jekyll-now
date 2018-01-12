@@ -3,7 +3,6 @@ layout: post
 title: Lluís Companys y la Independencia
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: politica cachondeo youtuber divertido humor gracioso catalunya budellam
 img: 1Y7UlB5avc8

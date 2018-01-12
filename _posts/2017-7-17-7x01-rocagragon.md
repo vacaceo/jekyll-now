@@ -3,7 +3,6 @@ layout: post
 title: 7x01 Rocadragón
 post: default
 comments: true
-killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review, rocadragón]
 img: 5VGMCu5Ytyk

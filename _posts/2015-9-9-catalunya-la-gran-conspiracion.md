@@ -3,7 +3,6 @@ layout: post
 title: Catalunya la gran conspiración
 post: default
 comments: true
-killnav: sticky-none
 category: noticias
 tags: Catalunya notícias España conspiraciones procés independencia
 img: g6jzen20qGw

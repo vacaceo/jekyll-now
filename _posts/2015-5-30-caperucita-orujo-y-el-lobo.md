@@ -3,7 +3,6 @@ layout: post
 title: DETENIDO César Strawberry por 3 twitts
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, humor, gracioso, cuento, animación, doblaje]
 img: di4aXS9oues

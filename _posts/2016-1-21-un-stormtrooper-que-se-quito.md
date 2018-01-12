@@ -3,7 +3,6 @@ layout: post
 title: El Stormtrooper q se quitó
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [Stormtroopers, entrevista, youtuber, divertido, humor, parodia, gracioso, star wars]
 img: Xmj4C8Ul6F8

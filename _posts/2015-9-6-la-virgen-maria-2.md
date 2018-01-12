@@ -3,7 +3,6 @@ layout: post
 title: La Virgen Maria 2
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: cachondeo youtuber humor videos gracioso virgen
 img: aqb5JdY42N4

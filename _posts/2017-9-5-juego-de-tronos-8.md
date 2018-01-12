@@ -3,7 +3,6 @@ layout: post
 title: Juego de Tronos 8 Posibles finales
 post: default
 comments: true
-killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review, juego de tronos 8, final game of thrones]
 img: _1jVp1c5PEQ

@@ -3,7 +3,6 @@ layout: post
 title: Las 10 Mejores Películas
 post: default
 comments: true
-killnav: sticky-none
 category: cine
 tags: [cine, youtuber, youtube, estrenos, star wars]
 img: SM0b-k2Rmss

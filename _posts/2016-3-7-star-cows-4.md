@@ -3,7 +3,6 @@ layout: post
 title: Star Cows IV y Kim Kardashian
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [Jose Mota, youtuber, divertido, humor, parodia, gracioso, star cows, Kim Kardashian]
 img: I8vHhcf9V6w

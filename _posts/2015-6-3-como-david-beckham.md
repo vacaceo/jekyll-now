@@ -3,7 +3,6 @@ layout: post
 title: Hipsters Metrosexuales como David Beckham
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: cachondeo youtuber humor gracioso
 img: S-mEOPSAzsk

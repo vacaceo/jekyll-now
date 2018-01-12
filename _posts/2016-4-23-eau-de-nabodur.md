@@ -3,7 +3,6 @@ layout: post
 title: Eau de Nabodur
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [eau de Nabodur, youtuber, divertido, humor, parodia, gracioso]
 img: xECMhXLVkwU

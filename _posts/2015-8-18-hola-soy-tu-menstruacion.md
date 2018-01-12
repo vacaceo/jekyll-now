@@ -3,7 +3,6 @@ layout: post
 title: Hola, soy tu menstruación
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: cachondeo youtuber divertido humor gracioso menstruación
 img: epSbm53coU0

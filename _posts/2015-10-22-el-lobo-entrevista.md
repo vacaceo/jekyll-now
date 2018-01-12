@@ -3,7 +3,6 @@ layout: post
 title: El Lobo, entrevista
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [entrevista, youtuber, divertido, humor, parodia, gracioso]
 img: ib9v&UnderBar;NX4sNA

@@ -3,7 +3,6 @@ layout: post
 title: Han Solo ¿que ha pasado?
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [cine, youtuber, youtube, estrenos, star wars, humor, divertido, cachondeo]
 img: PFFjZyS7M6k

@@ -3,7 +3,6 @@ layout: post
 title: Las enseñanzas del Dr Ustinoff
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso, dr Ustinoff, entrevista]
 img: pC-MfgXG6xg

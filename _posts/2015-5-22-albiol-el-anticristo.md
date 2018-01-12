@@ -3,7 +3,6 @@ layout: post
 title: Albiol es el anticristo
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, humor, gracioso, dr ustinoff, politica]
 img: eJpFJAPr&UnderBar;K4

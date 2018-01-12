@@ -3,7 +3,6 @@ layout: post
 title: Udumbara, Fake Total
 post: default
 comments: true
-killnav: sticky-none
 category: noticias
 tags: udumbara youtuber fake divertido humor gracioso
 img: SoH1GxWL0Ho

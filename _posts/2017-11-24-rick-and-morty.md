@@ -3,7 +3,6 @@ layout: post
 title: Rick and Morty
 post: default
 comments: true
-killnav: sticky-none
 category: series
 tags: [Rick and Morty, Rick, Morty, series, cine, humor, mejor serie, gracioso, divertido, review]
 img: lAJ2HviSabI

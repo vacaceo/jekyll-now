@@ -3,7 +3,6 @@ layout: post
 title: Gachupín que va
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [gachupin, youtuber, divertido, humor, parodia, gracioso, especial]
 img: SvVI389GJlM

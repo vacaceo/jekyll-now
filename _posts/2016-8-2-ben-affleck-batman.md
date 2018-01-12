@@ -3,7 +3,6 @@ layout: post
 title: Ben Affleck BATMAN
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [Ben Affleck, Batman, youtuber, divertido, humor, parodia, gracioso]
 img: 4JYNwFvI&UnderBar;HY

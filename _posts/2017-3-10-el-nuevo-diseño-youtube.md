@@ -3,7 +3,6 @@ layout: post
 title: El nuevo diseño de Youtube
 post: default
 comments: true
-killnav: sticky-none
 category: noticias
 tags: youtube youtuber diseño notícias
 img: AZZOaA6E4wY

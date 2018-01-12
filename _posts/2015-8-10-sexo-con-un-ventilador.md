@@ -3,7 +3,6 @@ layout: post
 title: Sexo con un Ventilador
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: cachondeo youtuber divertido humor gracioso ventilador
 img: 3wtFQlFu7yk

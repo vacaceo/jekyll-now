@@ -3,7 +3,6 @@ layout: post
 title: 7x07 El Dragón y el Lobo
 post: default
 comments: true
-killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review]
 img: 3KKsOeVWMKs

@@ -3,7 +3,6 @@ layout: post
 title: 7x03 La Justicia de la Reina
 post: default
 comments: true
-killnav: sticky-none
 category: series
 tags: [juego de tronos, game of thrones, series, review, la justicia de la reina]
 img: S1WYYyYHoaM

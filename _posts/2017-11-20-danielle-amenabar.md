@@ -3,7 +3,6 @@ layout: post
 title: Amenábar te has lucido
 post: default
 comments: true
-killnav: sticky-none
 category: cine
 tags: [Amenábar, danielle, ciencia ficción, crítica, review]
 img: ROEHip4v-2c

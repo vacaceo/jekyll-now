@@ -3,7 +3,6 @@ layout: post
 title: Una chica interesante
 post: default
 comments: true
-killnav: sticky-none
 category: humor
 tags: [cachondeo, youtuber, divertido, humor, gracioso, entrevista]
 img: xeR3G7Mh8ik
