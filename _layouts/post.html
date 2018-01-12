@@ -32,15 +32,14 @@ layout: default
 				<div class="PageNavigation">
 				  {% if page.previous.url %}
 				  	<div class="prev">
-				  	<img class="thumb-2" src="https://i1.ytimg.com/vi/{{ page.previous.img }}/maxresdefault.jpg" rel="{% for tag in page.previous.tags %} {{ tag }}, {% endfor %}">
-				  	<a class="thumb-4" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+				  	<a class="thumb-3" href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+				  	<a class="thumb-3" href="{{ page.next.url }}"><img src="https://i1.ytimg.com/vi/{{ page.previous.img }}/maxresdefault.jpg" rel="{% for tag in page.previous.tags %} {{ tag }}, {% endfor %}"></a>
 					</div>
 				  {% endif %}
 				  {% if page.next.url %}
 					<div class="next">
-					<img class="thumb-2" src="https://i1.ytimg.com/vi/{{ page.next.img }}/maxresdefault.jpg" rel="{% for tag in page.next.tags %} {{ tag }}, {% endfor %}">
-				  	<a class="thumb-4" href="{{ page.next.url }}">
-				    {{ page.next.title }} &raquo;</a>
+					<a class="thumb-3" href="{{ page.next.url }}"><img src="https://i1.ytimg.com/vi/{{ page.next.img }}/maxresdefault.jpg" rel="{% for tag in page.next.tags %} {{ tag }}, {% endfor %}"></a>
+				  	<a class="thumb-3" href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
 					</div>
 				  {% endif %}
 				</div>
