@@ -5,7 +5,7 @@ footer, #follows, #follows-big, #icons, #covers, .nav-scroll, #web-credits, #pag
 text-align: center;}
 /* Nav */
 #site-nav {background: var(--color-soft-black) !important;border-bottom: none;font-size: 17px;color: var(--color-grey);}
-#post-nav b a {font-family:'Mouse Memoirs', sans-serif;font-size: 25px;}
+#site-nav a b {font-family:'Mouse Memoirs', sans-serif;font-size: 25px;font-weight: lighter ;letter-spacing: 0.069em;}
 #site-nav a {color:var(--color-grey)!important;font-weight: lighter;border: none;}
 #site-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
