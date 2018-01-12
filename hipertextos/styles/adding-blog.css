@@ -6,12 +6,15 @@
 .post-dark#page-main h6, .post-dark#page-main h5, .post-dark#page-main h4, .post-dark#page-main h3, .post-dark#page-main h2, .post-dark#page-main p {color:var(--color-transwhite)!important;text-shadow:1px 2px 2px rgba(0,0,0,.5);}
 .post-dark#page-main {z-index:12;border-bottom:8px solid var(--color-red);}
 /* Nav */
-#post-nav div {	margin: 0 auto;padding: 0 50px;position: relative;width: 100%;max-width: var(--page-size);}
-#post-nav {background: var(--color-white) !important;border-bottom: none;font-size: 15px;color: var(--color-grey);height:60px;}
-#post-nav a {color:var(--color-grey)!important;font-weight: lighter;border: none;}
-#post-nav b a {font-family:'Mouse Memoirs', sans-serif;}
+#post-nav div {	margin: 0 auto;padding: 0 160px;position: relative;width: 100%;max-width: var(--page-size);}
+#post-nav {background: var(--color-white) !important;border-bottom: none;color: var(--color-grey);height:60px;}
+#post-nav a {color:var(--color-grey)!important;font-weight: lighter;border: none;ont-size: 16px;}
+#post-nav .site-logo {font-family:'Mouse Memoirs', sans-serif;font-size: 25px;}
+#post-nav .site-logo img {font-size: 12px;}
 #post-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #post-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
+#post-nav .siguiente {float:right;}
+#post-nav .anterior {float:right;}
 
 /* Posts */
 #post-title, #date, #post-share {text-align: center;}
