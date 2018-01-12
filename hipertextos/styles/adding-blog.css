@@ -9,6 +9,7 @@
 #post-nav div {	margin: 0 auto;padding: 0 200px;position: relative;width: 100%;max-width: var(--page-size);letter-spacing: 0.05em;}
 #post-nav {background: var(--color-soft-black) !important;border-bottom: none;color: var(--color-grey);height:60px;}
 #post-nav a {color:var(--color-grey)!important;font-weight: lighter;border: none;ont-size: 16px;}
+#post-nav .site-logo {font-family:'Mouse Memoirs', sans-serif;font-size: 25px;}
 #post-nav .site-logo img {font-size: 12px;}
 #post-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #post-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
