@@ -45,6 +45,7 @@ figure div iframe {width:100%;z-index: 100;}
 .PageNavigation .next {text-align:right ;}
 .PageNavigation .prev a, .PageNavigation .next a {padding:6px;text-decoration: none;color:var(--color-grey);}
 .PageNavigation .prev .thumb-4 {border-right:1px solid var(--color-hard-grey) ;height:150px;}
+.PageNavigation h5 {margin:0;font-size:32px;margin-top:6px;}
 
 h3 a {color: var(--color-hardgrey) }
 h3 a:hover {color: var(--color-link); text-decoration:none;}
