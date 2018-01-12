@@ -8,6 +8,7 @@
 /* Posts */
 #post-title, #date, #post-share {text-align: center;}
 #post-video, #post-download, #post-share, #post-header {border:none;}
+#post-title {font-size:45px;line-height:1.2em;letter-spacing: 0.025em;margin-top:12px;}
 .post em u a { padding: 6px;border: 2px solid var(--color-grey);color: var(--color-grey);border-radius: 40px;width: 180px;margin-top: 18px;}
 .post em u svg { width: 18px;}
 #post-header {color:var(--color-white);border-bottom: 6px solid var(--color-red);text-shadow:1px 2px 9px rgba(0,0,0,.5);}
@@ -17,8 +18,7 @@
 #post-download p img {max-width:320px;float:left;border-radius:4px;margin:0 18px 12px 0;}
 #post-download p em a {	font-size: 15px;line-height: 18px;margin-top:17px;}
 #post-download em svg {	font-size: 18px;line-height: 18px;padding: 3px 0 0 0;}
-figure iframe {width:100%;}
-figure div iframe {z-index: 10;}
+figure iframe {width:100%;z-index: 100;}
 #post-share em a {color:#fff;border-radius:50%;}
 #post-share em svg {padding:0px 0px 0px 7px;}
 #post-share em a:hover {background:#fff !important;border:thin solid var(--color-link);}
