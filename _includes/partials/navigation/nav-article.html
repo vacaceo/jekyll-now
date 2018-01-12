@@ -3,10 +3,10 @@
 					<a class="site-logo" href="{{ site.baseurl }}/" title="Videos Manguis: Inicio"><img src="{{ site.avatar }}" alt="Videos Manguis logo"> {{ site.name }}.net</a>
 					<a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.url }}</a>
 					  {% if page.next.url %}
-					    <a class="next" href="{{page.next.url}}" class="siguiente">Siguiente &raquo;</a>
+					    <a href="{{page.next.url}}" class="siguiente">Siguiente &raquo;</a>
 					  {% endif %}
 					  {% if page.previous.url %}
-					    <a class="prev" href="{{page.previous.url}}" class="anterior">&laquo; Anterior</a>
+					    <a href="{{page.previous.url}}" class="anterior">&laquo; Anterior</a>
 					  {% endif %}					
 				 </div>
 			</nav>
