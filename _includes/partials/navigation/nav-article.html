@@ -5,5 +5,16 @@
 						
 					<a href="{{ site.baseurl }}/xxx" title="xxx" class="siguiente">Siguiente</a>
 					<a href="{{ site.baseurl }}/xxx" title="xxx" class="anterior">Anterior</a>
+					
+					
+					<div class="PageNavigation">
+					  {% if page.previous.url %}
+					    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+					  {% endif %}
+					  {% if page.next.url %}
+					    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+					  {% endif %}
+					</div>
+					
 				 </div>
 			</nav>

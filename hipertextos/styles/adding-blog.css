@@ -7,7 +7,7 @@
 .post-dark#page-main {z-index:12;border-bottom:8px solid var(--color-red);}
 /* Nav */
 #post-nav div {	margin: 0 auto;padding: 0 160px;position: relative;width: 100%;max-width: var(--page-size);}
-#post-nav {background: var(--color-white) !important;border-bottom: none;color: var(--color-grey);height:60px;}
+#post-nav {background: var(--color-soft-black) !important;border-bottom: none;color: var(--color-grey);height:60px;}
 #post-nav a {color:var(--color-grey)!important;font-weight: lighter;border: none;ont-size: 16px;}
 #post-nav .site-logo {font-family:'Mouse Memoirs', sans-serif;font-size: 25px;}
 #post-nav .site-logo img {font-size: 12px;}
