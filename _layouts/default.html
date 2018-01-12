@@ -30,7 +30,12 @@
 	
 	<!-- Page content -->
 	<div class="page" id="page">
+  	{% if page.comments %}
+	{% include partials/navigation/nav-article.html %}
+	{% else %}
 	{% include partials/navigation/nav.html %}
+	{% endif %}
+
       {{ content }}
     {% include partials/footer.html %}
 	</div>
