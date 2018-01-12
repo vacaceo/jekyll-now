@@ -29,6 +29,14 @@ layout: default
       <a href="{{ site.baseurl }}/blog/tags/#{{ tag }}" class="tagged">{{ tag }}</a>
     {% endfor %}
 				</div>
+
+				<aside id="post-share">
+					{% include share.html %}
+				</aside>
+				<div id="date">
+    				<p>Publicat el {{ page.date | date: "%e %B , %Y" }}</p>
+  				</div>
+  				<hr>
 				<div class="PageNavigation">
 				  {% if page.previous.url %}
 				  	<div class="prev">
@@ -43,12 +51,6 @@ layout: default
 					</div>
 				  {% endif %}
 				</div>
-				<aside id="post-share">
-					{% include share.html %}
-				</aside>
-				<div id="date">
-    				<p>Publicat el {{ page.date | date: "%e %B , %Y" }}</p>
-  				</div>
 				<hr>
 				<div id="related-posts">
 					{% include partials/related.html %}
