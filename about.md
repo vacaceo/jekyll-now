@@ -310,9 +310,11 @@ Son conceptos contradictorios. Todo mentira.
 
 En realidad nunca fueron a la Luna. La Luna tampoco existe. Es un holograma creado por los Annunaki para confundirnos.
 
-Y el Sol está fabricado.
+<br>
 
-¿Por quién?
+#### Y el Sol está fabricado.
+
+#### ¿Por quién?
 
 Buena pregunta. Pero ahora no tengo tiempo para responderla. Hay que seguir el camino de la Luz, aunque no seas un Skywalker.
 
@@ -341,9 +343,6 @@ Es mala gente. Vamos que no dejarías que tu hijo se fuera con él a dar un pase
 
 #### Ahora vamos, un momento...
 
-<br>
-
-
 
 <br>
 
@@ -371,7 +370,7 @@ Déjalo.
 
 Y para terminar por todo lo alto...
 
-### Abraza arboles.
+#### Abraza arboles.
 
 #### En serio.
 
