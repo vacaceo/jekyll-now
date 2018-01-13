@@ -24,7 +24,7 @@
 }
 .simple article h3,
 #layout-simple:checked ~ #layout-result article h3 {
-	margin: 36px 0 0 0;line-height:26px;
+	margin: 18px 0 0 0;line-height:26px;
 }
 .simple article h3 a,
 #layout-simple:checked ~ #layout-result article h3 a {
@@ -36,7 +36,7 @@
 }
 .simple article div p,
 #layout-simple:checked ~ #layout-result article div p {
-	max-width:80%;letter-spacing: .001em;
+	max-width:75%;letter-spacing: .001em;
 }
 .simple article div img,
 #layout-simple:checked ~ #layout-result article div img {
@@ -54,8 +54,8 @@
 #layout-simple:checked ~ #layout-result article nav a {
 	color: currentcolor ;text-decoration: none;
 	height: 69px;float:right;margin-top:-70px;margin-right:10px;
-	line-height: 65px;font-size:1.5em;
-	padding: 0;
+	line-height: 62px;font-size:1.6em;
+	padding: 0;border-radius: 50%;
 	width: 69px;
 }
 .simple em u a,
