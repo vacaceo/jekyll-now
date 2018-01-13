@@ -745,7 +745,7 @@ aside > nav label {
 }
 nav a:hover,
 nav label:hover {
-	text-decoration: underline;
+	text-decoration: none;
 }
 nav ul {
 	border: var(--one-pixel) solid transparent;
