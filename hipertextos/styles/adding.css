@@ -63,10 +63,11 @@ a.tagged:hover {color:var(--color-white) ;background-color:var(--color-hardgrey)
 #page-nav a:visited {color: var(--color-grey) ;}
 #page-nav div {height:65px;font-size:15px;letter-spacing: 0.06em;}.serveis#page-main {padding:0;}
 /* nav Scroll */
-.nav-scroll label {font-size: 11px;line-height: 12px;min-width:54px;padding: 10px;font-weight: normal;}
-.nav-scroll label b {font-size:25px;line-height:32px;font-weight:lighter;}
+.nav-scroll {border-bottom:1px solid var(--color-transgrey) ;height:60px;}
+.nav-scroll label {font-size: 11px;line-height: 12px;font-weight: normal;}
+.nav-scroll label b {font-size:25px;line-height:22px;font-weight:lighter;}
 .nav-scroll label:hover {border:thin solid transparent;color:var(--color-black);text-decoration:none;}
-.nav-scroll label#separador {opacity:.25!important;font-size:1.2em;top:-9px;padding-left:0px;padding-right:0;}
+.nav-scroll label#separador {opacity:.25!important;font-size:1.0em;top:-2px;padding-left:0px;padding-right:0;}
 /* Suscribe */
 form .button {border:thin solid currentColor;margin-top:0.6em;}
 

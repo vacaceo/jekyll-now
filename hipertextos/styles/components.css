@@ -64,7 +64,7 @@
 }
 .simple article nav a:visited,
 #layout-simple:checked ~ #layout-result article nav a:visited {
-    color: var(--color-grey) ;border:thin solid var(--color-grey)!important;
+    color: var(--color-transgrey) ;border:thin solid var(--color-transgrey)!important;
 }
 .simple em u a,
 #layout-simple:checked ~ #layout-result em u a {
@@ -138,7 +138,7 @@
 }
 .list article nav a:visited,
 #layout-list:checked ~ #layout-result article nav a:visited {
-    background-color: var(--color-grey) ;
+    background-color: var(--color-transgrey) ;
 }
 @media (max-width: 767px) {
     .list article div img,
@@ -312,7 +312,7 @@
 }	
 .gallery article nav a:visited,
 #layout-gallery:checked ~ #layout-result article nav a:visited {
-    color: var(--color-grey) ;
+    color: var(--color-transgrey) ;
 }
 /* Cards view */
 
