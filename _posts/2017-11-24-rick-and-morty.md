@@ -18,22 +18,24 @@ Rick mola, en cambio Morty..
 
 <!--more-->
 
+<hr>
 
+Una familia, si, como en Padre de Familia o en los Simpsons, pero no es lo mismo.
 
-###### Una familia, si, como en Padre de Familia o en los Simpsons, pero no es lo mismo.
+Es más, mucho más super-mega-flower-disléxico-urbano-pasado de vueltas-marciano-espacial ... 
 
-##### Es más, mucho más super-mega-flower-disléxico-urbano-pasado de vueltas-marciano-espacial ... 
+...pero elegante, por detrás y por delante. Tiene penes, huevos y mucha tralla.
 
-###### ...pero elegante, por detrás y por delante. Tiene penes, huevos y mucha tralla.
+Nos encanta. Vamos a hablar sobre las bondades de ésta gran serie de animación.
 
-###### Nos encanta. Vamos a hablar sobre las bondades de ésta gran serie de animación.
+Ojo, a lo mejor no es para todos los públicos.
 
-###### Ojo, a lo mejor no es para todos los públicos.
+Solo para los más geek, solo para los más guays, solo para nosotras.
 
-###### Solo para los más geek, solo para los más guays, solo para nosotras.
+No haremos Spoilers. No usamos.
 
-###### No haremos Spoilers. No usamos.
+<hr>
 
-###### Hablaremos durante un ratito sobre ésta gran serie,
+##### Hablaremos durante un ratito sobre ésta gran serie,
 
-##### si tenéis sugerencias serán bienvenidas.
+si tenéis sugerencias serán bienvenidas.

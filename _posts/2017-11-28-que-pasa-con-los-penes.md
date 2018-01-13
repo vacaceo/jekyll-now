@@ -17,22 +17,25 @@ Con tacto, o sin tacto, pero lo vamos a hacer igual...
 
 <!--more-->
 
+<hr>
 
-###### Es el cumple de un colega, y lo vamos a celebrar.
+Es el cumple de un colega, y lo vamos a celebrar.
 
-###### Os podeis unir a la fiesta.
+Os podeis unir a la fiesta.
 
 
-###### Felicitar-le el día al colega que necesita cariño.
+Felicitar-le el día al colega que necesita cariño.
 
-###### Será... ...improvisada, pero serà, que es mejor que no que no sea.
+Será... ...improvisada, pero serà, que es mejor que no que no sea.
 
-###### Ser o no ser...
+Ser o no ser...
 
-###### Te planteas muchas cosas cuando celebras un cumple...
+Te planteas muchas cosas cuando celebras un cumple...
 
-###### Venir, pasar y felicitar-le el día al colega que es gratis y te enviamos un jamón.
+ Venir, pasar y felicitar-le el día al colega que es gratis y te enviamos un jamón.
+
+<hr>
 
 #### Jamón Catalán.
 
-##### No hacemos boicots aquí.
+No hacemos boicots aquí.
