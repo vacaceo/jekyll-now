@@ -18,19 +18,22 @@ Nos tragamos la versión extendida, si. Y es peor de lo que parece, en serio!
 
 <!--more-->
 
+<hr>
 
-###### Vamos a desentrañar éste guión totalmente infumable desde nuestro punto de vista.
+Vamos a desentrañar éste guión totalmente infumable desde nuestro punto de vista.
 
-###### No hay palabras, bueno si, hemos hecho un video entero...
+No hay palabras, bueno si, hemos hecho un video entero...
 
-###### Pero para ahorraros el tener que ver la versión extendida, no hace falta.
+Pero para ahorraros el tener que ver la versión extendida, no hace falta.
 
-###### Isabel Coixet lo hubiera hecho mucho mejor.
+Isabel Coixet lo hubiera hecho mucho mejor.
 
-###### Hasta M. Rajoy podría haberlo hecho mejor.
+Hasta M. Rajoy podría haberlo hecho mejor.
 
-###### Anuncio Loteria Navidad - Film - Amenábar - 2017
+Anuncio Loteria Navidad - Film - Amenábar - 2017
+
+<hr>
 
 #### ¿Amenábar, pero se puede saber que coño te pasa?
 
-##### Increïble.
+Increïble.

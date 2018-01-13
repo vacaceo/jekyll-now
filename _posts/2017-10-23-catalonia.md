@@ -15,17 +15,20 @@ Hablamos sobre ello otra vez, si, otra vez.
 
 <!--more-->
 
+<hr>
 
-###### Cada dia pasan muchas cosas. Aunque parezca que no pasa nada, siempre pasa algo.
+Cada dia pasan muchas cosas. Aunque parezca que no pasa nada, siempre pasa algo.
 
-###### Y en Catalunya esto es un no parar.
+Y en Catalunya esto es un no parar.
 
-###### Nos arde el movil, nos cabrean los fachas y nos gustan mucho los macarrones. A la Catalana o a la Española, que nosotros venimos de Vélez Rubio, aunque no os lo creáis, es verdad.
+Nos arde el movil, nos cabrean los fachas y nos gustan mucho los macarrones. A la Catalana o a la Española, que nosotros venimos de Vélez Rubio, aunque no os lo creáis, es verdad.
 
-###### Os avisamos: media Catalunya se quiere ir a la cama con Trapero, el jefe de los mossos.
+Os avisamos: media Catalunya se quiere ir a la cama con Trapero, el jefe de los mossos.
 
-###### Como lo cesen...
+Como lo cesen...
 
-###### ...acabará mal...
+...acabará mal...
 
 ##### en España no conocen a nuestras mujeres...
+
+<hr>

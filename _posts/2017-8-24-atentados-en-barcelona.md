@@ -18,24 +18,29 @@ BARCELONA - ATENTADOS - ORIGEN - OPINIÓN - DEBATE
 <!--more-->
 
 
-###### Hoy hablaremos sobre los atentados ocurridos recientemente en Catalunya.
-###### CHANGE.ORG (Por los Desafortunados Tuits Fascistas):
+Hoy hablaremos sobre los atentados ocurridos recientemente en Catalunya.
+
+CHANGE.ORG (Por los Desafortunados Tuits Fascistas):
 
 [Change.org/campaña](https://www.change.org/p/twitter-españa-y-cuerpos-y-fuerzas-de-seguridad-del-estado-actúen-contra-las-cuentas-que-se-r%C3%ADen-del-atentado-de-barcelona/fbog/36276225)
 
-###### Se trata de una tertulia a tres, no pretendemos iluminar a nadie, simplemente intentar aclarar un poco todo lo que buenamente podamos al respecto de las causas del atentado. Sobre que tipo de organización es la responsable, etc...
-###### Además, nos preguntaremos sobre la percepción de algunos sobre si se trata de un atentado de falsa bandera o no. 
-###### Ni lo afirmamos ni lo negamos, simplemente nos preguntaremos sobre ello.
+Se trata de una tertulia a tres, no pretendemos iluminar a nadie, simplemente intentar aclarar un poco todo lo que buenamente podamos al respecto de las causas del atentado. Sobre que tipo de organización es la responsable, etc...
 
-###### Aquí, somos de Barcelona, así que, aunque no lo viviéramos en primera persona, nos toca muy de cerca.
-###### Hemos paseado muchas veces por las ramblas de Barcelona.
+Además, nos preguntaremos sobre la percepción de algunos sobre si se trata de un atentado de falsa bandera o no. 
+Ni lo afirmamos ni lo negamos, simplemente nos preguntaremos sobre ello.
 
-###### Tampoco podemos dejar a un lado los desafortunados tuits que hemos tenido que ver éstos días. 
-###### Simplemente, necesitábamos hablar sobre el tema sin ninguna pretensión.
+Aquí, somos de Barcelona, así que, aunque no lo viviéramos en primera persona, nos toca muy de cerca.
+Hemos paseado muchas veces por las ramblas de Barcelona.
 
-###### Esperamos no herir a nadie.
-###### En serio.
+Tampoco podemos dejar a un lado los desafortunados tuits que hemos tenido que ver éstos días. 
+Simplemente, necesitábamos hablar sobre el tema sin ninguna pretensión.
 
-##### Bueno, a los fachas si... 
-##### ...pero solo si se lo buscan.
-##### si no, tampoco.
+Esperamos no herir a nadie.
+
+En serio.
+
+Bueno, a los fachas si... 
+
+...pero solo si se lo buscan.
+
+si no, tampoco.

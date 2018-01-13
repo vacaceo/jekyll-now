@@ -19,13 +19,16 @@ Vamos a desmontarla de una vez punto por punto.
 
 <!--more-->
 
+<hr>
 
-###### Por si teníais alguna duda. A nosotros nos parece muy evidente, por eso no tratamos el tema hasta ahora. Pero ya estamos hartos de tanto rollo.
+Por si teníais alguna duda. A nosotros nos parece muy evidente, por eso no tratamos el tema hasta ahora. Pero ya estamos hartos de tanto rollo.
 
-###### No puede ser, los argumentos no tienen peso, y estamos decididos a desmontarlos uno por uno.
+No puede ser, los argumentos no tienen peso, y estamos decididos a desmontarlos uno por uno.
 
-###### Quién se va a creer que R R Martin escribiera semejante tontería!
+Quién se va a creer que R R Martin escribiera semejante tontería!
+
+<hr>
 
 ##### Sin más, vamos a ello.
 
-#### Dale!
+Dale!

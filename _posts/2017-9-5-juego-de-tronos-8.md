@@ -20,13 +20,18 @@ Vamos a comentar TODOS los posibles finales de Juego de Tronos que hemos podido 
 <!--more-->
 
 
-###### Como terminará ésta historia?
-###### Que papel jugarán Jon Snow, Daenerys, Tyrion Lanister, Gendry Baratheon, Theon, La Montaña, el Perro,..
+Como terminará ésta historia?
 
-###### que pasará con Beric..?
+Que papel jugarán Jon Snow, Daenerys, Tyrion Lanister, Gendry Baratheon, Theon, La Montaña, el Perro,..
 
-###### Muchas dudas y pocas certezas...
+que pasará con Beric..?
 
-###### Todo esto y mucho más en DIRECTO en unos momentos...
-###### ...si lo lees antes... ...o puedes volver al pasado...
-###### ...si puedes, ..que pasada, no? ¿Como lo haces?
+Muchas dudas y pocas certezas...
+
+Todo esto y mucho más en DIRECTO en unos momentos...
+
+...si lo lees antes... ...o puedes volver al pasado...
+
+...si puedes, ..que pasada, no?
+
+¿Como lo haces?
