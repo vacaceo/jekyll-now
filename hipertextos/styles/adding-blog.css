@@ -74,10 +74,11 @@ h3 a:hover {color: var(--color-link); text-decoration:none;}
     #rel-content #rel {width:100%;height:162px;}
 	#rel-content #rel img.thumbnails {width:49%;height:160px;object-fit: cover;padding-right:12px;margin-bottom:12px;}
 	#rel h6 {font-size:19px;line-height:1.3em;}
-	#post-nav div .siguiente, #post-nav div .anterior {display:none;}
+	#post-nav div .siguiente, #post-nav div .anterior {font-size:15px;}
     #post-nav div {	padding: 0 0 0 36px;text-align:left;font-size:13px;}
     #post-title {font-size:32px;line-height:39px;}
     #sitename {display:none;visibility: hidden;}
 }
 @media (max-width: 432px) {
+	#post-nav div .siguiente, #post-nav div .anterior {display:none;}
 }
