@@ -374,10 +374,7 @@ Y para terminar por todo lo alto...
 
 #### En serio.
 
-<br>
-
-## Abraza Arboles.
-
+#### Abraza Arboles.
 
 <hr>
 
