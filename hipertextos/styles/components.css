@@ -64,7 +64,7 @@
 }
 .simple article nav a:visited,
 #layout-simple:checked ~ #layout-result article nav a:visited {
-    color: var(--color-grey) ;
+    color: var(--color-grey) ;border:thin solid var(--color-grey)!important;
 }
 .simple em u a,
 #layout-simple:checked ~ #layout-result em u a {
