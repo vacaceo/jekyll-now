@@ -314,7 +314,36 @@ Y el Sol está fabricado.
 
 ¿Por quién?
 
-Buena pregunta.
+Buena pregunta. Pero ahora no tengo tiempo para responderla. Hay que seguir el camino de la Luz, aunque no seas un Skywalker.
+
+No como DC Cómics, que se están haciendo la picha un lío para hacer la Liga de la Justicia, un drama total.
+
+Superman está siempre de un tristón que da rabia. Entonces piensas, que venga Batman y le dé bien duro, y entonces van y lo hacen, pero lo hacen mal. Muy mal. No se merece ni palomitas.
+
+Frank Miller! Ves y dáles unos consejos porque no se enteran de nada... O que lo haga Frank Miller!
+
+Claro! ¡¿Como es que a nadie se le ocurrió?!
+
+En fin, y el resto de superhéroes cada uno peor que el otro... muy mal.
+Solo se salva Wonder Woman, y después de realizar un estudio sociológico nuestras vacas científicas han determinado que ha sido pura chiripa, de total casualidad. 
+
+Muy mal, en Marvel se parten el culo de DC Comics, y sus pelis tampoco son mucho mejores, aunque al menos tienen un buen plan y parece que les va bien.
+
+No como a Han Solo. Pobrete...
+
+Tén hijos que te clavarán el sable de luz. Ya le vale a Kylo, después de esto no hay marcha atrás. Aunque con su madre no pueda, eso da igual.
+
+Es mala gente. Vamos que no dejarías que tu hijo se fuera con él a dar un paseo...
+
+<hr>
+
+#### Pero arriba pone que vamos al grano, no?
+
+#### Ahora vamos, un momento...
+
+<br>
+
+
 
 <br>
 
@@ -334,14 +363,24 @@ Porque ahora a ver como lo termina, hay mucha expectativa, tu imaginate que le s
 
 Martin, es broma, te queremos.
 
-Pero a Ben Affleck no. Lo siento tío cuando te pones mallas no molas.
+Pero a Ben Affleck no. Lo siento pero no mola.
 
-Y tu insistes, pero no molas. Sigue con tu rollo normal, pero deja los superheroes porque no cuela.
+Y el tío insiste, pero no mola.
 
-Déjalo, en serio.
- 
+Déjalo.
+
+Y para terminar por todo lo alto...
+
+### Abraza arboles.
+
+#### En serio.
 
 <br>
+
+## Abraza Arboles.
+
+
+<hr>
 
 # FIN
 
