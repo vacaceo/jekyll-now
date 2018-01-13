@@ -32,7 +32,7 @@ modes: true
 				<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 				<strong>{{ post.category }}</strong>
         		<div>{% if post.id %}<a href="{{ site.baseurl }}{{ post.url }}"><img class="blog-img" src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg" rel="foto de {{ post.title }} , {% for tag in post.tags %} {{ tag }}, {% endfor %}" title="{{ post.title }}"></a>{% endif %}{{ post.excerpt }}</div>
-      			<nav><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">+</a></nav>
+      			<nav><a href="{{ site.baseurl }}{{ post.url }}" class="read-more">&rtrif;</a></nav>
       		</article>
 		{% if paginator.total_pages > 1 %}
 		<div class="pagination">
