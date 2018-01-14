@@ -24,7 +24,7 @@ footer-links:
   instagram: videosmanguis
   linkedin:
   pinterest:
-  rss: rss
+  rss: true
   twitter: videosmanguis
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: c/VideosManguis
@@ -39,7 +39,7 @@ google_analytics: UA-1636204-8
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://vacaceo.github.io
+url: http://vacaceo.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
