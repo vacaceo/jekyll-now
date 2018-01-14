@@ -9,6 +9,7 @@ text-align: center;}
 #site-nav a {color:var(--color-grey)!important;font-weight: lighter;border: none;}
 #site-nav a:visited { color: var(--color-grey);text-decoration: none;}
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
+#site-nav em a {float:right;position:absolute;right:0;background:transparent;width:52px;}
 #site-nav label {color:var(--color-grey);border:thin solid transparent;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
 #site-nav form input  {border:thin solid var(--color-hardgrey);background:transparent!important;font-weight: lighter ;letter-spacing: 0.05em;}
