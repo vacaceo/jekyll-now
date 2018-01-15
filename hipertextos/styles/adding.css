@@ -11,7 +11,7 @@ text-align: center;}
 #site-nav a:hover, #site-nav a b:hover { color: var(--color-white);text-decoration: none;}
 #site-nav label {color:var(--color-grey);border:thin solid transparent;}
 #site-nav label:hover {color:var(--color-soft-grey);border:thin solid #353535;}
-#site-nav em a {position:absolute;right:0;background:transparent;width:40px;padding-right:0;}
+#site-nav em a {position:absolute;top:0;right:12px;background:transparent;width:40px;padding-right:0;}
 #site-nav em a:hover {color:#fafafa!important;}
 #site-nav form {margin-right:50px;}
 #site-nav form input  {border:thin solid var(--color-hardgrey);background:transparent!important;font-weight: lighter ;letter-spacing: 0.05em;}
