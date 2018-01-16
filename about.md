@@ -19,6 +19,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 
 
 ![Vacas Pastando]({{ "assets/bio/vacas1.jpg" | absolute_url }})
+*Había una vez, y tal, pero con vacas, tu ponte en situación*
 
 <hr>
 
