@@ -144,9 +144,8 @@ main { padding-top:1px;margin-bottom: 0;}
     .lab-post, cat-post {height:75px;width:100%;margin-right:0%;max-height:75px;}
 }
 @media (max-width: 768px) {
-    .cover#page-header {padding-top:120px;}
-    .cover#page-header h1 {line-height:0.8em;font-size:23px ;}
-    .cover#page-header h2 {line-height:1.2em;font-size:15px ;}
+    .cover#page-header h1 {font-size:55px;}
+    .cover#page-header h2 {line-height:1.0em;font-size:32px ;}
     #covers article h4{font-size:32px;}
     #covers article h5{font-size:26px;}
     #covers .cover-justify p{font-size:18px!important;letter-spacing: 0.005em;line-height:1.8em;}
@@ -175,5 +174,7 @@ main { padding-top:1px;margin-bottom: 0;}
 }
 
 @media (max-width: 432px) {
+    .cover#page-header h1 {font-size:52px;line-height:1.4em;}
+    .cover#page-header h2 {font-size:40px;line-height:.25;}
 	#icons a {width:18%;padding:8px;}
 }			
