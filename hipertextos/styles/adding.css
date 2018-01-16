@@ -67,7 +67,7 @@ a.tagged:hover {color:var(--color-white) ;background-color:var(--color-hardgrey)
 #page-nav a:visited {color: var(--color-grey) ;}
 #page-nav div {height:65px;font-size:15px;letter-spacing: 0.06em;}.serveis#page-main {padding:0;}
 /* nav Scroll */
-.nav-scroll {border-bottom:1px solid var(--color-transgrey) ;height:60px;}
+.nav-scroll {border-bottom:1px solid var(--color-transgrey) ;height:65px;}
 .nav-scroll label {font-size: 11px;line-height: 12px;font-weight: normal;}
 .nav-scroll label b {font-size:25px;line-height:22px;font-weight:lighter;}
 .nav-scroll label:hover {border:thin solid transparent;color:var(--color-black);text-decoration:none;}
