@@ -118,10 +118,14 @@ img.dialog-svg {width:70px;height:70px;border-radius:21%;}
 .listed article { border:none;overflow: hidden;width: 100%;display: block;display: inline-block;margin:0!important;padding:0!important;-webkit-column-break-inside: avoid;-moz-column-break-inside:avoid;-moz-page-break-inside:avoid;page-break-inside: avoid;}
 em small #go-up { background:rgba(0,0,0,.1);padding:15px;border-radius:50%; }
 em small #go-up:hover {background:rgba(0,0,0,.3); }
-/* Footer fixed */
+/* Footer */
 main { padding-top:1px;margin-bottom: 0;}
 #page-footer {box-shadow: inset 0 0 32px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
 #page-footer p {padding-bottom:69px;}
+#page-footer #sitemap {margin-bottom:18px;color:var(--color-grey);}
+#page-footer #sitemap em a {background: transparent!important;font-size:17px;padding:10px 15px 10px 15px;}
+#page-footer #sitemap em a:hover {color:var(--color-white);text-decoration:none;}
+#page-footer #sitemap svg {width:17px;}
 .pagination {display:none;visibility:hidden;}
 
 @media (max-width: 1250px) {
