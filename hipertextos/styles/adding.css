@@ -103,6 +103,7 @@ img.dialog-svg {width:70px;height:70px;border-radius:21%;}
 #coffee p {text-align: justify;-moz-hyphens:none;-ms-hyphens:none;-webkit-hyphens:none;-o-hyphens:none;hyphens:none;}
 
 /* Footer */ 
+#mouse {font-family:'Mouse Memoirs', sans-serif;font-size: 25px;font-weight: lighter ;letter-spacing: 0.069em;}
 #page-footer {background:#222;color:#999;}
 #page-footer em small a {border: thin solid #222;}
 #web-credits {opacity:.75;background-color:#fafafa;border-bottom: thin solid var(--color-softgrey);border-top:thin solid var(--color-softgrey);}
@@ -124,7 +125,7 @@ main { padding-top:1px;margin-bottom: 0;}
 #page-footer p {padding-bottom:69px;}
 #page-footer #sitemap {margin-bottom:18px;color:var(--color-grey);}
 #page-footer #sitemap em a {background: transparent!important;font-size:17px;padding:10px 15px 10px 15px;}
-#page-footer #sitemap em a:hover {color:var(--color-white);text-decoration:none;}
+#page-footer #sitemap em a:hover {color:var(--color-link);text-decoration:none;}
 #page-footer #sitemap svg {width:17px;}
 .pagination {display:none;visibility:hidden;}
 
