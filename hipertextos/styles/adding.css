@@ -124,8 +124,9 @@ em small #go-up:hover {background:rgba(0,0,0,.3); }
 
 #page-footer p {padding-bottom:69px;}
 #page-footer #sitemap {color:var(--color-grey);width:100%;}
-#page-footer #sitemap em a {background: transparent!important;font-size:17px;padding:10px 15px 10px 15px;}
-#page-footer #sitemap em a:hover {color:var(--color-link);text-decoration:none;}
+#page-footer #sitemap strong {display:inline-block;text-align: center;}
+#page-footer #sitemap strong em a {background: transparent!important;font-size:17px;padding:10px 15px 10px 15px;}
+#page-footer #sitemap strong em a:hover {color:var(--color-link);text-decoration:none;}
 #page-footer #sitemap svg {width:17px;}
 .pagination {display:none;visibility:hidden;}
 
