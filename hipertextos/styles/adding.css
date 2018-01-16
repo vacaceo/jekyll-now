@@ -119,10 +119,11 @@ em small #go-up:hover {background:rgba(0,0,0,.3); }
 #web-credits label svg {max-width:72px;margin:10px;opacity:.6;border-radius:50%;}
 #web-credits label svg:hover {cursor:pointer !important;opacity:1;box-shadow: 0 1px 3px rgba(0,0,0,.3);}
 #mouse {width:100%;font-family:'Mouse Memoirs', sans-serif;}
-#page-footer em #mouse a {font-size: 32px;font-weight: lighter ;letter-spacing: 0.069em;}
+#page-footer h3 a {color:var(--color-grey) ;text-decoration:none;font-size: 32px;line-height:1.5;font-weight: lighter ;letter-spacing: 0.12em;}
+#page-footer h3 a:hover {color:var(--color-link) ;font-size: 42px;line-height:1.0;font-weight: lighter ;letter-spacing: 0.18em;}
 
 #page-footer p {padding-bottom:69px;}
-#page-footer #sitemap {margin-bottom:18px;color:var(--color-grey);}
+#page-footer #sitemap {color:var(--color-grey);width:100%;}
 #page-footer #sitemap em a {background: transparent!important;font-size:17px;padding:10px 15px 10px 15px;}
 #page-footer #sitemap em a:hover {color:var(--color-link);text-decoration:none;}
 #page-footer #sitemap svg {width:17px;}
