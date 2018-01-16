@@ -25,6 +25,10 @@
 #about-content blockquote p {width:85%;margin-right:10%;}
 #about-content blockquote.cow-hack  {background-image: url("/assets/bio/vacasuperiora.png");background-size:132px 132px;}
 
+#web-credits {opacity:.75;background-color:var(--color-transgrey) ;border: none;}
+#web-credits label svg {max-width:72px;margin:10px;opacity:.6;border-radius:50%;}
+#web-credits label svg:hover {cursor:pointer !important;opacity:1;box-shadow: 0 1px 3px rgba(0,0,0,.3);}
+
 #follow-yt {float:left;text-align: center;margin-right:15px;}
 section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:var(--color-blue);}
 .full-cover div h4 {line-height:1.6em;}
@@ -33,17 +37,27 @@ section.full-cover {background:var(--color-black);padding:6% 19% 6% 19%;color:va
 #ep2, #ep3, #ep4, #ep5 {border-top:thin solid currentcolor;margin-top:23px;}
 
 @media (max-width: 1250px) {
+    #page-header h4 {font-size:32px;line-height:1.5em;padding-top:3px;margin-top:3px;}
     section.full-cover {padding:5% 2% 5% 2%;}
     .cover-page p {font-size:16px;line-height:1.8em;}
-	#about-content blockquote p, #about-content blockquote.cow-hack p {width:80%;margin-right:20%;}
+	#about-content blockquote p, #about-content blockquote.cow-hack p {font-size:15px;width:83%;}
+    #about-content blockquote, #about-content blockquote.cow-hack {background-size:112px 112px }
 }
 @media (max-width: 768px) {
+    #page-header h4 {font-size:23px;line-height:1.8em;padding-top:3px;margin-top:0;text-align:left;}
+    main {margin-bottom:0px!important;padding-bottom:0px!important;}
     #about-content p{font-size:17px ;}
     section.full-cover {padding:5% 2% 5% 1%;}
 	.full-cover div h4 {font-size:23px;line-height:1.4em;text-align: left;}
     .cover-page h4  {text-align:center;}
     .cover-page p {font-size:15px;line-height:1.5em;}
     .cover-page strong em a {width:100%;margin-bottom: 5px;}
-	#about-content blockquote p, #about-content blockquote.cow-hack p {font-size:15px;width:77%;margin-right:23%;}
-    #about-content blockquote, #about-content blockquote.cow-hack {background-size:92px 92px }
-}-
+	#about-content blockquote p, #about-content blockquote.cow-hack p {font-size:15px;width:82%;margin-right:23%;}
+    #about-content blockquote, #about-content blockquote.cow-hack {background-size:96px 96px }
+}
+@media (max-width: 432px) {
+    #avatar { margin: 0 3px 0 0;float:left;padding: 1px; max-width:92px;margin-bottom:26px;}
+    #page-header h4 {font-size:13px;line-height:1.8em;padding-top:3px;margin-top:0;text-align:left;}
+  	#about-content blockquote, #about-content blockquote.cow-hack  {border-left:4px solid currentcolor;background-size:69px 69px;}
+	#about-content blockquote p, #about-content blockquote.cow-hack p {width:82%;}  
+}
