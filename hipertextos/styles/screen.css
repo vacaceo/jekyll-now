@@ -1045,7 +1045,7 @@ em label:hover {
 	color: var(--color-link);
 }
 a:hover svg {
-	fill: var(--color-link);
+	fill: var(--color-white);
 }
 a:active,
 a:visited:active {
