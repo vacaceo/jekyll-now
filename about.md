@@ -18,7 +18,7 @@ previ: No hace tanto tiempo,<br>en una galáxia que está a tomar por culo de la
 #### Vamos por partes
 
 
-![Vacas Pastando]({{ "/assets/bio/vacas1.jpg" | absolute_url }})
+![Vacas Pastando]({{ "assets/bio/vacas1.jpg" | absolute_url }})
 
 <hr>
 
@@ -41,7 +41,7 @@ No sabíamos que era, no lo habíamos visto nunca. Solo sabíamos que no se pod�
 Bajó del cielo ante nuestro asombro, y se llevó a varias de nosotras.
 
 
-![Llega un Ovni]({{ "/assets/bio/ovni.jpg" | absolute_url }})
+![Llega un Ovni]({{ "assets/bio/ovni.jpg" | absolute_url }})
 
 
 Al principio nos cagamos.
@@ -66,11 +66,11 @@ Teníamos miedo. Mucho miedo.
 
 Algunos eran realmente muy raros. Con esos ojos y ese color pálido.
 
-![Maestro Yoda]({{ "/assets/bio/yoda.jpg" | absolute_url }})
+![Maestro Yoda]({{ "assets/bio/yoda.jpg" | absolute_url }})
 
-![foto de ET el extraterrestre]({{ "/assets/bio/et.jpg" | absolute_url }})
+![ET el extraterrestre]({{ "assets/bio/et.jpg" | absolute_url }})
 
-![Alien con cara de David Parcerisa]({{ "/assets/bio/alienparcerisa.jpg" | absolute_url }})
+![Alien con cara de David Parcerisa]({{ "assets/bio/alienparcerisa.jpg" | absolute_url }})
 
 <hr>
 
@@ -106,7 +106,7 @@ Y nos pusimos a subir películas y documentales como locas.
 #### España contraataca un poco
 
 
-![Vacas Pastando]({{ "/assets/bio/vacas2.jpg" | absolute_url }})
+![AT-ATs atacando en la nieve]({{ "assets/bio/vacas2.jpg" | absolute_url }})
 
 <hr>
 
@@ -141,7 +141,7 @@ En fin, muchas cosas.
 Pero justo cuando la cosa estaba arrancando el peso de la Ley Española cayó sobre nosotras y nos cerraron la web.
 
 <br>
-![meme con Stormtrooper que dice Primero Darth Vader y ahora Rajoy]({{ "/assets/bio/palladooscuro.jpg" | absolute_url }})
+![meme con Stormtrooper que dice Primero Darth Vader y ahora Rajoy]({{ "assets/bio/palladooscuro.jpg" | absolute_url }})
 
 ### Internet se estaba pasando al lado oscuro.
 
@@ -157,7 +157,7 @@ Pero había un problema. Los humanos son el porcentaje más grande de usuarios e
 
 Y nosotras somos vacas.
 
-![focas rusas]({{ "/assets/bio/focas.jpg" | absolute_url }})
+![focas rusas]({{ "assets/bio/focas.jpg" | absolute_url }})
  
 Después de varios experimentos frustrados conseguimos un software especializado en crear "avatares humanos" digitalmente.
 
@@ -177,7 +177,7 @@ Y gratis!
 ## Episodio III
 #### El retorno del audio
 
-![Vacas Pastando]({{ "/assets/bio/vacas3.jpg" | absolute_url }})
+![Vaca tocando el Arpa entre mariposas]({{ "assets/bio/vacas3.jpg" | absolute_url }})
 
 <hr>
 
@@ -205,7 +205,7 @@ Todo el dia mirando Google Trends, Analytics, el parte meteorológico, videos de
 
 Como la vez que nos caímos en otra dimensión donde todo era de Lego.
 
-![Star Cows Lego movie polaroid]({{ "/assets/bio/starcows.png" | absolute_url }})
+![Foto polaroid del rodaje de Star Cows Lego movie]({{ "assets/bio/starcows.png" | absolute_url }})
 
 Eso fue tremendo, aún estamos montando la película-documental, pero rapido no va a poder ser.
 
@@ -227,7 +227,7 @@ Lo mismo que les pasó con "Blade Runner 2", "Star Wars La amenaza fantasma", "C
 ## Episodio IV
 #### El último Youtuber
 
-![Vacas Pastando]({{ "/assets/bio/vacas4.jpg" | absolute_url }})
+![8 Vacas en primer plano]({{ "assets/bio/vacas4.jpg" | absolute_url }})
 
 <hr>
 
@@ -289,7 +289,7 @@ En cambio, la cuarta, que estaba de vacaciones en México, aunque decidió casar
 ## Al grano
 #### Lo que realmente importa
 
-![Vacas Pastando]({{ "/assets/bio/grano.jpg" | absolute_url }})
+![fotografía de un grano de pus con grano de trigo de fondo]({{ "assets/bio/grano.jpg" | absolute_url }})
 
 <hr>
 
