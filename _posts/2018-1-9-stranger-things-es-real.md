@@ -5,9 +5,8 @@ post: default
 comments: true
 category: series
 tags: [Stranger Things, series, ciencia ficción, Winona Ryder, noticias]
-img: qjm6AF1JQMw
 excerpt_separator: <!--more-->
-
+img: qjm6AF1JQMw
 ---
 
 Stranger things está basado en una historia real
