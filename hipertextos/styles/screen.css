@@ -810,15 +810,14 @@ nav form input[type=submit] {
 	background: var(--color-white);
 	border: none !important;position:absolute;
 	color: var(--color-hardgrey);
-	_display: none;
 	height: var(--thirty-pixel); 	
 	line-height: var(--thirtytwo-pixel); 	
 	margin-left: -1.85em;
-	padding: 0 var(--fifteen-pixel);
-	z-index: 10;
+	padding: 2px 18px 0 19px;
+	z-index: 10;transform: rotate(40deg);
 }
 nav form input:focus ~ input[type=submit] {
-	display: inline-block;color: var(--color-grey);padding: 0 7px;transform: rotate(40deg);
+	display: inline-block;color: var(--color-grey);padding: 4px 18px 0 12px;
 }
 nav label {
 	cursor: pointer;

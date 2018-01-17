@@ -4,7 +4,7 @@ title: Stranger Things - Review
 post: default
 comments: true
 category: series
-tags: [Stranger Things, series, cine, ciencia ficción, mejor serie, Winona Ryder, review]
+tags: [Stranger Things, series, ciencia ficción, mejor serie, Winona Ryder, review]
 img: -4tmgxlS5hs
 excerpt_separator: <!--more-->
 ---
