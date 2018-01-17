@@ -117,8 +117,9 @@ em small #go-up:hover {background:rgba(0,0,0,.3); }
 .buscar#page-header {background-image: url("/img/texture/h_seamless.png");background-size:400px 400px;background-repeat: repeat;image-rendering: crisp-edges;border:none!important;box-shadow:inset 0 0 6px rgba(0,0,0,.12);}
 .buscar#page-header h1 {font-family:'Mouse Memoirs', sans-serif;font-weight: lighter ;}
 .buscar form input  {border:2px solid var(--color-softgrey);background:var(--color-white)!important;font-size:25px;height:46px;border-radius:32px;padding:0 23px 0 23px;}
-.buscar form input submit {color:#cc0000;}
-.buscar form input:focus  {background:var(--color-softgrey)  !important;letter-spacing: 0.025em;}
+.buscar form input:focus  {background:var(--color-white)  !important;letter-spacing: 0.025em;box-shadow:none;border-color:var(--color-grey);}
+.buscar form input ~ input[type=submit] {display: inline-block;color: var(--color-grey);transform: rotate(40deg);width:45px;height:45px;padding:0 0 3px 6px;font-size:30px;}
+.buscar form input ~ input[type=submit]:hover {color:var(--color-grey) ;background-color:var(--color-white)!important;border-color:var(--color-grey);}
 
 /* Footer */ 
 #page-footer {background:#222;color:#999;box-shadow: inset 0 0 32px rgba(0, 0, 0, .32);bottom: 0px;width: 100%;}
