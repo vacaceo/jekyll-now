@@ -5,7 +5,7 @@ post: default
 comments: true
 category: series
 tags: [Stranger Things, series, ciencia ficción, Winona Ryder, noticias]
-img: [qjm6AF1JQMw]
+img: qjm6AF1JQMw
 excerpt_separator: <!--more-->
 ---
 
@@ -14,7 +14,6 @@ Stranger things está basado en una historia real
 Ya verás, en serio. Lo hemos encontrado por ahí, pero es científicamente real..., bueno, un poco almenos...
 
 <!--more-->
-
 
 ###### Os dejamos el enlace [aquí](https://www.bluebbva.com/2017/12/no-no-has-leido-mal-stranger-things-esta-inspirada-en-una-historia-real.asp?utm_source=xataka&utm_medium=referral&utm_campaign=recommended_post)
 
