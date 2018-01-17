@@ -8,7 +8,18 @@ modes: true
 <main id="page-main">
 	<div id="layout">
     	<div id="buscar-resultats">
-<gcse:searchresults></gcse:searchresults>
+<script>
+  (function() {
+    var cx = '001251290766013693580:1biecpywwe8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchresults-only></gcse:searchresults-only>
 		</div>
 	</div>
 	<em><hr></em>
