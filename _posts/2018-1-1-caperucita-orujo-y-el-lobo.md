@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DETENIDO César Strawberry por 3 twitts
+title: La Caperucita, Orujo y el Lobo
 post: default
 comments: true
 category: humor
@@ -9,7 +9,7 @@ img: di4aXS9oues
 excerpt_separator: <!--more-->
 ---
 
-Caperucita Roja - Divertido | Humor | Chiste verde
+Nuestra Caperucita Roja. Video Divertido, Humor, Chiste verde
 
 Modernización de una variante poco conocida del clásico cuento de la Caperucita Roja.
 
