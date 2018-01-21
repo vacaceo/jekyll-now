@@ -17,6 +17,14 @@
 	<link href="https://fonts.googleapis.com/css?family=Mouse+Memoirs" rel="stylesheet">
     {% include favicons.html %}
 
+	{% if page.home %}
+	 <link rel="prefetch" href="{{ site.baseurl }}nosotras">
+	{% endif %}
+		
+	{% if page.comments %}
+	 <link rel="prefetch" href="{{page.next.url}}">
+	 <link rel="prefetch" href="{{page.previous.url}}">
+	{% endif %}
 	
   </head>
 
