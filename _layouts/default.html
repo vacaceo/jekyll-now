@@ -96,15 +96,21 @@
 {% endif %}
 
 {% if page.posting %}
-{% 
-  include structuredData.html 
-  headline=page.title
-  genre=page.category
-  keywords=page.keywords
-  content=page.content
-  link=page.permalink
-  date=page.date
-%}
+  {% assign items = "" %}
+  {% for post in site.posts %}
+    {% capture list_item %}
+        {% 
+            include blogListItem.html 
+            index=forloop.index
+            url=post.url
+            title=post.title
+            date=post.date
+        %}
+    {% endcapture %}
+    {% assign items = items | append: list_item | append: "|||" %}
+  {% endfor %}
+    
+  {% assign items = items | split: "|||" | join: ',' %}
 {% endif %}
 
     {% include analytics.html %}
