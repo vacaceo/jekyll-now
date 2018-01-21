@@ -37,7 +37,7 @@ Here we generate all the categories.
 	<nav id="page-nav" class="nav-scroll">
 		<div>
 			{% for ct in cats %}
-			<a href="#{{ ct | slugify }}"> {{ ct }} </a> &nbsp;&nbsp;
+			<a href="#{{ ct | slugify }}" title="Ver videos con éste Tag"> {{ ct }} </a> &nbsp;&nbsp;
 			{% endfor %}
 		</div>
 	</nav>
@@ -53,10 +53,10 @@ Here we generate all the categories.
   <div class="cat-post">
   	<a href="{{ post.url }}">
 	<figure class="cat-img">
-		<img src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg">
+		<img src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg" alt="ver el video {{ post.title }}">
 	</figure>
 	</a>
-    <h6><a href="{{ post.url }}">{{ post.title }}</a><br><small>{{ post.date | date_to_string }}</small></h6>
+    <h6><a href="{{ post.url }}" title="Ver {{ post.title }}">{{ post.title }}</a><br><small>{{ post.date | date_to_string }}</small></h6>
   </div>
   {% endif %}
   {% endfor %}
