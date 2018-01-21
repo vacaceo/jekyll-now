@@ -3,6 +3,12 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
 
 	<link rel="canonical" href="http://videosmanguis.net/"/>
+	<link rel="prefetch" href="{{ site.baseurl }}nosotras">
+		
+	{% if page.posting %}
+	 <link rel="prefetch" href="{{page.next.url}}">
+	 <link rel="prefetch" href="{{page.previous.url}}">
+	{% endif %}
 		
 	<meta name="distribution" content="global"/>
 	<meta name="keywords" content="{% for tag in page.tags %} {{ tag }}, {% endfor %} Videos Manguis, humor, videos graciosos, videos divertidos, notícias, series, cine, películas, Star Wars, Stranger Things, Juego de Tronos, review, youtuber, youtube, vacas manguis" />
