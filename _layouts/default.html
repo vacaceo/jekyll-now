@@ -16,6 +16,7 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 	<link href="https://fonts.googleapis.com/css?family=Mouse+Memoirs" rel="stylesheet">
     {% include favicons.html %}
+
 	
   </head>
 
@@ -94,22 +95,57 @@
 </script>
 {% endif %}
 
-{% if page.img %}
-  {% assign items = "" %}
-  {% for post in site.posts %}
-    {% capture list_item %}
-        {% 
-            include blogListItem.html 
-            index=forloop.index
-            url=post.url
-            title=post.title
-            date=post.date
-        %}
-    {% endcapture %}
-    {% assign items = items | append: list_item | append: "|||" %}
-  {% endfor %}
-    
-  {% assign items = items | split: "|||" | join: ',' %}
+{% if page.posting %}
+
+{% assign wordcount = include.content | number_of_words %}
+
+<script type="application/ld+json">
+{  
+   "@context":"http://schema.org",
+   "@type":"BlogPosting",
+   "headline":"{{ include.headline }}",
+   "genre":"{{ include.category }}",
+   "keywords":"{{ include.keywords }}",
+   "wordCount":"{{ wordcount }}",
+   "url":"http://videosmanguis.net{{ include.link }}",
+   "datePublished":"{{ include.date | site.time | date_to_xmlschema }}",
+   "author":{  
+      "@type":"Person",
+      "name":"Videos Manguis",
+      "sameAs":[  
+        "https://twitter.com/videosmanguis",
+        "https://github.com/vacaceo",
+        "https://plus.google.com/u/0/+VideosManguis"
+      ]
+   },
+   "publisher":{  
+      "@type":"Person",
+      "name":"Videos Manguis",
+      "sameAs":[  
+        "https://twitter.com/videosmanguis",
+        "https://github.com/vacaceo",
+        "https://plus.google.com/u/0/+VideosManguis"
+      ],
+      "image": {
+  		"@type": "ImageObject",
+  		"contentUrl": "http://videosmanguis.net/hipertextos/brand/cover.png",
+  		  "url": "http://videosmanguis.net/"
+    }
+   },
+   "image":{  
+      "@type":"ImageObject",
+      "contentUrl":"http://videosmanguis.net/hipertextos/brand/cardboard.jpg",
+      "url":"http://videosmanguis.net",
+      "height":"450",
+      "width":"1000"
+   },
+   "mainEntityOfPage":{  
+      "@type":"WebPage",
+      "@id":"http://videosmanguis.net{{ include.link }}"
+   },
+   "articleBody":"{{ include.content | strip_html | xml_escape | normalize_whitepace | strip_newlines | strip }}"
+}
+</script>
 {% endif %}
 
     {% include analytics.html %}
