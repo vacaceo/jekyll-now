@@ -1,6 +1,4 @@
     <meta name="encoding" charset="utf-8" />
-	<!-- Actualiza la etiqueta <html> con include de itemscope y itemtype attributes. -->
-	<html itemscope itemtype="<a href="http://schema.org/Article">http://schema.org/Article</a>">
 
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
@@ -28,9 +26,9 @@
 		
     {% if page.excerpt %}
     <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% endif %}">
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta itemprop="description" content="{{ page.excerpt| strip_html }}">
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="description" content="{{ page.excerpt| smartify }}" />
+    <meta itemprop="description" content="{{ page.excerpt| smartify }}">
+    <meta property="og:description" content="{{ page.excerpt| smartify }}" />
     <meta itemprop="image" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg">
 	<!-- Twitter Card data -->
 	<meta name="twitter:card" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg">
