@@ -70,6 +70,43 @@
     		});
 		});
   	</script>{% endif %}
+
+{% if page.home %}
+
+  	<script type="application/ld+json">
+{ "@context": "http://schema.org", 
+ "@type": "Blog",
+ "keywords": "humor videos graciosos videos divertidos notícias series cine películas Star Wars Stranger Things Juego de Tronos review youtuber youtube vacas manguis", 
+ "url": "http://videosmanguis.net",
+ "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://videosmanguis.net"
+  },
+ "author": {
+    "@type": "Person",
+    "name": "Videos Manguis",
+    "sameAs": [
+        "https://twitter.com/videosmanguis",
+        "https://github.com/vacaceo",
+        "https://plus.google.com/u/0/+VideosManguis"
+    ]
+  }
+ }
+</script>
+{% endif %}
+
+{% if page.posting %}
+{% 
+  include structuredData.html 
+  headline=page.title
+  genre=page.category
+  keywords=page.keywords
+  content=page.content
+  link=page.permalink
+  date=page.date
+%}
+{% endif %}
+
     {% include analytics.html %}
   </body>
 </html>
