@@ -26,9 +26,9 @@
 		
     {% if page.excerpt %}
     <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% endif %}">
-    <meta name="description" content="{{ page.excerpt| smartify }}" />
-    <meta itemprop="description" content="{{ page.excerpt| markdownify }}">
-    <meta property="og:description" content="{{ page.excerpt| smartify }}" />
+    <meta name="description" content="{{ page.excerpt| normalize_whitespace }}" />
+    <meta itemprop="description" content="{{ page.excerpt| normalize_whitespace }}">
+    <meta property="og:description" content="{{ page.excerpt| normalize_whitespace }}" />
     <meta itemprop="image" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg">
 	<!-- Twitter Card data -->
 	<meta name="twitter:card" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg">
