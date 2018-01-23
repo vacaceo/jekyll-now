@@ -20,7 +20,8 @@
 	<meta name="geo.placename" content="Barcelona" />
 	<meta name="geo.position" content="41.4470282;2.2413973" />
 	<meta name="ICBM" content="41.4470282;2.2413973" />
-		
+
+	<meta property="og:type" content="website"/>			
     {% if page.excerpt %}
     <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% endif %}">
     <meta name="description" content="{{ page.excerpt| normalize_whitespace | strip_html }}" />
@@ -28,20 +29,22 @@
     <meta property="og:description" content="{{ page.excerpt| normalize_whitespace | strip_html }}" />
     <meta itemprop="image" content="http://img.youtube.com/vi/{{ page.img }}/default.jpg">
 	<!-- Twitter Card data -->
-	<meta name="twitter:card" content="http://img.youtube.com/vi/{{ page.img }}/default.jpg">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@{{ site.footer-links.twitter }}">
 	<meta name="twitter:title" content="{{ page.title }}">
 	<meta name="twitter:description" content="{{ page.excerpt|  normalize_whitespace | strip_html }}">
+	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 	<meta name="twitter:creator" content="@{{ site.footer-links.twitter }}">
 	<!-- Twitter summary card with large image. Al menos estas medidas 280x150px -->
-	<meta name="twitter:image:src" content="http://img.youtube.com/vi/{{ page.img }}/default.jpg">
+	{% if page.img %}<meta name="twitter:image:src" content="http://img.youtube.com/vi/{{ page.img }}/default.jpg">{% endif %}
 	<!-- Open Graph data -->
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content=" {{ site.baseurl }}" />
-	<meta property="og:image" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg" />
+	{% if page.img %}<meta property="og:image" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg" />{% endif %}
 	<meta property="og:description" content="{{ page.excerpt|  normalize_whitespace | strip_html }}" />
 	<meta property="og:site_name" content="{{ site.baseurl }}" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 	<meta property="article:published_time" content="{{ page.date }}" />
 	<meta property="article:modified_time" content="{{ page.date }}" />
 	<meta property="article:section" content="Post" />
@@ -51,20 +54,21 @@
     <meta itemprop="name" content="{{ page.title }}{{ site.name }}">
     <meta name="description" content="{{ site.description }}" />
     <meta itemprop="description" content="Los YouTubers que estás buscando. {{ site.description }} | Star Wars, DC Comics, Marvel, Rick and Morty, Stranger Things, Juego de Tronos, Disney">
-    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:description" content="{{ page.description | default: site.description}}" />
     <meta itemprop="image" content="{{ site.baseurl }}/hipertextos/brand/cover.png">
 	<!-- Twitter Card data -->
-	<meta name="twitter:card" content="{{ site.baseurl }}/hipertextos/brand/cover.png">
+	<meta name="twitter:card" content="summary">
 	<meta name="twitter:site" content="@{{ site.footer-links.twitter }}">
 	<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}">
-	<meta name="twitter:description" content="{{ site.description }}">
+	<meta name="twitter:description" content="{{ page.description | default: site.description}}">
+	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 	<meta name="twitter:creator" content="@{{ site.footer-links.twitter }}">
 	<!-- Twitter summary card with large image. Al menos estas medidas 280x150px -->
 	<meta name="twitter:image:src" content="http://www.videosmanguis.net/">
 	<!-- Open Graph data -->
 	<meta property="og:title" content="{{ site.name }}" />
 	<meta property="og:type" content="article" />
-	<meta property="og:url" content="http://www.videosmanguis.net/" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
 	<meta property="og:image" content=" {{ site.baseurl }}/hipertextos/brand/cover.png" />
 	<meta property="og:description" content="Los YouTubers que estás buscando. {{ site.description }} | Star Wars, DC Comics, Marvel, Rick and Morty, Stranger Things, Juego de Tronos, Disney" />
 	<meta property="og:site_name" content="http://www.videosmanguis.net/" />
