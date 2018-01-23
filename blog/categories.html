@@ -51,7 +51,7 @@ Here we generate all the categories.
   {% for post in site.posts %}
   {% if post.category contains ct %}
   <div class="cat-post">
-  	<a href="{{ post.url }}">
+  	<a href="{{ post.url }}" title="Ver online {{ post.title }}">
 	<figure class="cat-img">
 		<img src="https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg" alt="ver el video {{ post.title }}">
 	</figure>
