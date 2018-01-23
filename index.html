@@ -38,18 +38,18 @@ home: true
 		<div class="pagination">
     	{% if paginator.previous_page %}
     	{% if paginator.page == 2 %}
-        <a href="{{ site.siteurl }}/">&laquo; Prev</a>
+        <a href="{{ site.siteurl }}/" title="Previo">&laquo; Prev</a>
     	{% else %}
-        <a href="{{ site.siteurl }}/page{{ paginator.previous_page }}/">&laquo; Anterior</a>
+        <a href="{{ site.siteurl }}/page{{ paginator.previous_page }}/"  title="Anterior">&laquo; Anterior</a>
     	{% endif %}    
 		{% else %}
     	<span>&laquo; Prev</span>
 		{% endif %}
 
 	    {% if paginator.next_page %}
-    	<a class='next' href="{{ site.siteurl }}/page{{ paginator.next_page }}/">Siguiente &raquo;</a>
+    	<a class='next' href="{{ site.siteurl }}/page{{ paginator.next_page }}/"  title="Siguiente">Siguiente &raquo;</a>
 		{% else %}
-    	<span class='next'>Next &raquo;</span>
+    	<span class='next' title="Siguiente">Next &raquo;</span>
     	{% endif %}
   		</div>
   		{% endif %}
