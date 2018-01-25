@@ -1,10 +1,6 @@
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0' />
-
-	<link rel="canonical" href="http://www.videosmanguis.net/"/>
-		
 	{% if page.posting %}
-	 <link rel="prerender" href="{{page.next.url}}">
-	 <link rel="prerender" href="{{page.previous.url}}">
+	 <link rel="prerender" href="{{ page.next.url }}">
+	 <link rel="prerender" href="{{ page.previous.url }}">
 	{% endif %}
 		
 	<meta name="distribution" content="global"/>
