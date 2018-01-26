@@ -105,7 +105,7 @@
   "@context": "http://schema.org",
   "@type": "VideoObject",
   "name": "{{ page.title }}",
-  "description": "{{ page.excerpt }}",
+  "description": "{{ page.excerpt }}| normalize_whitespace | strip_html",
   "thumbnailUrl": [
     "https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg",
     "http://img.youtube.com/vi/{{ page.img }}/mqdefault.jpg",
