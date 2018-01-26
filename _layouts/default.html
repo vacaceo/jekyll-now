@@ -24,14 +24,6 @@
   </head>
 
   <body>
-{% if page.comments %}
-<?php
-$content = file_get_contents("http://youtube.com/get_video_info?video_id=CLtnbj67YjA");
-parse_str($content, $info);
-echo $info['title']."<br/>";
-echo $info['length_seconds']/60;
-?>
-{% endif %}
 
 			<!-- Theme inputs (invisibles) -->		
 		<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
