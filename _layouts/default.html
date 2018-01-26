@@ -24,6 +24,15 @@
   </head>
 
   <body>
+{% if page.comments %}
+<?php
+$content = file_get_contents("http://youtube.com/get_video_info?video_id=CLtnbj67YjA");
+parse_str($content, $info);
+echo $info['title']."<br/>";
+echo $info['length_seconds']/60;
+?>
+{% endif %}
+
 			<!-- Theme inputs (invisibles) -->		
 		<input type="radio" id="theme-light" name="theme" aria-hidden="true" hidden>
 		<input type="radio" id="theme-soft" name="theme" aria-hidden="true" hidden>
@@ -98,6 +107,27 @@
  }
 </script>
 {% endif %}
+{% if page.comments %}
+	<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "VideoObject",
+  "name": "{{ page.title }}",
+  "description": "Video description",
+  "thumbnailUrl": [
+    "https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg",
+    "http://img.youtube.com/vi/{{ post.img }}/mqdefault.jpg",
+    "http://img.youtube.com/vi/{{ post.img }}/01.jpg"
+   ],
+  "uploadDate": "{{ page.date }}",
+  "duration": "PT1M33S",
+  "contentUrl": "{{ site.baseurl }}{{ post.url }}",
+  "embedUrl": "{{ site.baseurl }}{{ post.url }}",
+  "interactionCount": "2347"
+}
+	</script>
+{% endif %}
+
     {% include analytics.html %}
   </body>
 </html>
