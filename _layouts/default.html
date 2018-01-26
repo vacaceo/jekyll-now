@@ -105,16 +105,16 @@
   "@context": "http://schema.org",
   "@type": "VideoObject",
   "name": "{{ page.title }}",
-  "description": "Video description",
+  "description": "{{ page.content }}",
   "thumbnailUrl": [
-    "https://i1.ytimg.com/vi/{{ post.img }}/maxresdefault.jpg",
-    "http://img.youtube.com/vi/{{ post.img }}/mqdefault.jpg",
-    "http://img.youtube.com/vi/{{ post.img }}/01.jpg"
+    "https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg",
+    "http://img.youtube.com/vi/{{ page.img }}/mqdefault.jpg",
+    "http://img.youtube.com/vi/{{ page.img }}/01.jpg"
    ],
   "uploadDate": "{{ page.date }}",
-  "duration": "PT1M33S",
-  "contentUrl": "{{ site.baseurl }}{{ post.url }}",
-  "embedUrl": "{{ site.baseurl }}{{ post.url }}",
+  "duration": "player.getDuration()",
+  "contentUrl": "{{ site.baseurl }}{{ page.url }}",
+  "embedUrl": "{{ site.baseurl }}{{ page.url }}",
   "interactionCount": "2347"
 }
 	</script>
