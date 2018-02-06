@@ -20,6 +20,7 @@ Acabamos de ver el nuevo trailer de SOLO: Una historia de Star Wars.
 ###### Veremos a Alden Eherenreich, Emilia Clarke, Donald Glover y el siempre genial Woody Harrelson en esta nueva entrega de Star Wars.
 
 ###### ¿El protagonista conseguirá que nos lo creamos de verdad como Solo? ¿Veremos también a Darth Vader? ¿R2-D2 y C3-PO aparecerán?
+
 ###### ¿Que retos tendrá que afrontar Han Solo? ¿Lo veremos en la academia realmente? ¿Habrán Jedi? ¿Saldrá Jar Jar Binks?
 
 ###### No vamos a adelantar nada aquí y ahora, que luego os quejáis de spoilers...
