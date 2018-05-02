@@ -7,7 +7,7 @@
 	<meta name="keywords" content="{% for tag in page.tags %} {{ tag }}, {% endfor %} humor, videos divertidos, notícias, series, cine, películas, review, youtuber" />
 	<meta name="description" content="Los YouTubers que estás buscando. {{ site.description }} | Programa semanal en Youtube, normalmente en directo aunque también hacemos montajes y videos divertidos con post-producción | Star Wars, DC Comics, Marvel, Rick and Morty, Stranger Things, Juego de Tronos, Disney" />
 	<meta name="robots" content="index, follow" />
-    <meta name="author" href="https://plus.google.com/{{ site.footer-links.googleplus }}" />
+    <meta name="author" href="http://isardmiralles.com" />
     <meta name="designer" content="Videos Manguis">
 	<meta name="google-site-verification" content="Fo93HRW1pYCpTH0Ms73QTpXnt3PVx2k_2DnPa4YJiNk" />
 	
@@ -32,12 +32,12 @@
 	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 	<meta name="twitter:creator" content="@{{ site.footer-links.twitter }}">
 	<!-- Twitter summary card with large image. Al menos estas medidas 280x150px -->
-	{% if page.img %}<meta name="twitter:image:src" content="http://img.youtube.com/vi/{{ page.img }}/default.jpg">{% endif %}
+	<meta name="twitter:image:src" content="http://img.youtube.com/vi/{{ page.img }}/default.jpg">
 	<!-- Open Graph data -->
 	<meta property="og:title" content="{{ page.title }}" />
 	<meta property="og:type" content="article" />
 	<meta property="og:url" content=" {{ site.baseurl }}" />
-	{% if page.img %}<meta property="og:image" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg" />{% endif %}
+	<meta property="og:image" content="https://i1.ytimg.com/vi/{{ page.img }}/maxresdefault.jpg" />
 	<meta property="og:description" content="{{ page.excerpt|  normalize_whitespace | strip_html }}" />
 	<meta property="og:site_name" content="{{ site.baseurl }}" />
 	<meta property="og:url" content="{{ site.url }}{{ page.url }}">
