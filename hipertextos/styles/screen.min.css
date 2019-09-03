@@ -1276,7 +1276,7 @@ nav label {
 }
 .simple article div img,
 #layout-simple:checked ~ #layout-result article div img {
-	height: 195px;
+	height: 390px;
 	margin-bottom: 2px;
 	object-fit: cover;
 	width: 100%;
@@ -2709,4 +2709,5 @@ dialog,
 	fill: #ffffff !important;
 	stroke: transparent !important;
 }
+
 
